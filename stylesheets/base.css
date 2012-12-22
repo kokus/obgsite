@@ -113,18 +113,19 @@ div.page_wrapper {
 		width: 220px;
 	}
 
-	/*
-	div.page_wrapper .page ul.events_display {
+	
+	 .page ul.events_display {
     	float: right;
     	list-style: none outside none;
     	margin-top: -60px;
 	}
 
-	div.page_wrapper .page ul.events_display {
+	.page ul.events_display {
     	list-style: none outside none;
 	}
 
-		.page_wrapper .page ul, .page_wrapper .page ol {
+/*
+	.page ul, .page_wrapper .page ol {
 		    color: #8C8C8C;
 		    font-size: 13px;
 		    line-height: 20px;
@@ -132,7 +133,7 @@ div.page_wrapper {
 		    margin-bottom: 25px;
 		    padding-left: 15px;
 		}
-
+*/
 	ul.events_display li.current a {
 	    background: none repeat scroll 0 0 #006699;
 	    color: #FFFFFF;
@@ -146,7 +147,7 @@ div.page_wrapper {
 	    padding: 5px 8px;
 	    text-decoration: none;
 	}
-	*/
+
 
 	/* Sub Heading */
 	div.sub_heading,
@@ -1622,7 +1623,7 @@ ul.events_display li {
 17. Events Page Detail
 ---------------------------------------------*/
 /* Dogs Attending Gallery */
-	div.event div.gallery { width: 890px; }
+	div.event div.gallery { width: 100%; }
 		div.event div.gallery ul {
 			overflow: hidden;
 			list-style: none outside none;
@@ -1650,4 +1651,32 @@ ul.events_display li {
 				     margin-top: 0px;
 				}
 				
-
+/*--------------------------------------------
+17. Dogs Gallery page
+---------------------------------------------*/
+.gallery_container {
+    width: 100%;
+    margin: 30px auto;
+    overflow: hidden;
+}
+.galleryItem {
+    color: #797478;
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: left;
+    /*  I want a four percent margin between each column, so multiply that by five columns and 
+    we know that twenty percent of our width will be eaten up by margins, which leaves eighty percent for 
+    content. Eighty percent divided by five equals a sixteen percent width for each column. */
+    width: 16%;
+    margin:  2% 2% 50px 2%; 
+}
+ 
+.galleryItem h2 {
+    text-transform: uppercase;
+}
+ 
+.galleryItem img {
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}

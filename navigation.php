@@ -9,7 +9,7 @@
 				<li><a href="#">Adoption Policies</a></li>
 				<li><a href="#">Adoption Process</a></li>
 				<li><a href="events.php">Adoption Events</a></li>
-				<li><a href="#">Our Dogs</a></li>
+				<li><a href="dogs.php">Our Dogs</a></li>
 			</ul>
 		</li>
 		<li>

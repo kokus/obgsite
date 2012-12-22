@@ -228,7 +228,9 @@
 	div#about img {
 		width: 100%;
 	}
-	
+
+	/* 18. Dog Gallery - Added JV 12-21-2012 */
+	 .galleryItem {width: 21%;}
 	
 }
 
@@ -560,7 +562,21 @@
 		div#programs div.one_third {
 			width: 100%;
 		}
-	
-	
-	
+	/* For Dog Gallery - Added JV 12-21-2012 */
+	 .galleryItem {
+	 	width: 29.33333%;
+	 }
+}
+
+/* For Dog Gallery - Added JV 12-21-2012 */
+@media screen and (max-width : 530px) and (max-device-width : 530px){
+    .galleryItem {width: 46%;}
+}
+/* For Dog Gallery - Added JV 12-21-2012 */
+@media screen and (max-width : 320px) and (max-device-width : 320px){
+    .galleryItem {width: 96%;}
+    .galleryItem img {width: 96%;}
+    .galleryItem h3 {font-size: 18px;}
+    .galleryItem p, {font-size: 18px;}
+}
 
