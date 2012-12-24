@@ -81,11 +81,7 @@
 	</header>
 	
 	<section class="page_heading">
-		<div class="logo container">
-			<a href="/" title="Oldies But Goodies Cocker Spaniel Rescue">&nbsp;</a>			
-			<span class="tagline">Oldies But Goodies Cocker Spaniel Rescue</span>
-		</div>
-		
+		<?php include("headerlogo.php"); ?>
 	</section>
 	
 	<div class="page_wrapper">

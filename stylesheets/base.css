@@ -428,7 +428,7 @@ div.flexslider-container {
 			border-radius: 5px;
 			text-align: center;
 			margin-right: 10px;	
-			font-size: 12px;	
+			font-size: 13px;	
 			float: left;
 			font-family: 'Cabin';
 			line-height: 13px;
@@ -1020,6 +1020,28 @@ div.widget { }
 					-moz-border-radius: 3px;
 					border-radius: 3px;
 				}
+
+
+ 	/* About Adoption */
+ 	div.widget div.sidebarlist ul{
+ 		list-style:disc;
+ 	}
+		div.widget div.sidebarlist ul li{
+ 			margin-bottom: 5px;
+ 			 color: #7D7D7D;
+ 		}
+
+		 	div.widget div.sidebarlist ul ul{
+		 		list-style:circle;
+		 		margin-left: 15px;
+		 	}
+
+	div.widget div.events div.details h5{
+		border-bottom: none;
+ 	}
+ 	div.widget div.events ul li {
+ 		border-bottom: none;
+ 	}
 /*--------------------------------------------
 9. Footer
 ---------------------------------------------*/
@@ -1680,3 +1702,13 @@ ul.events_display li {
     -moz-border-radius: 5px;
     border-radius: 5px;
 }
+
+/*--------------------------------------------
+17. Breadcrumbs
+---------------------------------------------*/
+div.breadcrumbs {
+    background: none repeat scroll 0 0 #EBEBEB;
+    overflow: hidden;
+    padding: 15px 0;
+}
+

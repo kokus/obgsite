@@ -79,10 +79,7 @@
 	</header>
 	
 	<section class="page_heading home">
-		<div class="logo container">
-			<a href="/" title="Oldies But Goodies Cocker Spaniel Rescue">&nbsp;</a>			
-			<span class="tagline">Oldies But Goodies Cocker Spaniel Rescue</span>
-		</div>
+		<?php include("headerlogo.php"); ?>
 	</section>
 	
 	<!-- Start Home -->
@@ -144,8 +141,8 @@
 						<div class="box one_half">
 							<div class="inner">
 								<div class="box_heading">
-									<span class="icon general-enclosed">2</span>
-									<h4>Buy Stuff</h4>
+									<span class="icon general-enclosed">b</span>
+									<h4><a href="#">Adopt</a></h4>
 								</div>
 								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
 							</div>
@@ -162,7 +159,7 @@
 						<div class="box one_half">
 							<div class="inner">
 								<div class="box_heading">
-									<span class="icon general-enclosed">~</span>
+									<span class="icon general-enclosed">c</span>
 									<h4>Donate</h4>
 								</div>
 								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
@@ -171,8 +168,8 @@
 						<div class="box one_half column_last">
 							<div class="inner">
 								<div class="box_heading">
-									<span class="icon general-enclosed">l</span>
-									<h4>Share</h4>
+									<span class="icon general-enclosed">2</span>
+									<h4>Shop</h4>
 								</div>
 								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
 							</div>
@@ -230,29 +227,29 @@
 							<li>
 								<div class="date"><span>23</span> May</div>
 								<div class="details">
-									<h5><a href="event_description.html">Rainforest Protection Meeting</a></h5>
-									<p>6pm @ Golden State Park</p>
+									<h5><a href="event_description.html">Adoption Show - Springfield, VA</a></h5>
+									<p>11am @ Springfield Petsmart</p>
 								</div>
 							</li>
 							<li>
-								<div class="date"><span>22</span> May</div>
+								<div class="date"><span style="">5</span> Jan</div>
 								<div class="details">
-									<h5><a href="event_description.html">Green Energy Conference</a></h5>
-									<p>2pm @ Menlo Park</p>
+									<h5><a href="event_description.html">Adoption Show - Rockville, MD</a></h5>
+									<p>11am @ Rockville Petsmart</p>
 								</div>
 							</li>
 							<li>
-								<div class="date"><span>21</span> May</div>
+								<div class="date"><span>12</span> Feb</div>
 								<div class="details">
-									<h5><a href="event_description.html">Organic Pot Luck Night!</a></h5>
-									<p>6pm @ Santa clara University</p>
+									<h5><a href="event_description.html">Bow Wow Bowl-a-Thon</a></h5>
+									<p>3pm @ AMC Lanes Springfield</p>
 								</div>
 							</li>
 							<li>
-								<div class="date"><span>18</span> May</div>
+								<div class="date"><span>19</span> Feb</div>
 								<div class="details">
-									<h5><a href="event_description.html">Beach Clean Up</a></h5>
-									<p>10am @ Venice Beach</p>
+									<h5><a href="event_description.html">Adoption Show - Arlington, VA</a></h5>
+									<p>12pm @ Dogma Bakery (Shirlington)</p>
 								</div>
 							</li>
 						</ul>

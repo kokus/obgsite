@@ -1,4 +1,4 @@
-<?php $thisPage="Adopt"; ?>
+<?php $thisPage="contact"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,7 +40,7 @@
 	<header>
 		<div class="container">		
 		<!-- Start Navigation -->
-			<?php include("navigation.php"); ?>
+		 <?php include("navigation.php"); ?>
 		<!-- End Navigation -->
 			
 			<!-- Start Social Icons -->
@@ -85,82 +85,78 @@
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar">
+			<div id="contact" class="page with_sidebar">
 				
-				<h1>Dogs Available</h1>
+				<h1>Contact</h1>
 				
 				<div class="full">
 					
-					<p class="larger">
-						<b>Check out dogs!</b> Sed posuere consectetur est at lobortis.</p>
-					<p>Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. sed.</p>
+					<p>For questions regarding donations, programs or how you can get involved with the revolution please contact us.</p>
+					
+					<div class="validation">
+						<p>Oops! Please correct the highlighted fields...</p>
+					</div>
+
+					<div class="success">
+						<p>Thanks! I'll get back to you shortly.</p>
+					</div>
+					
+					<form action="javascript:;" method="post" id="contact_form">
+						<div class="row">
+							<p>
+								<label for="name">Name</label>
+								<input type="text" name="name" id="name" />
+							</p>
+							<p>
+								<label for="phone">Phone</label>
+								<input type="text" name="phone" id="phone" />
+							</p>
+						</div>
+					
+						<div class="row">
+							<p>
+								<label for="email">Email</label>
+								<input type="text" name="email" id="email" />
+							</p>
+							<select>
+							  <option value="select">Subject</option>
+							  <option value="saab">Volunteer</option>
+							  <option value="mercedes">Donation</option>
+							  <option value="audi">Programs</option>
+							</select>
+						</div>
+						<p>
+							<label for="message">Message</label>
+							<textarea name="message" id="message"></textarea>
+						</p>
+						<input type="submit" class="button white" value="Send Email &rarr;" />
+					</form>
 				</div>
-				
-				<div id="programs">
+			
+				<!-- Start Location -->
+				<div id="location">
 					<div class="box_heading">
-						<h2>Cockers Needing a New Home</h2>
+						<h2>Our location</h2>
 						<span class="line"></span>
 					</div>
+					<div class="map">
+						<!--<iframe width="438" height="194" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Miami,+FL&amp;aq=0&amp;oq=Miami,+FL&amp;sll=26.464748,-80.109357&amp;sspn=0.110337,0.20359&amp;ie=UTF8&amp;hq=&amp;hnear=Miami,+Miami-Dade,+Florida&amp;t=m&amp;ll=25.789072,-80.226288&amp;spn=0.059971,0.150032&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>-->
+					</div>
+					<div class="one_fourth column_last">
+						<h4>Address</h4>
+						<p>
+							1234 Revolutionary Drive <br/>
+							Miami, FL 33445
+						</p>
+						<p>
+							<span class="icon general">r</span> 123.333.4524 <br/>
+							<span class="icon general">h</span> <a href="">info@revolution.com</a> <br/>
+							<span class="icon general">l</span> <a href="">www.revolution.com</a>
+						</p>
+					</div>
+					
 				</div>
-
-
-				<div class="gallery_container">
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 1</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 2</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 3</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 4</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 5</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 6</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 7</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 8</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 9</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				     <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 10</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				</div>
-
+				<!-- End Location -->
 
 			</div>
 			<!-- End Page Content -->
@@ -176,71 +172,101 @@
 								<input type="submit" value="Search" id="searchsubmit" class="button white">
 							</p>
 						</form>
-					</div>	
+					</div>
+					
+					<div class="widget">
+						<h5>Location</h5>
+						<div class="location_widget">
+							<p>
+								1234 Revolutionary Drive <br/>
+								Miami, FL 33445
+							</p>
+							<p>
+								<span class="icon general">r</span> 123.333.4524 <br/>
+								<span class="icon general">h</span> <a href="">info@revolution.com</a> <br/>
+								<span class="icon general">l</span> <a href="">www.revolution.com</a>
+							</p>
+						</div>
+					</div>
 						
 					<div class="widget">
-						<h5>About Adoption</h5>
-						<div class="sidebarlist">
+						<h5>Recent Posts</h5>
+						<div class="recent_posts">
 							<ul>
 								<li>
-									<a href="">Adoption Policies</a>
+									<a href="">Wildlife Protection</a>
 								</li>
 								<li>
-									<a href="">Adoption Process</a>
+									<a href="">Give a little, Get a lot</a>
 								</li>
-								<ul>
-									<li><a href="">Meet Your Match</a></li>
-									<li><a href="">Application</a></li>
-									<li><a href="">Home Visit</a></li>
-									<li><a href="">Contract &amp; Check</a></li>
-									<li><a href="">Welcome Home!</a></li>
-								</ul>
-				
+								<li>
+									<a href="">Whale Watch</a>
+								</li>
+								<li>
+									<a href="">Save the Rain Forest</a>
+								</li>
+								<li>
+									<a href="">Organic Gardening 101</a>
+								</li>
 							</ul>
 							
 						</div>
 					</div>
 					
 					<div class="widget">
-						<h5>Meet the Dogs!</h5>
-						<div class="events">
+						<h5>Categories</h5>
+						<div class="widget_categories">
 							<ul>
 								<li>
-									<div class="date"><span>12</span> Jan</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
-									</div>
+									<a href="">Wildlife <span>15</span></a>
 								</li>
 								<li>
-									<div class="date"><span>23</span> May</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
-									</div>
+									<a href="">Conservation <span>22</span></a>
+								</li>
+								<li>
+									<a href="">Environmental <span>17</span></a>
+								</li>
+								<li>
+									<a href="">Volunteer <span>6</span></a>
+								</li>
+								<li>
+									<a href="">Donate <span>12</span></a>
 								</li>
 							</ul>
+
 						</div>
 					</div>
 					
 					<div class="widget">
-						<h5>Medical</h5>
-						<div class="sidebarlist">
+						<h5>Gallery</h5>
+						<div class="gallery">
 							<ul>
-								<li>Complete Physical Exam</li>
-								<li>Spay or Neuter</li>
-								<li>Shots: Rabies, DHLPP &amp; Bordatella</li>
-								<li>Monthly Prevention Heartworm, Fleas &amp; Ticks</li>
-								<li>Senior Bloodwork</li>
-								<li>Non-Elective Surgery</li>
+								<li><img src="images/content/gallery_thumb_1.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_2.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_3.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_4.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_5.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_6.jpg" alt="" /></li>
 							</ul>
 						</div>
+						
 					</div>	
-
+						
+					<div class="widget">
+						<h5>Video</h5>
+						<div class="video">
+							<iframe src="" width="215" height="121"></iframe>
+						</div>
+						<p>by Revolution</p>
+					</div>
+						
 				</div>
 			</aside>
-			<!-- End Sidebar --> 
+			<!-- End Sidebar -->
 			
 		</section>
 	</div>
+	<!-- Page Wrapper -->
 	
 	<footer>
 		<div class="container">
@@ -259,15 +285,15 @@
 								
 				<form action="javascript:;" method="post">
 					
-					<p>Signup to receive breaking news.</p>
+					<p>Signup to recieve breaking news.</p>
 					
 					<p>
 						<label for="name">Name *</label>
-						<input type="text" name="name" id="name" value="" />
+						<input type="text" name="name" value="" />
 					</p>
 					<p>
 						<label for="email">Email *</label>
-						<input type="text" name="email" id="email" value="" />
+						<input type="text" name="email" value="" />
 					</p>
 					<input type="submit" class="button white" value="Signup &#x2192;" />
 				</form>

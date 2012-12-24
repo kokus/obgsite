@@ -1,8 +1,7 @@
-<?php $thisPage="Adopt"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>OBG Cocker Rescue</title>
+	<title>Advocate</title>
 	
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -39,9 +38,35 @@
 	
 	<header>
 		<div class="container">		
-		<!-- Start Navigation -->
-			<?php include("navigation.php"); ?>
-		<!-- End Navigation -->
+			<!-- Start Navigation -->
+			<nav>
+				<ul>
+					<li><a href="index.html">home</a></li>
+					<li><a href="about.html">about</a></li>
+					<li><a href="blog.html">blog</a></li>
+					<li><a href="events_list.html">events</a></li>
+					<li>
+						<a href="#">gallery</a>
+						<ul>
+							<li><a href="gallery_2_columns.html">Gallery 2 Columns</a></li>
+							<li><a href="gallery_3_columns.html">Gallery 3 Columns</a></li>
+							<li><a href="gallery_4_columns.html">Gallery 4 Columns</a></li>
+							<li>
+								<a href="#">Gallery With Sidebar &rarr;</a>
+								<ul>
+									<li><a href="gallery_2_columns_sidebar.html">2 Columns With Sidebar</a></li>
+									<li><a href="gallery_3_columns_sidebar.html">3 Columns With Sidebar</a></li>
+									<li><a href="gallery_4_columns_sidebar.html">4 Columns With Sidebar</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="current-menu-item"><a href="donate.html">donate</a></li>
+					<li><a href="contact.html">contact</a></li>
+					<li><a href="styles.html">styles</a></li>
+				</ul>
+			</nav>
+			<!-- End Navigation -->
 			
 			<!-- Start Social Icons -->
 			<aside>
@@ -78,92 +103,87 @@
 	</header>
 	
 	<section class="page_heading">
-		<?php include("headerlogo.php"); ?>
+		<div class="logo container">
+			<a href="">Advocate</a>			
+			<span class="tagline">a theme for non-profits, charities, activists and political campaigns</span>
+		</div>
 	</section>
 	
 	<div class="page_wrapper">
 		<section class="container">
 			
-			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar">
+			<!-- Start Donate -->
+			<div id="donate" class="page with_sidebar">
 				
-				<h1>Dogs Available</h1>
-				
-				<div class="full">
-					
-					<p class="larger">
-						<b>Check out dogs!</b> Sed posuere consectetur est at lobortis.</p>
-					<p>Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. sed.</p>
+				<h1>Donate</h1>
+				<div>
+				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 				</div>
 				
-				<div id="programs">
+				<div id="donation_level">
 					<div class="box_heading">
-						<h2>Cockers Needing a New Home</h2>
+						<h2>Every little bit counts</h2>
 						<span class="line"></span>
 					</div>
+					<p class="choose">Please choose a donation level.  Paypal and credit card accepted.</p>
+					<ul class="amount">
+						<li><a href="#" class="color_1">Donate <h3>$5</h3></a></li>
+						<li><a href="#" class="color_2">Donate <h3>$10</h3></a></li>
+						<li><a href="#" class="color_3">Donate <h3>$15</h3></a></li>
+						<li><a href="#" class="color_4">Donate <h3>$25</h3></a></li>
+						<li><a href="#" class="color_5">Donate <h3>$50</h3></a></li>
+					</ul>
 				</div>
-
-
-				<div class="gallery_container">
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 1</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 2</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 3</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 4</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 5</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 6</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 7</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 8</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 9</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				     <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 10</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
+				<!-- End Donate -->
+				
+				<!-- Start Actions -->
+				<div id="actions">
+					<div class="box_heading">
+						<h2>More ways to help</h2>
+						<span class="line"></span>
+					</div>
+					<div class="box one_half">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">2</span>
+								<h4>Buy Stuff</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half column_last">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">o</span>
+								<h4>Volunteer</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">~</span>
+								<h4>Donate</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half column_last">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">l</span>
+								<h4>Share</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
 				</div>
-
+				<!-- End Actions -->
+				
+				
 
 			</div>
-			<!-- End Page Content -->
 			
 			<!-- Start Sidebar -->
 			<aside>
@@ -179,66 +199,80 @@
 					</div>	
 						
 					<div class="widget">
-						<h5>About Adoption</h5>
-						<div class="sidebarlist">
+						<h5>Recent Posts</h5>
+						<div class="recent_posts">
 							<ul>
 								<li>
-									<a href="">Adoption Policies</a>
+									<a href="">Wildlife Protection</a>
 								</li>
 								<li>
-									<a href="">Adoption Process</a>
+									<a href="">Give a little, Get a lot</a>
 								</li>
-								<ul>
-									<li><a href="">Meet Your Match</a></li>
-									<li><a href="">Application</a></li>
-									<li><a href="">Home Visit</a></li>
-									<li><a href="">Contract &amp; Check</a></li>
-									<li><a href="">Welcome Home!</a></li>
-								</ul>
-				
+								<li>
+									<a href="">Whale Watch</a>
+								</li>
+								<li>
+									<a href="">Save the Rain Forest</a>
+								</li>
+								<li>
+									<a href="">Organic Gardening 101</a>
+								</li>
 							</ul>
 							
 						</div>
 					</div>
 					
 					<div class="widget">
-						<h5>Meet the Dogs!</h5>
-						<div class="events">
+						<h5>Categories</h5>
+						<div class="widget_categories">
 							<ul>
 								<li>
-									<div class="date"><span>12</span> Jan</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
-									</div>
+									<a href="">Wildlife <span>15</span></a>
 								</li>
 								<li>
-									<div class="date"><span>23</span> May</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
-									</div>
+									<a href="">Conservation <span>22</span></a>
+								</li>
+								<li>
+									<a href="">Environmental <span>17</span></a>
+								</li>
+								<li>
+									<a href="">Volunteer <span>6</span></a>
+								</li>
+								<li>
+									<a href="">Donate <span>12</span></a>
 								</li>
 							</ul>
+
 						</div>
 					</div>
 					
 					<div class="widget">
-						<h5>Medical</h5>
-						<div class="sidebarlist">
+						<h5>Gallery</h5>
+						<div class="gallery">
 							<ul>
-								<li>Complete Physical Exam</li>
-								<li>Spay or Neuter</li>
-								<li>Shots: Rabies, DHLPP &amp; Bordatella</li>
-								<li>Monthly Prevention Heartworm, Fleas &amp; Ticks</li>
-								<li>Senior Bloodwork</li>
-								<li>Non-Elective Surgery</li>
+								<li><img src="images/content/gallery_thumb_1.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_2.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_3.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_4.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_5.jpg" alt="" /></li>
+								<li><img src="images/content/gallery_thumb_6.jpg" alt="" /></li>
 							</ul>
 						</div>
+						
 					</div>	
-
+						
+					<div class="widget">
+						<h5>Video</h5>
+						<div class="video">
+							<iframe src="http://player.vimeo.com/video/43580167?title=0&amp;byline=0&amp;portrait=0" width="215" height="121"></iframe>
+						</div>
+						<p>by Revolution</p>
+					</div>
+						
 				</div>
 			</aside>
-			<!-- End Sidebar --> 
-			
+			<!-- End Sidebar -->
+	
 		</section>
 	</div>
 	
@@ -259,7 +293,7 @@
 								
 				<form action="javascript:;" method="post">
 					
-					<p>Signup to receive breaking news.</p>
+					<p>Signup to recieve breaking news.</p>
 					
 					<p>
 						<label for="name">Name *</label>
