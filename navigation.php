@@ -1,7 +1,8 @@
 <nav>
 	<ul>
-		<li<?php if ($thisPage=="Home") echo " class=\"current-menu-item\""; ?>><a href="/">Home</a></li>
-		<li<?php if ($thisPage=="Adopt") echo " class=\"current-menu-item\""; ?>>
+		<!-- if ($thisPage=="Home") echo " class=\"current-menu-item\""; -->
+		<li><a href="/">Home</a></li>
+		<li>
 			<a href="adopt.php">Adopt</a>
 			<ul>
 				<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
@@ -21,7 +22,7 @@
 				<li><a href="vol_other_way_help.php">Other Ways To Help</a></li>
 			</ul>
 		</li>
-		<li<?php if ($thisPage=="donate") echo " class=\"current-menu-item\""; ?>><a href="donate.php">Donate</a>
+		<li><a href="donate.php">Donate</a>
 			<ul>
 				<li><a href="donate_designate_funds.php">Designate Funds</a></li>
 				<li><a href="donate_donate_online.php">Donate Online</a></li>
