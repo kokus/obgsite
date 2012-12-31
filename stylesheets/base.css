@@ -1025,6 +1025,7 @@ div.widget { }
  	/* About Adoption */
  	div.widget div.sidebarlist ul{
  		list-style:disc;
+ 		padding-left: 18px;
  	}
 		div.widget div.sidebarlist ul li{
  			margin-bottom: 5px;
@@ -1313,6 +1314,7 @@ img.rounded {
 	text-shadow: 0 1px 0 #2e2e2e;
 }
 .button.black a { color: #fff }
+
 .donate_button {
 	float: right;
 	margin-top: 8px;
@@ -1325,6 +1327,7 @@ img.rounded {
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 }
+
 /*--------------------------------------------
 12. Lists
 ---------------------------------------------*/
@@ -1710,5 +1713,23 @@ div.breadcrumbs {
     background: none repeat scroll 0 0 #EBEBEB;
     overflow: hidden;
     padding: 15px 0;
+}
+
+/*--------------------------------------------
+18. Additional Side Bars
+---------------------------------------------*/
+div.widget a.buttonsidebar {
+
+	padding: 8px 18px;
+	color: #fff;
+	background: #998000;
+	text-decoration: none;
+	border: 1px solid #d7d8d6;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+}
+
 }
 

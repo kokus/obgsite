@@ -175,89 +175,40 @@
 					</div>
 					
 					<div class="widget">
-						<h5>Location</h5>
+						<h5>Contact Information</h5>
 						<div class="location_widget">
 							<p>
-								1234 Revolutionary Drive <br/>
-								Miami, FL 33445
-							</p>
-							<p>
-								<span class="icon general">r</span> 123.333.4524 <br/>
-								<span class="icon general">h</span> <a href="">info@revolution.com</a> <br/>
-								<span class="icon general">l</span> <a href="">www.revolution.com</a>
+								<span class="icon general">r</span> 703.533.2373 (Voice Mail)<br/>
+								<span class="icon general">l</span> <a href="http://www.cockerspanielrescue.com<">www.cockerspanielrescue.com</a><br/><br/>
+								
+								<span class="icon general">h</span> General Information</br><a href="mailto:info@cockerspanielrescue.com">info@cockerspanielrescue.com</a> <br/>
+								<span class="icon general">h</span> Adoption Inquiry</br><a href="mailto:adoptinquiry@cockerspanielrescue.com">adoptinquiry@cockerspanielrescue.com</a> <br/>
+								<span class="icon general">h</span> Donations</br><a href="mailto:donations@cockerspanielrescue.com">donations@cockerspanielrescue.com</a> <br/>
+								<span class="icon general">h</span> Fundraising</br><a href="mailto:fundraising@cockerspanielrescue.com">fundraising@cockerspanielrescue.com</a> <br/>
+								<span class="icon general">h</span> Surrender</br><a href="mailto:intake@cockerspanielrescue.com">intake@cockerspanielrescue.com</a> <br/>
+								<span class="icon general">h</span> Volunteer</br><a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> <br/>
 							</p>
 						</div>
 					</div>
-						
-					<div class="widget">
-						<h5>Recent Posts</h5>
-						<div class="recent_posts">
-							<ul>
-								<li>
-									<a href="">Wildlife Protection</a>
-								</li>
-								<li>
-									<a href="">Give a little, Get a lot</a>
-								</li>
-								<li>
-									<a href="">Whale Watch</a>
-								</li>
-								<li>
-									<a href="">Save the Rain Forest</a>
-								</li>
-								<li>
-									<a href="">Organic Gardening 101</a>
-								</li>
-							</ul>
-							
-						</div>
-					</div>
-					
-					<div class="widget">
-						<h5>Categories</h5>
-						<div class="widget_categories">
-							<ul>
-								<li>
-									<a href="">Wildlife <span>15</span></a>
-								</li>
-								<li>
-									<a href="">Conservation <span>22</span></a>
-								</li>
-								<li>
-									<a href="">Environmental <span>17</span></a>
-								</li>
-								<li>
-									<a href="">Volunteer <span>6</span></a>
-								</li>
-								<li>
-									<a href="">Donate <span>12</span></a>
-								</li>
-							</ul>
 
+					<div class="widget">
+						<h5>General Mailing Address</h5>
+						<div class="location_widget">
+							<p>
+								PO Box 361 <br/>
+								Newington, VA 22122
+							</p>
 						</div>
 					</div>
-					
+
 					<div class="widget">
-						<h5>Gallery</h5>
-						<div class="gallery">
-							<ul>
-								<li><img src="images/content/gallery_thumb_1.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_2.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_3.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_4.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_5.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_6.jpg" alt="" /></li>
-							</ul>
+						<h5>Vet Record Mailing Address</h5>
+						<div class="location_widget">
+							<p>
+								PO Box ??? <br/>
+								Spencerville, MD ?????
+							</p>
 						</div>
-						
-					</div>	
-						
-					<div class="widget">
-						<h5>Video</h5>
-						<div class="video">
-							<iframe src="" width="215" height="121"></iframe>
-						</div>
-						<p>by Revolution</p>
 					</div>
 						
 				</div>
@@ -268,55 +219,9 @@
 	</div>
 	<!-- Page Wrapper -->
 	
-	<footer>
-		<div class="container">
-			<div class="widget one_fourth">
-				<h2 class="logo">Advocate</h2>
-				<p>This is a text widget, you can add anything you’d like to this area. Maybe  a little more info about your organization or perhaps even a bit of html.</p>
-			</div>
-			<div class="widget one_fourth">
-				<h5>Twitter</h5>
-				
-				<div class="twitter_stream"></div>
-				
-			</div>
-			<div class="widget one_fourth">
-				<h5>Newsletter</h5>
-								
-				<form action="javascript:;" method="post">
-					
-					<p>Signup to recieve breaking news.</p>
-					
-					<p>
-						<label for="name">Name *</label>
-						<input type="text" name="name" value="" />
-					</p>
-					<p>
-						<label for="email">Email *</label>
-						<input type="text" name="email" value="" />
-					</p>
-					<input type="submit" class="button white" value="Signup &#x2192;" />
-				</form>
-			</div>
-			<div class="widget one_fourth column_last">
-				<h5>Location</h5>
-				<div class="location_widget">
-					<p>
-						1234 Revolutionary Drive <br/>
-						Miami, FL 33445
-					</p>
-					<p>
-						<span class="icon general">r</span> 123.333.4524 <br/>
-						<span class="icon general">h</span> <a href="">info@revolution.com</a> <br/>
-						<span class="icon general">l</span> <a href="">www.revolution.com</a>
-					</p>
-				</div>
-			</div>
-			<div class="copy">
-				<p>Copyright &copy;2012 Advocate. All Rights Reserved.</p>
-			</div>
-		</div>
-	</footer>
+	<!-- Footer -->
+	<?php include("footer.php"); ?>
+	<!-- End Footer -->
 	
 </body>
 </html>

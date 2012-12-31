@@ -83,7 +83,7 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Adopt
+		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Adopt</div>
 	</div>
 
 	<div class="page_wrapper" style="padding: 15px 0;">
@@ -100,9 +100,9 @@
 		</section>
 	</div>
 		
-	<footer>
-		<?php include("footer.php"); ?>
-	</footer>
+<!-- Footer -->
+	<?php include("footer.php"); ?>
+<!-- End Footer -->
 	
 </body>
 </html>
