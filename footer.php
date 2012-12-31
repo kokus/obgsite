@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="widget one_fourth">
 				<h2 class="logo">Our Mission</h2>
-				<p>This is a text widget, you can add anything you’d like to this area. Maybe  a little more info about your organization or perhaps even a bit of html.</p>
+				<p>To rescue, rehabilitate and rehome cocker spaniels and spaniel mixes of all ages, while providing a positive experience for our community of adopters, volunteers and supporters.</p>
 			</div>
 			<div class="widget one_fourth">
 				<h5>Twitter</h5>

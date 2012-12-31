@@ -104,7 +104,7 @@ $(document).ready(function() {
 	
 	// Twitter widget
 	$(".twitter_stream").tweet({
-		username: "envato", // Customize your twitter username here
+		username: "obgcockerrescue", // Customize your twitter username here
 		count: 2,
 		template: "<span class='icon social'>x</span> <div class='tweet_details'>{text}{time}</div>",
 		retweets: false,

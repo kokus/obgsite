@@ -35,7 +35,7 @@
 		<li><a href="about.php">About OBG</a>
 			<ul>
 				<li><a href="about_timeline.php">Timeline</a></li>
-				<li><a href="about_bod.php">BOD</a></li>
+				<li><a href="about_bod.php">Board &amp; Officers</a></li>
 			</ul>
 		</li>
 		<li><a href="news.php">News</a>
