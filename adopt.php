@@ -1,4 +1,4 @@
-<?php $thisPage="adopt"; ?>
+<?php $thisPage="Adopt"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,14 +35,13 @@
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	
 </head>
-
 <body>
 	
 	<header>
 		<div class="container">		
-			<!-- Start Navigation -->
+		<!-- Start Navigation -->
 			<?php include("navigation.php"); ?>
-			<!-- End Navigation -->
+		<!-- End Navigation -->
 			
 			<!-- Start Social Icons -->
 			<aside>
@@ -83,26 +82,44 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Adopt</div>
+		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Adopt
 	</div>
 
-	<div class="page_wrapper" style="padding: 15px 0;">
+	<div class="page_wrapper">
 		<section class="container">
 			
-			<!-- Start Event List -->
-			<div id="events_list" class="page">
+			<!-- Start Page Content -->
+			<div id="whyadopt" class="page with_sidebar">
 				
 				<h1>Adopt</h1>
+				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
+					great choice! &nbsp;Click the links below to learn more about adopting from OBG Cocker Rescue!</p>
+				<ul>
+					<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
+					<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
+					<li><a href="adopt_adoption_policies.php">Adoption Policies</a></li>
+					<li><a href="adopt_adoption_process.php">Adoption Process</a></li>
+					<li><a href="adopt_events.php">Adoption Shows</a></li>
+					<li><a href="adopt_dogs.php">Available Dogs</a></li>
+				</ul>
+				
+				
 				
 
+
 			</div>
-				
+			<!-- End Page Content -->
+			
+			<!-- Start Sidebar -->
+			<?php include("sidebar_adopt.php"); ?>
+			<!-- End Sidebar --> 
+			
 		</section>
 	</div>
-		
-<!-- Footer -->
+	
+	<!-- Footer -->
 	<?php include("footer.php"); ?>
-<!-- End Footer -->
+	<!-- End Footer -->
 	
 </body>
 </html>

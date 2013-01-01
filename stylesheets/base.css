@@ -1102,6 +1102,7 @@ p {
 	font-size: 13px;
 	line-height: 20px;
 	color: #8c8c8c;
+	margin-bottom: 15px;
 }
 	p.larger {
 		font-size: 16px;		
@@ -1730,6 +1731,16 @@ div.widget a.buttonsidebar {
 	border-radius: 5px;
 
 }
+
+div.page ul{
+ 		list-style:disc;
+ 		padding-left: 18px;
+ 	}
+		div.page ul li{
+ 			margin-bottom: 5px;
+ 			 color: #7D7D7D;
+ 		}
+
 
 }
 
