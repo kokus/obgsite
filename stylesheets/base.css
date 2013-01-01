@@ -1732,11 +1732,12 @@ div.widget a.buttonsidebar {
 
 }
 
-div.page ul{
+div.page ul.contentpage{
  		list-style:disc;
  		padding-left: 18px;
+ 		   margin-bottom: 20px;
  	}
-		div.page ul li{
+		div.page ul.contentpage li{
  			margin-bottom: 5px;
  			 color: #7D7D7D;
  		}

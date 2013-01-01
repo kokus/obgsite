@@ -92,9 +92,10 @@
 			<div id="whyadopt" class="page with_sidebar">
 				
 				<h1>Adopt</h1>
+				<img class="rounded" alt="" src="images/content/Capitol_Cockers2.jpg" width="700px" height="224px">
 				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
 					great choice! &nbsp;Click the links below to learn more about adopting from OBG Cocker Rescue!</p>
-				<ul>
+				<ul class="contentpage">
 					<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
 					<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
 					<li><a href="adopt_adoption_policies.php">Adoption Policies</a></li>
