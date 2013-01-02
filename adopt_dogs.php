@@ -111,57 +111,57 @@
 
 				<div class="gallery_container">
 				    <div class="galleryItem">
+				        <a href="#"><img src="images/content/cubbybud04.jpg" alt=""></a>
+				        <h5>Cubby</h5>
+				        <p>Lorem ipsum dolor sit amet..</p>
+				    </div>
+				 
+				    <div class="galleryItem">
+				        <a href="#"><img src="images/content/gingersnap01.jpg" alt=""></a>
+				        <h5>Ginger</h5>
+				        <p>Lorem ipsum dolor sit amet..</p>
+				    </div>
+				    <div class="galleryItem">
+				        <a href="#"><img src="images/content/misty01.jpg" alt=""></a>
+				        <h5>Misty</h5>
+				        <p>Lorem ipsum dolor sit amet..</p>
+				    </div>
+				 
+				    <div class="galleryItem">
+				        <a href="#"><img src="images/content/sawyer07.jpg" alt=""></a>
+				        <h5>Sawyer</h5>
+				        <p>Lorem ipsum dolor sit amet..</p>
+				    </div>
+				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 1</h4>
+				        <h5>Dog 5</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				 
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 2</h4>
+				        <h5>Dog 6</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 3</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 4</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 5</h4>
+				        <h5>Dog 7</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				 
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 6</h4>
+				        <h5>Dog 8</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 7</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				 
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 8</h4>
-				        <p>Lorem ipsum dolor sit amet..</p>
-				    </div>
-				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 9</h4>
+				        <h5>Dog 9</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				     <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
-				        <h4>Dog 10</h4>
+				        <h5>Dog 10</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				</div>
