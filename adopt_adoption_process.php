@@ -105,7 +105,7 @@
 						<li>Find your perfect match
 							<ul>
 								<li>Check out adoptable dogs on our website</li>
-								<li>Visit Adoption Events to meet lots of dogs at once! &nbsp;<br>
+								<li>Visit Adoption Events to meet lots of dogs at once! &nbsp;
 								<em>(The dog you fall for &quot;in the fur&quot; might surprise you!)</em></li>
 								<li>Work with one of our Adoption Counselors - email&nbsp;<a href="mailto:adoptinquiry@cockerspanielrescue.com">adoptinquiry@cockerspanielrescue.com</a>&nbsp;to get started.<br>
 								&nbsp;</li>
@@ -117,7 +117,7 @@
 						&nbsp;</li>
 						<li>Once approved, we contact you to set up your adoption day! &nbsp;Prepare for your new pet by purchasing necessary supplies - including mandatory name tag for the collar.<br>
 						&nbsp;</li>
-						<li>On adoption day, you welcome your new family member. &nbsp;We receive the&nbsp;<a href="#Contract">Adoption Contract</a>&nbsp;&amp;&nbsp;<a href="#Fees">Fee</a>&nbsp;(Adoption fees are payable by check.<br>
+						<li>On adoption day, you welcome your new family member. &nbsp;We receive the&nbsp;<a href="#Contract">Adoption Contract</a>&nbsp;&amp;&nbsp;<a href="#Fees">Fee</a>&nbsp;(Adoption fees are payable by check.)<br>
 						&nbsp;</li>
 						<li>You take your new dog to the vet within one week of adoption and promptly mail in vet report.<br>
 						&nbsp;</li>
@@ -140,11 +140,11 @@
 
 				<div id="programs">
 					<div class="box_heading">
-						<h2>Rehabilitation: Medical and Behavioral</h2>
+						<h2><a name="Rehabilitation">Rehabilitation: Medical and Behavioral</a></h2>
 						<span class="line"></span>
 					</div>
-					<p>OBG takes great pride in our dogs and treat them as we would our own.&nbsp; To that end, we take a holistic approach and attempt to address both their medical and behavioral needs while getting them ready for their foster home. &nbsp;We disclose any medical or behavioral conditions with you prior to the placement of any dog.<br>
-						Unless otherwise noted, our&nbsp;dogs have received the following medical treatments:</p>
+					<p>OBG takes great pride in our dogs and treat them as we would our own.&nbsp; To that end, we take a holistic approach and attempt to address both their medical and behavioral needs while getting them ready for their foster home. &nbsp;We disclose any medical or behavioral conditions with you prior to the placement of any dog.</p>
+					<p>Unless otherwise noted, our&nbsp;dogs have received the following medical treatments:</p>
 					<ul class="contentpage">
 						<li>Complete vet exam</li>
 						<li>Spay/neuter</li>
@@ -192,7 +192,7 @@
 					<p>Our adoption contract is a binding legal contract that we will walk through with you at the time of adoption. &nbsp;As we do not 
 						have a foster-to-adopt program, we instead offer a two week trial period, where you are able to return your selected dog for a full 
 						refund of the adoption fee. &nbsp;After that two week period, your dog is considered adopted; but if you can&#39;t keep your dog at 
-						ny point throughout their life, we will always take them back - in fact, we insist on it!</p>
+						any point throughout their life, we will always take them back - in fact, we insist on it!</p>
 
 					<p><em>Highlights of the Adoption Contract:</em></p>
 

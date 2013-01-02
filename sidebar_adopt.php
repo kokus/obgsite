@@ -19,17 +19,17 @@
 						<div class="sidebarlist">
 							<ul>
 								<li>
-									<a href="">Adoption Policies</a>
+									<a href="adopt_adoption_policies.php">Adoption Policies</a>
 								</li>
 								<li>
-									<a href="">Adoption Process</a>
+									<a href="adopt_adoption_process.php">Adoption Process</a>
 								</li>
 								<ul>
-									<li><a href="">Meet Your Match</a></li>
-									<li><a href="">Application</a></li>
-									<li><a href="">Home Visit</a></li>
-									<li><a href="">Contract &amp; Check</a></li>
-									<li><a href="">Welcome Home!</a></li>
+									<li><a href="adopt_dogs.php">Meet Your Match</a></li>
+									<li><a href="adopt_adoption_process.php#Application">Application</a></li>
+									<li><a href="adopt_adoption_process.php#Homecheck">Home Visit</a></li>
+									<li><a href="adopt_adoption_process.php#Contract">Contract &amp; Check</a></li>
+									<li><a href="learn_bringing_your_new_dog_home.php">Welcome Home!</a></li>
 								</ul>
 				
 							</ul>
@@ -68,7 +68,7 @@
 								<li>Complete Physical Exam</li>
 								<li>Spay or Neuter</li>
 								<li>Shots: Rabies, DHLPP &amp; Bordatella</li>
-								<li>Monthly Prevention Heartworm, Fleas &amp; Ticks</li>
+								<li>Monthly Prevention for Heartworm, Fleas &amp; Ticks</li>
 								<li>Senior Bloodwork</li>
 								<li>Non-Elective Surgery</li>
 							</ul>
