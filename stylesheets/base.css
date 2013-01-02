@@ -92,7 +92,7 @@ section.page_heading {
 
 		section.page_heading .logo .tagline {
 			font-family: 'Pacifico';
-			font-size: 18px;
+			font-size: 28px;
 			color: #fff;
 			display: inline-block;
 			margin-top: 0px;
@@ -154,7 +154,7 @@ div.page_wrapper {
 	div.box_heading {
 		text-align: center;
 		position: relative;
-		margin-bottom: 30px;
+		margin-bottom: 10px;
 	}
 	div.box_heading { text-align: left; }
 		div.sub_heading h2,
@@ -1716,6 +1716,10 @@ div.breadcrumbs {
     padding: 15px 0;
 }
 
+div.breadcrumbs a {
+margin-left: 42px;
+}
+
 /*--------------------------------------------
 18. Additional Side Bars
 ---------------------------------------------*/
@@ -1732,6 +1736,12 @@ div.widget a.buttonsidebar {
 
 }
 
+div.widget a.buttonred {
+
+	background: #990018;
+
+}
+
 div.page ul.contentpage{
  		list-style:disc;
  		padding-left: 18px;
@@ -1742,6 +1752,62 @@ div.page ul.contentpage{
  			 color: #7D7D7D;
  		}
 
+div.page ol.contentpageorder {
+	padding-left: 18px;
+ 	margin-bottom: 20px;
+
+}
+	div.page ol.contentpageorder li {
+		 margin-bottom: 5px;
+ 		color: #7D7D7D;
+	}
+
+		div.page ol.contentpageorder li ul {
+		 	list-style: circle outside none;
+	    	margin-left: 15px;
+		}
+
+			div.page ol.contentpageorder li ul li{
+			 	color: #7D7D7D;
+    			margin-bottom: 5px;
+			}
+
+
+	div.page h2 {
+		margin-bottom: 15px;
+	}
+
+	div.page div.box_heading h2 {
+		margin-bottom: 0px;
+	}
+
+	div.page div.pagelinks {
+		margin-bottom: 20px;
+	}
+
+	div.page .timeline {
+		 color: #006699;
+	    font-family: 'Pacifico';
+	    font-size:24px;
+	}
+
+	div.page div#programs div.bod_pic {
+		float: left;
+	    background: none repeat scroll 0 0 #F5F5F5;
+	    border-radius: 5px 5px 5px 5px;
+	    width: 30%;
+
+	}
+
+	div.page div#programs div.bod_bio {
+		float:right;
+		 width: 59%;
+
+	}
+
+	div#programs {
+		overflow: hidden;
+	}
 
 }
 

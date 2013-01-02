@@ -85,7 +85,7 @@
 	</section>
 
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Events
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Events
 	</div>
 	
 	<div class="page_wrapper">

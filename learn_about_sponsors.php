@@ -82,14 +82,14 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;About Sponsors
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;About Sponsors
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 
 			<h1>About Our Sponsors</h1>
 				<div class ="full">

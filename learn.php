@@ -1,4 +1,4 @@
-<?php $thisPage="adopt"; ?>
+<?php $thisPage="Adopt"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,14 +35,13 @@
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	
 </head>
-
 <body>
 	
 	<header>
 		<div class="container">		
-			<!-- Start Navigation -->
+		<!-- Start Navigation -->
 			<?php include("navigation.php"); ?>
-			<!-- End Navigation -->
+		<!-- End Navigation -->
 			
 			<!-- Start Social Icons -->
 			<aside>
@@ -83,26 +82,32 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Learn</div>
+		<a href="/">Home</a>&nbsp;/&nbsp;Learn
 	</div>
 
-	<div class="page_wrapper" style="padding: 15px 0;">
+	<div class="page_wrapper">
 		<section class="container">
 			
-			<!-- Start Event List -->
-			<div id="events_list" class="page">
+			<!-- Start Page Content -->
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Learn</h1>
-				
+				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
+
 
 			</div>
-				
+			<!-- End Page Content -->
+			
+			<!-- Start Sidebar -->
+			<?php include("sidebar_adopt.php"); ?>
+			<!-- End Sidebar --> 
+			
 		</section>
 	</div>
-		
-<!-- Footer -->
+	
+	<!-- Footer -->
 	<?php include("footer.php"); ?>
-<!-- End Footer -->
+	<!-- End Footer -->
 	
 </body>
 </html>

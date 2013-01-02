@@ -82,17 +82,17 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Adopt
+		<div><a href="/">Home</a>&nbsp;/&nbsp;Adopt</div>
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Adopt</h1>
-				<img class="rounded" alt="" src="images/content/Capitol_Cockers2.jpg" width="700px" height="224px">
+				<img class="rounded" alt="" src="images/content/700x244_Adopt.jpg">
 				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
 					great choice! &nbsp;Click the links below to learn more about adopting from OBG Cocker Rescue!</p>
 				<ul class="contentpage">
@@ -104,10 +104,6 @@
 					<li><a href="adopt_dogs.php">Available Dogs</a></li>
 				</ul>
 				
-				
-				
-
-
 			</div>
 			<!-- End Page Content -->
 			

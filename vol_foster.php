@@ -82,19 +82,67 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Foster
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Foster
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Foster</h1>
-				
-				
 
+				<p>Since OBG doesn&#39;t have a physical shelter, foster-volunteers are the lifeblood of our organization. Fosters temporarily care for rescued cockers in a home environment, thus allowing abused or abandoned dogs to be more easily rehabilitated and re-socialized prior to being adopted. &nbsp;</p>
+
+				<p>Foster homes are always needed! It&#39;s a great way to have a doggy buddy in your home for a while, without the long-term commitment of ownership. If you love dogs, but can&#39;t adopt, try fostering! &nbsp;Of course, this requires patience and understanding, together with a good sense of humor.&nbsp;&nbsp;<strong><em>Most importantly, it is an incredibly rewarding experience!</em></strong></p>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>About Fostering</h2>
+						<span class="line"></span>
+					</div>
+					<p>We recognize that fostering isn&#39;t one-size-fits-all, so we have a few options available:</p>
+					<ul class="contentpage">
+						<li><strong>Foster </strong>-&nbsp;One of the most rewarding things you&#39;ll ever do! Temporarily care for the rescued cocker in your home until a forever home is found; this generally averages 1-4 months. OBG provides the medical care, you provide the love.</li>
+						<li><strong>Vacation Foster</strong> -&nbsp;Even the most devoted members of our foster crew can use a vacation. You can foster someone else&#39;s &quot;baby&quot; for a defined period of time, allowing them to have peace of mind while they&#39;re out-of-town.</li>
+						<li><strong>Weekend Foster&nbsp;</strong>- pick up a dog for the weekend. We find it much easier to place a dog in a regular foster home once we have an idea of how he or she behaves in a home environment.</li>
+						<li><strong>Hospice Foster</strong>&nbsp;- Some dogs might not have long to live, but still deserve a chance at love for the time they have left. Allow us to take in these dogs by giving them a home where they are loved and cherished.</li>
+					</ul>
+
+					<p>One might be right for you now, another might be right for you next time - the type of foster you are is not set in stone!</p>
+				</div>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Expectations</h2>
+						<span class="line"></span>
+					</div>
+					<ul class="contentpage">
+						<li>We cover the cost of vet care, you provide the food and love!</li>
+						<li>You advocate for your foster dog by replying to interested adopters in a timely manner and bringing your foster to adoption shows.</li>
+						<li>We provide guidance on the transition of bringing a new dog into your home. &nbsp;</li>
+					</ul>
+
+					<p>Without fosters, OBG is limited inthe number of cockers we can save from shelters before they are put down. After what some of these dogs have suffered, can you provide the loving care and comfort so necessary to reassure these dogs that the human race is compassionate after all?</p>
+				</div>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>How to Become a Foster</h2>
+						<span class="line"></span>
+					</div>
+					<ol class="contentpageorder">
+						<li>Fill out a foster/volunteer application</li>
+						<li>We perform a Home Check and explain the foster process</li>
+						<li>You read foster guidelines (and cheat sheet!)</li>
+						<li>Work with your foster coordinator to find the right fit</li>
+						<li>Pick up your first foster dog!</li>
+					</ol>
+
+					<p>We thank all our foster families for giving of themselves to the wigglebutts in need.<br>&nbsp;<br>
+					If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
+				</div>
 
 			</div>
 			<!-- End Page Content -->

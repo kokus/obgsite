@@ -96,27 +96,21 @@
 					<div id="slider" class="flexslider">
 						<ul class="slides">
 							<li>
-						      	<img src="images/content/Capitol_Cockers2.jpg" alt="" />
+						      	<img src="images/content/Capitol_Cockers.jpg" alt="" />
 								<p class="flex-caption">
-									<b>Protect Endangered Animals</b> - This is a great place to draw attention to your cause or charity with a bold image and some descriptive text.
+									Serving DC, MD and VA since 1996, we qualified for CFC National Capital Region! <b><em>CFC #27768</em></b>. 
 								</p>
 						    </li>
 						    <li>
-						      	<img src="images/content/slide-2.jpg" alt="" />
+						      	<img src="images/content/950x355_slider_Arbuckle.jpg" alt="" />
 								<p class="flex-caption">
-									<b>Protect Our Coral Reefs</b> - This slider is also responsive,  so your visitors see your site exactly as intended, no matter what device they're using.
+									Happy Holidays from OBG!  We hope Santa brought you all you wished for!
 								</p>								
 						    </li>
 							<li>
-						      	<img src="images/content/slide-3.jpg" alt="" />
+						      	<img src="images/content/950x355_slider_Adams.jpg" alt="" />
 								<p class="flex-caption">
-									<b>Plant a Tree</b> - Advocate theme features unlimited color options and Google fonts making it easy to customize to your unique purpose.
-								</p>
-						    </li>
-						    <li>
-						      	<img src="images/content/slide-4.jpg" alt="" />
-								<p class="flex-caption">
-									<b>Save the Rainforest</b> - Bring awareness to your cause with style and function. 
+									Need a New Years Resolution?  How about committing to foster a homeless pet!
 								</p>
 						    </li>
 						  </ul>

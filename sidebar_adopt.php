@@ -36,6 +36,10 @@
 							
 						</div>
 					</div>
+
+					<div class="widget">
+						<a class="buttonsidebar buttonred" href="http://cockerspanielrescue.rescuegroups.org/forms/form_humanverify?formid=2401">Apply Now!</a>
+					</div>
 					
 					<div class="widget">
 						<h5>Meet the Dogs!</h5>

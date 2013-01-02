@@ -82,7 +82,7 @@
 	</section>
 
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;Donate
+		<a href="/">Home</a>&nbsp;/&nbsp;Donate
 	</div>
 	
 	<div class="page_wrapper">
@@ -90,8 +90,9 @@
 			
 			<!-- Start Donate -->
 			<div id="donate" class="page with_sidebar">
-				
+
 				<h1>Donate</h1>
+				<img class="rounded" alt="" src="images/content/700x244_Donate.jpg">
 				<div>
 				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 				</div>

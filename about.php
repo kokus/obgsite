@@ -82,20 +82,45 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;About OBG
+		<a href="/">Home</a>&nbsp;/&nbsp;About OBG
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>About OBG</h1>
-				
-				
+				<img class="rounded" alt="" src="images/content/700x244_v2_Learn.jpg">
 
+				<p>Established in 1996, Oldies But Goodies Cocker Rescue (OBG) rescues, rehabilitates and rehomes cockers and spaniel mixes of all ages. Placing more than 300 dogs a year, we are committed to finding wonderful homes for dogs from shelters or from owners who can no longer care for them.</p>
+				
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Mission Statement</h2>
+						<span class="line"></span>
+					</div>
 
+					<p>To rescue, rehabilitate and rehome cocker spaniels and spaniel mixes of all ages, while providing a positive experience for our community of adopters, volunteers and supporters.</p>
+				</div>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>The &quot;Three R&#39;s&quot;</h2>
+						<span class="line"></span>
+					</div>
+
+					<ul class="contentpage">
+						<li>Rescue: OBG accepts unwanted dogs directly from owners and from shelters. &nbsp;We are a no-kill organization and have never euthanized a dog for being &quot;too old&quot; or with us for &quot;too long&quot;. &nbsp;We rarely euthanize, and then only for severe medical or behavioral issues (i.e. terminal conditions when the animal is clearly suffering)</li>
+						<li>Rehabilitate: OBG looks at the dog holistically and attempts to care for their medical and behavioral needs while they are in our group. &nbsp;We provide complete vetting (spay/neuter, vaccines, any non-elective surgeries). &nbsp;We do not have a physical shelter facility, so all of our dogs are placed in a loving foster home before adoption. We see it as a &quot;win&quot; for everyone - animals are less stressed, we save on boarding costs, and adopters benefit because foster families have carefully observed their personalities and temperaments in order to place them in the right home.</li>
+						<li>Rehome: OBG&#39;s goal is to find a forever home for each of our dogs, but we commit to the dogs for life. &nbsp;They will always have a home with us if they need it. &nbsp;We require a dog to come back to OBG if an adoption does not work out and, although we are not an animal sanctuary, the occasional foster dog will live out their remaining days in a foster home (never being adopted, but dearly loved nonetheless).</li>
+					</ul>
+				</div>
+
+				<p>Trivia:&nbsp; Many people think the name &ldquo;Oldies But Goodies&rdquo; references the senior dogs that were saved by OBG; however, legend has it that the name &ldquo;Oldies But Goodies&rdquo; came about because our founder said that people threw out dogs like a pair of old shoes (no matter what their age).</p>
+
+				<p>Trivia:&nbsp; Spaniel does not appear in the organization&rsquo;s name because there weren&rsquo;t enough blanks in the form used for filing the 501c3 application!</p>
 			</div>
 			<!-- End Page Content -->
 			

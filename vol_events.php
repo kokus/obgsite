@@ -82,18 +82,26 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Help at Adoption Events
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Help at Adoption Events
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Help at Adoption Events</h1>
-				
-				
+				<p>Let&#39;s face it, we all volunteer because we love dogs - so what could be better than spending time with them? &nbsp;Nothing! &nbsp;We knew you&#39;d agree, so consider volunteering at an OBG adoption show.</p>
+
+				<ul class="contentpage">
+					<li><strong>Handle a dog</strong>&nbsp;- volunteers willing to hold a dog at an adoption show are always welcome. &nbsp;After all, most of our adoptions happen from shows!</li>
+					<li><strong>Interact with our dogs</strong>&nbsp;- especially helpful if you can take high-quality digital pictures or can provide knowledgable behavior assessments.</li>
+					<li><strong>Be the face of OBG</strong>&nbsp;- welcome potential adopters or supporters and help find them a match!</li>
+				</ul>
+				<p>Many of our volunteers start by attending adoption events and eventually learn how to manage shows. &nbsp;We are always looking for show managers who are organized, punctual, professional and have good people skills!</p>
+
+				<p>If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
 
 
 			</div>

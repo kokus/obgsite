@@ -82,19 +82,25 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;Education &amp; Resources
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;Education &amp; Resources
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Education &amp; Resources</h1>
 				
-				
-
+				<ul class="contentpage">
+					<li><a href="learn_bringing_your_new_dog_home.php">Bringing Your New Dog Home</a></li>
+					<li><a href="">Fanconi Syndrome</a></li>
+					<li><a href="">Puppy Mill Dogs</a></li>
+					<li><a href="">Pet Loss</a></li>
+					<li><a href="">Your Dog&#39;s Friend</a></li>
+					<li><a href="">Other Cocker Rescues</a></li>
+				</ul>
 
 			</div>
 			<!-- End Page Content -->

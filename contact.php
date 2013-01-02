@@ -88,7 +88,8 @@
 			<div id="contact" class="page with_sidebar">
 				
 				<h1>Contact</h1>
-				
+				<img class="rounded" alt="" src="images/content/700x244_v3_Biscuit.jpg">
+
 				<div class="full">
 					
 					<p>For questions regarding donations, programs or how you can get involved with the revolution please contact us.</p>

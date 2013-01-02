@@ -82,7 +82,7 @@
 	</section>
 
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Our Dogs
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Our Dogs
 	</div>
 	
 	<div class="page_wrapper">

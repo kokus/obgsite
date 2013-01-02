@@ -82,18 +82,35 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<div class="container"><a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Other Ways to Help
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Other Ways to Help
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="whyadopt" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 				
 				<h1>Other Ways to Help</h1>
 				
-				
+				<p>Whatever your talents and interests, you&#39;ll find that you really can make a difference! &nbsp;Volunteers and fosters are not paid with this nonprofit 501(c)(3) organization. We hope you&#39;ll find that the amazing feeling you get when saving a life will be payment enough!&nbsp;</p>
+
+				<p>OBG can always use an extra pair of hands for:</p>
+
+				<ul class="contentpage">
+					<li><strong>Grooming&nbsp;</strong>and bathing foster dogs</li>
+					<li><strong>Photographing or videoing</strong>&nbsp;to promote kenneled dogs</li>
+					<li><strong>Monitoring</strong>&nbsp;and responding to public inquiries through the phone or Internet</li>
+					<li><strong>Administrative</strong>,&nbsp;management, and newsletter skills such as editing, typing, graphics, and journalism</li>
+					<li><strong>Publicity&nbsp;&nbsp;</strong>through the ability to post shows online or hang flyers in your neighborhood</li>
+					<li><strong>Website&nbsp;</strong>skills such as updating and maintaining a very active website</li>
+					<li><strong>Public speaking&nbsp;skills</strong> to further educate school children on the proper care of a pet</li>
+					<li><strong>Fundraising&nbsp;or event planning</strong> skills to further strengthen this organization financially</li>
+					<li><strong>Voting&nbsp;</strong>for OBG in the Animal Shelter Site&#39;s Shelter Challenge</li>
+					<li><strong>Baking&nbsp;</strong>tasty treats and/or helping sell at our bake sales</li>
+				</ul>
+
+				<p>If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &nbsp;&lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
 
 
 			</div>
