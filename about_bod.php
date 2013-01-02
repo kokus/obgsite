@@ -104,7 +104,7 @@
 						<span class="line"></span>
 					</div>
 					<div class="one_third">
-						<a href="#"><img src="images/content/BBAUER_150x150.jpg" alt=""></a>
+						<a href="#"><img src="images/content/Beth-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Beth Bauer, President</h4>
@@ -114,7 +114,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Karen-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Karen Bryson, VP Intake</h4>
@@ -126,7 +126,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/TButler-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Teresa Butler, VP Adoptions</h4>
@@ -138,7 +138,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Deb-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Deb Adler</h4>
@@ -148,7 +148,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Sue-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Sue Cannon</h4>
@@ -160,7 +160,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Connie-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Connie Gay</h4>
@@ -181,7 +181,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Cheryl-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Cheryl Haralson</h4>
@@ -193,7 +193,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/CeCe2-(145x152).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>CeCe Holman</h4>
@@ -220,7 +220,7 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Angela-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Angela Robinson</h4>
@@ -240,7 +240,7 @@
 						<span class="line"></span>
 					</div>
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Angela-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Angela Robinson - Secretary</h4>
