@@ -138,7 +138,7 @@
 									<span class="icon general-enclosed">b</span>
 									<h4><a href="#">Adopt</a></h4>
 								</div>
-								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+								<p>Save a life, adopt!  Check out all our adoptable dogs and learn more about adopting through OBG.</p>
 							</div>
 						</div>
 						<div class="box one_half column_last">
@@ -147,7 +147,7 @@
 									<span class="icon general-enclosed">o</span>
 									<h4>Volunteer</h4>
 								</div>
-								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+								<p>We need you!  Learn how your time can make a difference for this all-volunteer group.</p>
 							</div>
 						</div>
 						<div class="box one_half">
@@ -156,7 +156,7 @@
 									<span class="icon general-enclosed">c</span>
 									<h4>Donate</h4>
 								</div>
-								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+								<p>Every little bit counts!  Feel confident knowing that your donation will go directly to the dogs.</p>
 							</div>
 						</div>
 						<div class="box one_half column_last">
@@ -165,7 +165,7 @@
 									<span class="icon general-enclosed">2</span>
 									<h4>Shop</h4>
 								</div>
-								<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+								<p>Use our links when shopping online - we get credit!  And stop by our online store for all things cocker.</p>
 							</div>
 						</div>
 					</div>
@@ -178,7 +178,7 @@
 					<span class="icon general">l</span>
 					<div class="text">
 						<h3>Donate what you can to help</h3>
-						<span class="color">Your tax-free donation helps us do stuff for people, animals and communities in need.</span>
+						<span class="color">Your tax-free donation helps OBG provide medical care and temporary boarding for 300 dogs per year.</span>
 					</div>
 					<a href="#" class="donate_button">Donate Now!</a>
 				</div>

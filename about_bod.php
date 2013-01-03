@@ -93,10 +93,7 @@
 				
 				<h1>Board of Directors &amp; Officers</h1>
 				<div class="full">
-					<p>We are passionate about creating beautiful, flexible themes with feature-rich and easy to customize 
-					options. This particular theme was designed specifically for non-profit organizations to help 
-					give back to our communities and our planet. It is also perfect for charity drives, political 
-					campaigns or any other donation based organization.</p>
+					<p>These folks work tirelessly (often behind the scenes) to ensure Happy Tails - for both dogs and adopters!  Very few give more of themselves to OBG than this special group of people...</p>
 				</div>
 				<div id="programs">
 					<div class="box_heading">
@@ -118,9 +115,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Karen Bryson, VP Intake</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<p>Karen runs our dog intake and has the heartwarming task of getting to say "yes" and the heartbreaking task of having to say "no".  She and her husband, Brian, perform countless transports to scoop dogs up from shelters, often at a moment's notice when a dog's life is on the line.  The Brysons are avid fosters, including several special-needs Fanconi dogs, and have adopted many OBG alumni - one of whom is even a therapy dog!</p>
 					</div>
 				</div>
 
@@ -142,7 +137,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Deb Adler</h4>
-						<p>Active with OBG since 2005, Deb started as a transport volunteer. Since then, she has fostered approximately 25 cockers, working with dogs that have anxiety or medical issues. She also worked with the intake team for 2-1/2 years by coordinating the transfer and transport of surrendered animals to OBG. Deb has also assisted with homechecks, organized several Maryland yard sales, groomed intake dogs, and coordinated the logowear clothing opportunity for OBG volunteers. Deb's special interests include working with dogs that have special needs such as epilepsy or blindness. Deb and her family recently started a "Cans for Canines" aluminum can recycling fundraising program in her community. As a former elementary school teacher, she would love to see OBG reach out to the younger members of our community through a humane education program. Her family includes former OBG alums, Nick, Bubba, and Rusty as well as her husband, Jeff and son, Blaine.</p>
+						<p>Active with OBG since 2005, Deb started as a transport volunteer - but she didn't stop there! Since then, she has been part of the intake team, written dog bios and organized several fundraising events.  Along with her family, she has fostered approximately 25 cockers, working with dogs that have anxiety or medical issues. She has a special interest in working with dogs that have special needs such as epilepsy or blindness. Deb and her family started a "Cans for Canines" aluminum can recycling program in their community. As a former elementary school teacher, she would love to see OBG reach out to youngsters through a humane education program. She lives in MD with her husband, Jeff and son, Blaine, as well as OBG alum,  Rusty.</p>
 					</div>
 				</div>
 
@@ -152,9 +147,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Sue Cannon</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<p>Sue provides a warm welcome as our volunteer coordinator.  We're lucky that hers is the first smiling face many of our new volunteer get to see!  Though she's one of the newer members of our board, she brings new energy to the group.  She's also has proven to be incredibly reliable and detail oriented with our dog data.  She dotes on her two human daughters and fur kid, OBG alum Missy!</p>
 					</div>
 				</div>
 
@@ -164,18 +157,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Connie Gay</h4>
-						<p>Connie started volunteering with OBG in January 2007 as a foster parent. She and her husband are especially fond of the seniors and have 
-							fostered a fair number including a couple for hospice and comfort care. &nbsp; They are failed fosters as we adopted three of our 
-							fosters, Molly, B.J and &ldquo;Air&rdquo; Bruce! I do transport, especially for dogs going to specialists. I have volunteered with Intake, 
-							working with owners who need to give up their dogs and coordinating with the intake chair and transport.</p> 
-
-							<p>As a Virginia Show Manager and the Virginia Adoption Show Coordinator I enjoy working with volunteers, adopters and of course the 
-							wonderful dogs. I review and evaluate adoption applications and interview possible adoption applicants. I also do home-checks for 
-							prospective fosters and adopters. I work closely with the Virginia foster coordinator and the volunteer coordinator.</p>
-
-							<p>Serving as a board member for the last two years has been a rewarding and educational experience. I hope that as a board member I can 
-							continue to help OBG improve its policies and procedures and keep us a caring organization dedicated to the welfare of cockers 
-							and &ldquo;honorary&rdquo; cockers in need.</p>
+						<p>Connie started volunteering with OBG in January 2007 as a foster parent. She is especially fond of the seniors and has fostered a fair number of them, including some needing hospice and comfort care.  Other fosters ended up staying put - Connie's three dogs, "Air" Bruce, Almond and DeeDee are lovingly referred to as "failed fosters" because she and her husband couldn't bear to part with them! Prior to moving out of the area, Connie was active in overseeing Virginia adoption shows.  She still remains committed to cockers - especially the seniors - in her new neck of the woods, and has continued to provide temp foster and transport for dogs to help them get to OBG.</p>
 					</div>
 				</div>
 
@@ -223,12 +205,12 @@
 						<a href="#"><img src="images/content/Angela-(150x150).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
-						<h4>Angela Robinson</h4>
-						<p>Angela has volunteered with OBG for over 10 years now and have served on the board for much of that time. Her volunteer activities have 
-							included: fostering and successfully placing over 30 dogs; participating in and helping run numerous fundraising events; acting as 
-							the group&rsquo;s &ldquo;face&rdquo; on multiple media outlets including WUSA&rsquo;s Petline 9, Fox 5 mid-day news, and 
-							the WJZW 105.9 &ldquo;Spectrum&rdquo; program. &nbsp;She also created and continues to operate the OBG&rsquo;s &ldquo;Donation Card&rdquo;
-							program, and assists with the production of OBG&rsquo;s President&rsquo;s Letter.</p>
+						<h4>Angela Robinson - Secretary</h4>
+						<p>Angela has volunteered with OBG for over 10 years and has served on the board for much of that time. Her volunteer 
+							activities have included: fostering and successfully placing over 30 dogs; organizing numerous fundraising events; 
+							acting as the group’s “face” on multiple media outlets including WUSA’s Petline 9, Fox 5 mid-day news, and the 
+							WJZW 105.9 “Spectrum” program.  She also created and continues to operate the OBG’s “Donation Card” program, 
+							and assists with the production of OBG’s President’s Letter.</p>
 					</div>
 				</div>
 
@@ -240,27 +222,13 @@
 						<span class="line"></span>
 					</div>
 					<div class="one_third">
-						<a href="#"><img src="images/content/Angela-(150x150).jpg" alt=""></a>
-					</div>
-					<div class="two_thirds column_last">
-						<h4>Angela Robinson - Secretary</h4>
-						<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum.</p>
-					</div>
-				</div>
-
-
-				<div id="programs">
-					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/JimM-(173x172).jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Jim Mich - Treasurer</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum.</p>
 					</div>
 				</div>
-				
 				
 			</div>
 			<!-- End Page Content -->
