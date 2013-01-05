@@ -302,7 +302,13 @@
 	
 	section.page_heading .logo .tagline {
 		margin-top: -9px;
+		width:230px;
 	}
+
+	section.page_heading .logo a {
+	    margin-right: 15px;
+	}
+
 	div#home .page {
 		margin-top: 125px;
 	}
