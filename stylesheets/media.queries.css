@@ -31,9 +31,9 @@
 /* For iPads and Tablets */
 @media screen and (min-width:751px) and (max-width:970px) {
 	
-	/* 1. Global */	
+	/* 1. Global - used to be 768 change for ipad portrait with new OBG logo*/	 
 	.container {
-		width: 768px;
+		width: 791px;
 		margin: 0 auto;
 	}
 
