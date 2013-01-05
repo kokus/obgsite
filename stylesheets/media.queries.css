@@ -33,7 +33,7 @@
 	
 	/* 1. Global - used to be 768 change for ipad portrait with new OBG logo*/	 
 	.container {
-		width: 791px;
+		width: 768px;
 		margin: 0 auto;
 	}
 

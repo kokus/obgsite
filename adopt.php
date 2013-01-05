@@ -81,9 +81,9 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 	
-	<div class="breadcrumbs">
+	<!--<div class="breadcrumbs">
 		<div><a href="/">Home</a>&nbsp;/&nbsp;Adopt</div>
-	</div>
+	</div>-->
 
 	<div class="page_wrapper">
 		<section class="container">
