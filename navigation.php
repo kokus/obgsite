@@ -62,3 +62,36 @@
 		</li>
 	</ul>
 </nav>
+
+<!-- Start Social Icons -->
+<aside>
+	<ul class="social icon">
+		<li><a href="https://twitter.com/OBGcockerrescue" title="Twitter">a</a></li>
+		<li><a href="https://www.facebook.com/OBGcockerrescue" title="Facebook">v</a></li>
+		<li><a href="http://pinterest.com/source/cockerspanielrescue.com/" class="Pinterest">p</a></li>
+		<li><a href="" title="Flickr">d</a></li>
+		<li><a href="" title="Youtube">d</a></li>
+		<!-- More Social Icons:					
+		<li><a href="" title="Vimeo">c</a></li>
+		<li><a href="" title="Google">t</a></li>
+		<li><a href="" title="RSS">b</a></li>
+		<li><a href="" title="Picasa">e</a></li>
+		<li><a href="" title="dribbble">f</a></li>
+		<li><a href="" title="Forrst">g</a></li>
+		<li><a href="" title="deviantART">h</a></li>
+		<li><a href="" title="WordPress">i</a></li>
+		<li><a href="" title="Blogger">j</a></li>
+		<li><a href="" title="Yahoo!">k</a></li>
+		<li><a href="" title="Amazon">l</a></li>
+		<li><a href="" title="LinkedIn">m</a></li>
+		<li><a href="" title="Last.fm">n</a></li>
+		<li><a href="" title="StumbleUpon">o</a></li>
+		<li><a href="" title="Xing">q</a></li>
+		<li><a href="" title="SoundCloud">r</a></li>
+		<li><a href="" title="Delicious">s</a></li>
+		<li><a href="" title="Mail">u</a></li>
+		<li><a href="" title="Google">w</a></li>
+		-->
+	</ul>
+</aside>
+<!-- End Social Icons -->
