@@ -124,6 +124,7 @@
 									<h4><a href="donate.php">Donate</a></h4>
 								</div>
 								<p>Every little bit counts!  Feel confident knowing that your donation will go directly to the dogs.</p>
+								<p style="text-align:center;"><b>CFC#&nbsp;27768&nbsp;&nbsp;|&nbsp;&nbsp;MCC#&nbsp;8951</b></p>
 							</div>
 						</div>
 						<div class="box one_half column_last">
@@ -157,7 +158,7 @@
 					<!-- Start News -->
 					<div class="news one_third">
 						<div class="box_heading">
-							<h2>Blog</h2>
+							<h2>News</h2>
 							<span class="line"></span>
 						</div>
 						<ul>

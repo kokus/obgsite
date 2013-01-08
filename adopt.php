@@ -68,7 +68,7 @@
 					<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
 					<li><a href="adopt_adoption_policies.php">Adoption Policies</a></li>
 					<li><a href="adopt_adoption_process.php">Adoption Process</a></li>
-					<li><a href="adopt_events.php">Adoption Shows</a></li>
+					<li><a href="adopt_events.php">Adoption Events</a></li>
 					<li><a href="adopt_dogs.php">Available Dogs</a></li>
 				</ul>
 				

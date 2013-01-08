@@ -82,18 +82,26 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;About
+		<a href="/">Home</a>&nbsp;/&nbsp;News
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar">
+			<div id="blog" class="page with_sidebar">
 				
-				<h1>About</h1>
-				<img class="rounded" alt="" src="images/content/700x244_v2_Learn.jpg">
-
+				<h1>News</h1>
+				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
+				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
+					great choice! &nbsp;Click the links below to learn more about adopting from OBG Cocker Rescue!</p>
+				<ul class="contentpage">
+					<li><a href="news_obg_news.php">OBG News</a></li>
+					<li><a href="http://obgcockerconnection.blogspot.com/">Blog - OBG Cocker Connection</a></li>
+					<li><a href="adopt_events.php">Events &amp; Fundraisers</a></li>
+					<li><a href="news_newsletters.php">Newsletters</a></li>
+				</ul>
+				
 				
 			</div>
 			<!-- End Page Content -->

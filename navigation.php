@@ -5,8 +5,12 @@
 		<li>
 			<a href="adopt.php">Adopt</a>
 			<ul>
-				<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
-				<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
+				<li><a href="#">Considering Adopion?</a>
+					<ul>
+						<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
+						<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
+					</ul>
+				</li>
 				<li><a href="adopt_adoption_policies.php">Adoption Policies</a></li>
 				<li><a href="adopt_adoption_process.php">Adoption Process</a></li>
 				<li><a href="adopt_events.php">Adoption Events</a></li>
@@ -32,10 +36,19 @@
 				<li><a href="donate_gift.php">GIFT</a></li>
 			</ul>
 		</li>
-		<li><a href="about.php">About OBG</a>
+		<li><a href="about.php">About</a>
 			<ul>
-				<li><a href="about_timeline.php">Timeline</a></li>
-				<li><a href="about_bod.php">Board &amp; Officers</a></li>
+				<li>
+					<a href="about_obg.php">About OBG &rarr;</a>
+					<ul>
+						<li><a href="about_timeline.php">Timeline</a></li>
+						<li><a href="about_bod.php">Board &amp; Officers</a></li>
+					</ul>
+				</li>
+				<li><a href="about_cockers.php">About Cockers</a></li>
+				<li><a href="about_sponsors.php">About Sponsors</a></li>
+				<li><a href="about_education_resources.php">Education &amp; Resources</a></li>
+				<li><a href="about_why_rescue_breed.php">About Breed Specific Rescue</a></li>
 			</ul>
 		</li>
 		<li><a href="news.php">News</a>
@@ -44,14 +57,6 @@
 				<li><a href="news_connection_blog.php">OBG Cocker Connection Blog</a></li>
 				<li><a href="news_events.php">Events &amp; Foundraisers</a></li>
 				<li><a href="news_newsletter.php">Newsletters</a></li>
-			</ul>
-		</li>
-		<li><a href="learn.php">Learn</a>
-			<ul>
-				<li><a href="learn_about_cockers.php">About Cockers</a></li>
-				<li><a href="learn_about_sponsors.php">About Sponsors</a></li>
-				<li><a href="learn_education_resources.php">Education &amp; Resources</a></li>
-				<li><a href="learn_why_rescue_breed.php">About Breed Specific Rescue</a></li>
 			</ul>
 		</li>
 		<li><a href="shop.php">Shop</a></li>

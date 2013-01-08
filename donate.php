@@ -57,7 +57,7 @@
 		<section class="container">
 			
 			<!-- Start Donate -->
-			<div id="donate" class="page with_sidebar">
+			<div id="about" class="page with_sidebar">
 
 				<h1>Donate</h1>
 				<img class="rounded" alt="" src="images/content/700x244_Donate.jpg">

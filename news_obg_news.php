@@ -82,18 +82,49 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;About
+		<a href="/">Home</a>&nbsp;/&nbsp;News
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar">
+			<div id="blog" class="page with_sidebar">
 				
-				<h1>About</h1>
-				<img class="rounded" alt="" src="images/content/700x244_v2_Learn.jpg">
-
+				<h1>OBG News</h1>
+				
+				<!-- Start Blog Post -->
+				<div class="post">
+					<img src="images/content/blog-1.jpg" alt="" class="rounded" />
+					<h3><a href="blog_single.html">Wildlife Protection</a></h3>
+					<div class="meta">
+						<span class="date"> <span class="icon general">i</span> June 27</span>
+					</div>
+					<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. <a href="blog_single.html">read more...</a></p>
+				</div>
+				<!-- End Blog Post -->
+				
+				<!-- Start Blog Post -->
+				<div class="post">
+					<img src="images/content/blog-post_1.jpg" alt="" class="rounded" />
+					<h3><a href="blog_single.html">Give a little, Get a lot</a></h3>
+					<div class="meta">
+						<span class="date"> <span class="icon general">i</span> June 2, 2012</span>
+					</div>
+					<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. <a href="blog_single.html">read more...</a></p>
+				</div>
+				<!-- End Blog Post -->
+				
+				<!-- Start Blog Post -->
+				<div class="post">
+					<img src="images/content/blog-post_4.jpg" alt="" class="rounded" />
+					<h3><a href="blog_single.html">Whale Watch</a></h3>
+					<div class="meta">
+						<span class="date"> <span class="icon general">i</span> May 30</span>
+					</div>
+					<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. <a href="blog_single.html">read more...</a></p>
+				</div>
+				<!-- End Blog Post -->
 				
 			</div>
 			<!-- End Page Content -->
