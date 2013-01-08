@@ -1,7 +1,7 @@
 <nav>
 	<ul>
 		<!-- if ($thisPage=="Home") echo " class=\"current-menu-item\""; -->
-		<li><a href="/">Home</a></li>
+		<li><a href="index.php">Home</a></li>
 		<li>
 			<a href="adopt.php">Adopt</a>
 			<ul>

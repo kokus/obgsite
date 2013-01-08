@@ -50,28 +50,20 @@
 	</section>
 	
 	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;Learn
+		<a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;About Sponsors
 	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar" style="height: 1503px;">
+			<div id="about" class="page with_sidebar">
+
+			<h1>Your Dog's Friend</h1>
+				<div class ="full">
+					<p>Content Here</p>
+				</div>
 				
-				<h1>Learn</h1>
-				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
-
-				<?php 
-
-					//require_once("xml2array.php"); 
-					//$xml = 'http://obgthemesite.site:8888/data/UJpSrvX3.xml';
-					//$array =  xml2array(file_get_contents($xml)); 
-					//print_r($array);
-
-				?>
-
-
 
 
 			</div>

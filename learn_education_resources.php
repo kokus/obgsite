@@ -63,11 +63,11 @@
 				
 				<ul class="contentpage">
 					<li><a href="learn_bringing_your_new_dog_home.php">Bringing Your New Dog Home</a></li>
-					<li><a href="">Fanconi Syndrome</a></li>
-					<li><a href="">Puppy Mill Dogs</a></li>
-					<li><a href="">Pet Loss</a></li>
-					<li><a href="">Your Dog&#39;s Friend</a></li>
-					<li><a href="">Other Cocker Rescues</a></li>
+					<li><a href="learn_fanconi_syndrome.php">Fanconi Syndrome</a></li>
+					<li><a href="learn_puppy_mill_dogs.php">Puppy Mill Dogs</a></li>
+					<li><a href="learn_pet_loss.php">Pet Loss</a></li>
+					<li><a href="learn_your_dogs_friend.php">Your Dog&#39;s Friend</a></li>
+					<li><a href="learn_other_cocker_resources.php ">Other Cocker Rescues</a></li>
 				</ul>
 
 			</div>

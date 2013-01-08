@@ -103,7 +103,7 @@
 							<div class="inner">
 								<div class="box_heading">
 									<span class="icon general-enclosed">b</span>
-									<h4><a href="#">Adopt</a></h4>
+									<h4><a href="adopt.php">Adopt</a></h4>
 								</div>
 								<p>Save a life, adopt!  Check out all our adoptable dogs and learn more about adopting through OBG.</p>
 							</div>
@@ -112,7 +112,7 @@
 							<div class="inner">
 								<div class="box_heading">
 									<span class="icon general-enclosed">o</span>
-									<h4>Volunteer</h4>
+									<h4><a href="volunteer.php">Volunteer</a></h4>
 								</div>
 								<p>We need you!  Learn how your time can make a difference for this all-volunteer group.</p>
 							</div>
@@ -121,7 +121,7 @@
 							<div class="inner">
 								<div class="box_heading">
 									<span class="icon general-enclosed">c</span>
-									<h4>Donate</h4>
+									<h4><a href="donate.php">Donate</a></h4>
 								</div>
 								<p>Every little bit counts!  Feel confident knowing that your donation will go directly to the dogs.</p>
 							</div>
@@ -147,7 +147,7 @@
 						<h3>Donate what you can to help</h3>
 						<span class="color">Your tax-free donation helps OBG provide medical care and temporary boarding for 300 dogs per year.</span>
 					</div>
-					<a href="#" class="donate_button">Donate Now!</a>
+					<a href="donate.php" class="donate_button">Donate Now!</a>
 				</div>
 				<!-- End Help -->		
 				

@@ -1809,5 +1809,10 @@ div.page ol.contentpageorder {
 		overflow: hidden;
 	}
 
+	div.rescue-list-nav {
+		text-align: center;
+		padding-bottom: 25px;
+	}
+
 }
 
