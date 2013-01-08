@@ -1814,5 +1814,25 @@ div.page ol.contentpageorder {
 		padding-bottom: 25px;
 	}
 
+/*--------------------------------------------
+19. Breadcrumbs
+---------------------------------------------*/
+	div.breadcrumb_navigation {
+		clear:both;
+		display:block;
+		 margin-bottom: 20px;
+	}
+		div.breadcrumb_navigation .breadcrumb_list {
+			list-style: none outside none;
+			color: #7D7D7D;
+			font-size: 12px;
+		}
+			div.breadcrumb_navigation .breadcrumb_list li {
+				display: inline-block;
+				margin-left: 0;
+			}
+
+
+
 }
 

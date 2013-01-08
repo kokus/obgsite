@@ -1,4 +1,3 @@
-<?php $thisPage="Adopt"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,7 +57,17 @@
 			
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
-				
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Adopt</span>
+							</li>
+						</ol>
+				</div>
 				<h1>Adopt</h1>
 				<img class="rounded" alt="" src="images/content/700x244_Adopt.jpg">
 				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
