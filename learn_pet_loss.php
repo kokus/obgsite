@@ -63,7 +63,7 @@
 				<p>&lt;&lt;Include memorials on the side&gt;&gt;<br>
 
 				<blockquote>
-					<p>I can never lose onhom I have loved unto the end; one to whom my soul cleaves so firmly that it can never 
+					<p>I can never lose one home I have loved unto the end; one to whom my soul cleaves so firmly that it can never 
 be separated does not go away, but only goes before...</p>
 					<cite>St. Bernard of Clairvaux</cite>
 				</blockquote>

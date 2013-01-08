@@ -5,7 +5,7 @@
 		<li>
 			<a href="adopt.php">Adopt</a>
 			<ul>
-				<li><a href="#">Considering Adopion? &rarr;</a>
+				<li><a href="#">Considering Adoption? &rarr;</a>
 					<ul>
 						<li><a href="adopt_why_adopt.php">Why Adopt?</a></li>
 						<li><a href="adopt_choosing_the_right_dog.php">Choosing the Right Dog</a></li>
