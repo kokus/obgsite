@@ -52,16 +52,30 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Events
-	</div>
-	
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Event List -->
 			<div id="events_wrapper" class="page">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="adopt.php">Adopt</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Adoption Events</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Upcoming Events</h1>
 
 				<ul class="events_display">

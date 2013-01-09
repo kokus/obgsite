@@ -57,6 +57,8 @@
 			
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
+
+				<!-- Start Breadcrumb -->
 				<div class="breadcrumb_navigation">
 						<ol class="breadcrumb_list">
 							<li>
@@ -68,6 +70,9 @@
 							</li>
 						</ol>
 				</div>
+				<!-- End Breadcrumb -->
+
+
 				<h1>Adopt</h1>
 				<img class="rounded" alt="" src="images/content/700x244_Adopt.jpg">
 				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 

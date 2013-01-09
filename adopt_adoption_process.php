@@ -48,10 +48,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="adopt.php">Adopt</a>&nbsp;/&nbsp;Adoption Process
-	</div>
 	
 	<div class="page_wrapper">
 		<section class="container">
@@ -59,6 +55,24 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="adopt.php">Adopt</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Adoption Process</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Adoption Process</h1>
 
 				<div id="programs">

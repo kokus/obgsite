@@ -80,10 +80,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;About OBG
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -91,6 +87,24 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="about.php">About</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>About OBG</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>About OBG</h1>
 
 				<p>Established in 1996, Oldies But Goodies Cocker Rescue (OBG) rescues, rehabilitates and rehomes cockers and spaniel mixes of all ages. Placing more than 300 dogs a year, we are committed to finding wonderful homes for dogs from shelters or from owners who can no longer care for them.</p>

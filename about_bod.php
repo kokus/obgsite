@@ -80,10 +80,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="about.php">About OBG</a>&nbsp;/&nbsp;Board of Directors
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -91,6 +87,29 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+					<ol class="breadcrumb_list">
+						<li>
+							<a href="index.php"><span>Home</span></a>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span><a href="about.php">About</a></span>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span><a href="about_obg.php">About OBG</a></span>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span>Board of Directors &amp; Officers</span>
+						</li>
+					</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
+
 				<h1>Board of Directors &amp; Officers</h1>
 				<div class="full">
 					<p>These folks work tirelessly (often behind the scenes) to ensure Happy Tails - for both dogs and adopters!  Very few give more of themselves to OBG than this special group of people...</p>

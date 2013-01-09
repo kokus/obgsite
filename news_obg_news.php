@@ -80,10 +80,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;News
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -91,6 +87,26 @@
 			<!-- Start Page Content -->
 			<div id="blog" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+					<ol class="breadcrumb_list">
+						<li>
+							<a href="index.php"><span>Home</span></a>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span><a href="news.php">News</a></span>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span>OBG News</span>
+						</li>
+					</ol>
+				</div>
+					<!-- End Breadcrumb -->
+					
+
+
 				<h1>OBG News</h1>
 				
 				<!-- Start Blog Post -->

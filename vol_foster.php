@@ -48,10 +48,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Foster
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -59,6 +55,24 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="volunteer.php">Volunteer</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Foster</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Foster</h1>
 
 				<p>Since OBG doesn&#39;t have a physical shelter, foster-volunteers are the lifeblood of our organization. Fosters temporarily care for rescued cockers in a home environment, thus allowing abused or abandoned dogs to be more easily rehabilitated and re-socialized prior to being adopted. &nbsp;</p>

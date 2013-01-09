@@ -49,16 +49,30 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Help at Adoption Events
-	</div>
-
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="volunteer.php">Volunteer</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Help at Adoption Events</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Help at Adoption Events</h1>
 				<p>Let&#39;s face it, we all volunteer because we love dogs - so what could be better than spending time with them? &nbsp;Nothing! &nbsp;We knew you&#39;d agree, so consider volunteering at an OBG adoption show.</p>
 

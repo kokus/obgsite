@@ -49,16 +49,30 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="volunteer.php">Volunteer</a>&nbsp;/&nbsp;Other Ways to Help
-	</div>
-
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span><a href="volunteer.php">Volunteer</a></span>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Other Ways to Help</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Other Ways to Help</h1>
 				
 				<p>Whatever your talents and interests, you&#39;ll find that you really can make a difference! &nbsp;Volunteers and fosters are not paid with this nonprofit 501(c)(3) organization. We hope you&#39;ll find that the amazing feeling you get when saving a life will be payment enough!&nbsp;</p>

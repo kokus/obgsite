@@ -42,6 +42,38 @@
 		<!-- Start Navigation -->
 			<?php include("navigation.php"); ?>
 		<!-- End Navigation -->
+			
+			<!-- Start Social Icons -->
+			<aside>
+				<ul class="social icon">
+					<li><a href="" title="Twitter">a</a></li>
+					<li><a href="" title="Facebook">v</a></li>
+					<li><a href="" title="Flickr">d</a></li>
+					<li><a href="" title="Vimeo">c</a></li>
+					<li><a href="" title="Google">t</a></li>
+					<li><a href="" title="RSS">b</a></li>
+					<!-- More Social Icons:
+					<li><a href="" title="Picasa">e</a></li>
+					<li><a href="" title="dribbble">f</a></li>
+					<li><a href="" title="Forrst">g</a></li>
+					<li><a href="" title="deviantART">h</a></li>
+					<li><a href="" title="WordPress">i</a></li>
+					<li><a href="" title="Blogger">j</a></li>
+					<li><a href="" title="Yahoo!">k</a></li>
+					<li><a href="" title="Amazon">l</a></li>
+					<li><a href="" title="LinkedIn">m</a></li>
+					<li><a href="" title="Last.fm">n</a></li>
+					<li><a href="" title="StumbleUpon">o</a></li>
+					<li><a href="" class="Pinterest">p</a></li>
+					<li><a href="" title="Xing">q</a></li>
+					<li><a href="" title="SoundCloud">r</a></li>
+					<li><a href="" title="Delicious">s</a></li>
+					<li><a href="" title="Mail">u</a></li>
+					<li><a href="" title="Google">w</a></li>
+					-->
+				</ul>
+			</aside>
+			<!-- End Social Icons -->
 		</div>		
 	</header>
 	
@@ -49,11 +81,12 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 	
+
 	<div class="page_wrapper">
 		<section class="container">
 			
 			<!-- Start Page Content -->
-			<div id="about" class="page with_sidebar">
+			<div id="blog" class="page with_sidebar">
 				
 				<!-- Start Breadcrumb -->
 				<div class="breadcrumb_navigation">
@@ -63,29 +96,26 @@
 						</li>
 						<li>
 							<span class="nav_sep">&raquo;</span>
-							<span><a href="about.php">About</a></span>
+							<span><a href="news.php">News</a></span>
 						</li>
 						<li>
 							<span class="nav_sep">&raquo;</span>
-							<span>About Breed Specific Rescue</span>
+							<span>Newsletter</span>
 						</li>
 					</ol>
 				</div>
-				<!-- End Breadcrumb -->
+					<!-- End Breadcrumb -->
 					
 
-
-				<h1>About Breed Specific Rescue</h1>
-
-				
-				
-
+				<h1>Newsletter</h1>
+				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
+				<p>Some Content Here</p>
 
 			</div>
 			<!-- End Page Content -->
 			
 			<!-- Start Sidebar -->
-			<?php include("sidebar_adopt.php"); ?>
+			<?php include("sidebar_about.php"); ?>
 			<!-- End Sidebar --> 
 			
 		</section>

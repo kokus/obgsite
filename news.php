@@ -81,9 +81,6 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;News
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -91,6 +88,21 @@
 			<!-- Start Page Content -->
 			<div id="blog" class="page with_sidebar">
 				
+							<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+					<ol class="breadcrumb_list">
+						<li>
+							<a href="index.php"><span>Home</span></a>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span>News</span>
+						</li>
+					</ol>
+				</div>
+					<!-- End Breadcrumb -->
+					
+
 				<h1>News</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
 				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 

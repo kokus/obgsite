@@ -49,10 +49,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;Volunteer
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -60,6 +56,20 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+						<ol class="breadcrumb_list">
+							<li>
+								<a href="index.php"><span>Home</span></a>
+							</li>
+							<li>
+								<span class="nav_sep">&raquo;</span>
+								<span>Volunteer</span>
+							</li>
+						</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
 				<h1>Volunteer</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v3_VolEvent.jpg">
 				<p>OBG is an entirely volunteer-based organization so whatever your talents and interests, your time

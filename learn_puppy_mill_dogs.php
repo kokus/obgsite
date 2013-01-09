@@ -48,10 +48,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;About Sponsors
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -59,6 +55,28 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 
+			<!-- Start Breadcrumb -->
+			<div class="breadcrumb_navigation">
+				<ol class="breadcrumb_list">
+					<li>
+						<a href="index.php"><span>Home</span></a>
+					</li>
+					<li>
+						<span class="nav_sep">&raquo;</span>
+						<span><a href="about.php">About</a></span>
+					</li>
+					<li>
+						<span class="nav_sep">&raquo;</span>
+						<span><a href="about_education_resources.php">Education &amp; Resources</a></span>
+					</li>
+					<li>
+						<span class="nav_sep">&raquo;</span>
+						<span>Puppy Mill Dogs</span>
+					</li>
+				</ol>
+			</div>
+				<!-- End Breadcrumb -->
+					
 			<h1>Puppy Mill Dogs</h1>
 				<div class ="full">
 					<p>Content Here</p>

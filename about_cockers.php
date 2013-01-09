@@ -48,10 +48,6 @@
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
-	<div class="breadcrumbs">
-		<a href="/">Home</a>&nbsp;/&nbsp;<a href="learn.php">Learn</a>&nbsp;/&nbsp;About Cockers
-	</div>
 
 	<div class="page_wrapper">
 		<section class="container">
@@ -59,6 +55,25 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+					<ol class="breadcrumb_list">
+						<li>
+							<a href="index.php"><span>Home</span></a>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span><a href="about.php">About</a></span>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span>About Cockers</span>
+						</li>
+					</ol>
+				</div>
+				<!-- End Breadcrumb -->
+
+
 				<h1>About Cockers</h1>
 
 				<p>Many people ask us about the characteristics of cocker spaniels, and we usually reply that cockers are like people, they all have different personalities and it&#39;s best not to stereotype them.&nbsp; However, there are certain traits that come with the breed.</p>
