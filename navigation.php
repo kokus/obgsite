@@ -28,12 +28,12 @@
 		</li>
 		<li><a href="donate.php">Donate</a>
 			<ul>
-				<li><a href="donate_designate_funds.php">Designate Funds</a></li>
-				<li><a href="donate_donate_online.php">Donate Online</a></li>
-				<li><a href="donate_donate_mail.php">Donate by Mail</a></li>
+				<li><a href="donate_special_funds.php">Special Funds</a></li>
+				<li><a href="donate_online.php">Donate Online</a></li>
+				<li><a href="donate_mail.php">Donate by Mail</a></li>
+				<li><a href="donate_in_kind.php">Donate In Kind</a></li>
 				<li><a href="donate_cfc_workplace_giving.php">CFC and Workplace Giving</a></li>
 				<li><a href="donate_business_sponsor.php">Business Sponsor</a></li>
-				<li><a href="donate_gift.php">GIFT</a></li>
 			</ul>
 		</li>
 		<li><a href="about.php">About</a>

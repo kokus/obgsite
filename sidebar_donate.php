@@ -34,22 +34,9 @@
 					</div>	
 					
 					<div class="widget">
-						<h5>Meet the Dogs!</h5>
-						<div class="events">
-							<ul>
-								<li>
-									<div class="date"><span>12</span> Jan</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
-									</div>
-								</li>
-								<li>
-									<div class="date"><span>23</span> May</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
-									</div>
-								</li>
-							</ul>
+						<h5>Giving for Tomorrow (GiFT)</h5>
+						<div class="sidebarlist">
+							<p>Some Content Here</p>
 						</div>
 					</div>
 					
