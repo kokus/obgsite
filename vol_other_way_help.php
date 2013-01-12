@@ -92,7 +92,8 @@
 					<li><strong>Baking&nbsp;</strong>tasty treats and/or helping sell at our bake sales</li>
 				</ul>
 
-				<p>If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &nbsp;&lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
+			<p>If you are interested in volunteering or fostering, fill out our 
+						volunteer application and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
 
 
 			</div>

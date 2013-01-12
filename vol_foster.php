@@ -122,8 +122,8 @@
 						<li>Pick up your first foster dog!</li>
 					</ol>
 
-					<p>We thank all our foster families for giving of themselves to the wigglebutts in need.<br>&nbsp;<br>
-					If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
+					<p>If you are interested in volunteering or fostering, fill out our 
+						volunteer application and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
 				</div>
 
 			</div>

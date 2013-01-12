@@ -1785,6 +1785,11 @@ div.page ol.contentpageorder {
 		margin-bottom: 15px;
 	}
 
+	div.page h4 {
+		font-size: 15px;
+		font-weight: bold;
+	}
+
 	div.page div.box_heading h2 {
 		margin-bottom: 0px;
 	}
@@ -1794,7 +1799,7 @@ div.page ol.contentpageorder {
 	}
 
 	div.page .timeline {
-		 color: #006699;
+		color: #006699;
 	    font-family: 'Pacifico';
 	    font-size:24px;
 	}
@@ -1967,3 +1972,29 @@ div.side-corner-tag h6:after {
     right:0;
     border-width:0 0 10px 10px;
 }
+
+/*--------------------------------------------
+21. Tables
+---------------------------------------------*/
+
+table {
+    opacity: 0.6; /* Real browsers */
+    filter: alpha(opacity = 60); /* MSIE */
+    border-collapse: collapse;
+    width: 100%;
+}
+
+	/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #eee; 
+	}
+	th { 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+	td, th { 
+		padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+	}

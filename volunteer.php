@@ -72,8 +72,9 @@
 
 				<h1>Volunteer</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v3_VolEvent.jpg">
-				<p>OBG is an entirely volunteer-based organization so whatever your talents and interests, your time
-				 will truly make a difference.</p>
+				<p>OBG is an entirely volunteer-based organization so whatever your talents and interests, your time will truly make a 
+					difference.  Click the links below to learn more about volunteer opportunities and contact <a href="mailto:volunteer@cockerspanielrescue.com">
+				volunteer@cockerspanielrescue.com</a> to get started!</p>
 				<ul class="contentpage">
 					<li><a href="vol_foster.php">Foster</a></li>
 					<li><a href="vol_transport.php">Transport</a></li>

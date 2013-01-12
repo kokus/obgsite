@@ -83,8 +83,8 @@
 				</ul>
 				<p>Many of our volunteers start by attending adoption events and eventually learn how to manage shows. &nbsp;We are always looking for show managers who are organized, punctual, professional and have good people skills!</p>
 
-				<p>If you are interested in volunteering,&nbsp;<a href="mailto:volunteer@cockerspanielrescue.com">contact the volunteer coordinator today</a>! &lt;&lt;&lt;FILL OUT ONLINE APPLICATION&gt;&gt;&gt;</p>
-
+				<p>If you are interested in volunteering or fostering, fill out our 
+				volunteer application and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
 
 			</div>
 			<!-- End Page Content -->

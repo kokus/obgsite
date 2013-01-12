@@ -209,13 +209,14 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="http://placehold.it/150x150" alt=""></a>
+						<a href="#"><img src="images/content/Marilyn2.jpg" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
-						<h4>Marilyn Kessinger...serves as MD Foster Coordinator</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						<h4>Marilyn Kessinger</h4>
+						<p>Marilyn keeps the "MD side" of OBG running like a well oiled machine. As foster coordinator, she provides guidance to foster homes 
+							in MD and DC, transports, attends plenty of shows and events, and fosters dogs - including current dogs Laddy, Maggie Ann and 
+							Fluff whom she adopted to join her original adoptee, Luke.  She also helps with our Financials, since she is a retired 
+							auditor - it's great to have her on our side!</p>
 					</div>
 				</div>
 

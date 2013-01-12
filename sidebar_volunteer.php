@@ -14,27 +14,30 @@
 						<a class="buttonsidebar" href="#">Donate Now!</a>
 					</div>
 						
-					<div class="widget">
-						<h5>Volunteer Opportunities</h5>
-						<div class="sidebarlist">
-							<ul>
-								<li>
-									<a href="vol_foster.php">Foster</a>
-								</li>
-								<li>
-									<a href="vol_transport.php">Transport</a>
-								</li>
-								<li>
-									<a href="vol_events.php">At Adoption Events</a>
-								</li>
-								<li>
-									<a href="vol_other_way_help.php">Everything Else!</a>
-								</li>
-							</ul>
-							
-						</div>
+				<div class="widget">
+					<h5>Volunteer Opportunities</h5>
+					<div class="sidebarlist">
+						<ul>
+							<li>
+								<a href="vol_foster.php">Foster</a>
+							</li>
+							<li>
+								<a href="vol_transport.php">Transport</a>
+							</li>
+							<li>
+								<a href="vol_events.php">At Adoption Events</a>
+							</li>
+							<li>
+								<a href="vol_other_way_help.php">Everything Else!</a>
+							</li>
+						</ul>
 					</div>
-					
+				</div>
+				
+				 <div class="widget">
+						<a class="buttonsidebar buttonred" href="#">Apply to Volunteer!</a>
+					</div>
+
 					<div class="widget">
 						<h5>Upcoming Events!</h5>
 						<div class="events">

@@ -59,41 +59,87 @@
 			<!-- Start Page Content -->
 			<div id="about" class="page with_sidebar">
 
-			<h1>About Our Sponsors</h1>
+				<h1>About Our Sponsors</h1>
 				<div class ="full">
-					<p>We are passionate about creating beautiful, flexible themes with feature-rich and easy to customize 
-					options. This particular theme was designed specifically for non-profit organizations to help 
-					give back to our communities and our planet. It is also perfect for charity drives, political 
-					campaigns or any other donation based organization.</p>
-				</div>
+					<p>We are thankful for the following cocker angels who have made generous donations to the dogs - we couldn't save hundreds of lives every year without them!</p>
+					<p>Want to join this cocker club?  Learn more about <a href="donate_business_sponsor.php">becoming a business sponsor</a> today!</p>
+			
 				
-				<div id="programs">
-					<div class="box_heading">
-						<h2>Platinum </h2>
-						<span class="line"></span>
+					<div id="programs">
+						<div class="box_heading">
+							<h2>Platinum </h2>
+							<span class="line"></span>
+						</div>
 					</div>
-				</div>
 
-				<!-- Platinum Logos HERE - Grid -->
+					<h4>Business Sponsors</h4>
+				
 
-				<div id="programs">
-					<div class="box_heading">
-						<h2>Gold</h2>
-						<span class="line"></span>
+					<p>Mary Costa<br>
+					MFC Woodworking<br>
+					Rehoboth, DE<br>
+					<a href="http://www.mfcwoodworking.com">www.mfcwoodworking.com</a></p>
+
+					<p>Chris Lowe &amp; Valerie Silensky<br>
+					Quality Hill Coffee<br>
+					Mt. Ranier, MD<br>
+					<a href="http://www.qualityhillcoffee.com">www.qualityhillcoffee.com</a></p>
+
+					<p>Stephen L. Glasser, OD, PC<br>
+					1050 17th St NW <br>
+					Washington DC<br>  
+					<a href="http://www.eyesightinsight.com">www.eyesightinsight.com</a></p>
+
+
+					<p>Karen &amp; Rick Lowe<br>
+					Lowelands Farm<br>
+					Middleburg, VA<br>
+					<a href="http://www.lowelandsfarm.com">www.lowelandsfarm.com</a></p>
+						
+					<p>Capital City Cocker Club, Inc.<br>
+					<a href="http://www.capitalcitycockers.org">www.capitalcitycockers.org</a></p>
+
+					<h4>Individual Donors</h4>
+
+					<div id="programs">
+						<div class="box_heading">
+							<h2>Gold</h2>
+							<span class="line"></span>
+						</div>
 					</div>
-				</div>
-				
-				<!-- Gold Logos HERE  - Grid -->
+					
+					<h4>Business Sponsors</h4>
 
-				<div id="programs">
-					<div class="box_heading">
-						<h2>Silver</h2>
-						<span class="line"></span>
+						<p>Karen Huntley
+						Tastefully Simple Consultant<br>
+						<a mailto="SimplyHuntley@verizon.net">SimplyHuntley@verizon.net</a><br>
+						<a href="http://www.tastefullysimple.com/web/khuntley">www.tastefullysimple.com/web/khuntley</a></p>
+
+				
+					<h4>Individual Donors</h4>
+
+					<div id="programs">
+						<div class="box_heading">
+							<h2>Silver</h2>
+							<span class="line"></span>
+						</div>
 					</div>
+				
+					<h4>Business Sponsors</h4>
+					<p>The Faithful Pet Friend<br>
+						Pet Sitting and Dog Walking
+						703-644-2389<br>
+						<a href="www.thefaithfulpetfriend.com">www.thefaithfulpetfriend.com</a></p>
+
+					<p>Karen Huntley
+						Linda Gentry<br>
+						Main Street Antique Mall<br>
+						<a mailto="lfgentry@gmail.com ">lfgentry@gmail.com </a><br>
+				
+					<h4>Individual Donors</h4>
+
+
 				</div>
-				
-				<!-- Silver Logos  HERE  - Grid -->
-				
 
 			</div>
 			<!-- End Page Content -->
