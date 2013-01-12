@@ -42,13 +42,13 @@
 						<div class="events">
 							<ul>
 								<li>
-									<div class="date"><span>12</span> Jan</div>
+									<div class="date"><span>12</span><br> Jan</div>
 									<div class="details">
 										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span> May</div>
+									<div class="date"><span>23</span><br> May</div>
 									<div class="details">
 										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
 									</div>
