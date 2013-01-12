@@ -42,7 +42,7 @@
 					</div>
 					
 					<div class="widget">
-						<h5>Meet the Dogs!</h5>
+						<h5>Meet the Dogs</h5>
 						<div class="events">
 							<ul>
 								<li>
@@ -57,13 +57,21 @@
 										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
 									</div>
 								</li>
+								<li>
+									<div class="date"><span>23</span><br> May</div>
+									<div class="details">
+										<h5><a href="event_description2.html">Adoption Show 3</a></h5>
+									</div>
+								</li>
 							</ul>
 						</div>
 					</div>
 					
 					<div class="widget">
-						<h5>Medical</h5>
+						<h5>Medical Provided</h5>
 						<div class="sidebarlist">
+							<p>Our dogs have all received the following, unless otherwise noted in a dog's individual bio:</p>
+
 							<ul>
 								<li>Complete Physical Exam</li>
 								<li>Spay or Neuter</li>
@@ -76,7 +84,7 @@
 					</div>	
 
 					<div class="widget">
-						<h5>Dogs Looking for a Home!</h5>
+						<h5>Dogs Looking for a Home</h5>
 						<div class="gallery">
 							<ul>
 								<li><img src="images/content/gallery_thumb_1.jpg" alt="" /></li>
