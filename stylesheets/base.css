@@ -1834,5 +1834,128 @@ div.page ol.contentpageorder {
 
 
 
+/*--------------------------------------------
+20. Ribbons Dog Status
+---------------------------------------------*/
+ div.side-corner-tag {
+		position: relative;
+		display: inline-block;
+		padding: 0px; /* it was 5px - mofied to fit responsive gallery*/
+		overflow: hidden;
+		
+		
+	} 
+	
+	div.side-corner-tag p.ribbon {
+		color: #fff;
+		font-weight: 900;
+		font-size: 11px;
+		font-family: Arial, sans-serif;
+		display: inline;	
+	}
+	
+	div.side-corner-tag p.ribbon span {
+		position: absolute;
+		display: inline-block;
+		right: 0px; /*-25px*/
+		left:0px;
+		box-shadow: 0px 0px 10px rgba(0,0,0,0.2), inset 0px 5px 30px rgba(255,255,255,0.2);
+		text-align: center;
+		text-transform: capitalize;
+		top: 84px; /*22px; */
+		/*background: #d93131;*/
+		width: 92px;
+		padding: 3px 10px;
+		/*-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);*/
+	} 
+
+
+	div.side-corner-tag p.ribbon_pending span{
+		background: #660033;
+	}
+
+	div.side-corner-tag p.ribbon_adopted span{
+		background: #006699;
+	}
+
+	div.side-corner-tag p.ribbon_foster span{
+		background: #990033;
+	}
+
+	div.side-corner-tag p.ribbon_courtesy span{
+		background: #999900;
+	}
+
+	
+	div.side-corner-tag p.ribbon:before {
+		content: "";
+		width: 0;
+		height: 0;
+		position: absolute;
+		top: -17px;
+		right: 69px;
+		z-index: -1;
+		border: 17px solid;
+		border-color: transparent transparent #662121 transparent;
+	}
+	
+	div.side-corner-tag p.ribbon:after {
+		content: "";
+		width: 0;
+		height: 0;
+		position: absolute;
+		top: 74px;
+		z-index: -1;
+		right: -10px;
+		border: 17px solid;
+		border-color: #662121 transparent transparent transparent;
+	}
+
+
+
+
+
+
+
+/* Another Example */
+
+div.side-corner-tag h6 {
+    position:relative;
+    padding:10px 30px;
+    margin:0 -30px 20px;
+    font-size:28px;
+    line-height:32px;
+    font-weight:bold;
+    text-align:center;
+    color:#fff;
+    background:#87A800;
+    /* css3 extras */
+    text-shadow:0 1px 1px rgba(0,0,0,0.2);
+    -webkit-box-shadow:0 1px 1px rgba(0,0,0,0.2);
+       -moz-box-shadow:0 1px 1px rgba(0,0,0,0.2);
+            box-shadow:0 1px 1px rgba(0,0,0,0.2);
+    /* See "NOTE 1" */
+    zoom:1;
 }
 
+div.side-corner-tag h6:before,
+div.side-corner-tag h6:after {
+    content:"";
+    position:absolute;
+    /* See "NOTE 2" */
+    z-index:-1;
+    top:100%;
+    left:0;
+    border-width:0 10px 10px 0;
+    border-style:solid;
+    border-color:transparent #647D01;
+}
+
+div.side-corner-tag h6:after {
+    left:auto;
+    right:0;
+    border-width:0 0 10px 10px;
+}

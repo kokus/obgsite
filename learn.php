@@ -64,10 +64,10 @@
 
 				<?php 
 
-					//require_once("xml2array.php"); 
-					//$xml = 'http://obgthemesite.site:8888/data/UJpSrvX3.xml';
-					//$array =  xml2array(file_get_contents($xml)); 
-					//print_r($array);
+					require_once("xml2array.php"); 
+					$xml = 'http://localhost/obgsite/data/UJpSrvX3.xml';
+					$array =  xml2array(file_get_contents($xml)); 
+					print_r($array);
 
 				?>
 
