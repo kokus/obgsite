@@ -121,7 +121,7 @@
 				<p>A good transporter is worth their weight and gold and we&#39;re lucky to have so many of you. &nbsp;We truly appreciate those of you who hit the road to chauffeur our OBG dogs.</p>
 				
 				<p>If you are interested in volunteering or fostering, fill out our 
-						volunteer application and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
+						<a href="http://cockerspanielrescue.rescuegroups.org/info/file?file=15491.doc">volunteer application</a> and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
 
 
 			</div>

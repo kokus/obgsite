@@ -68,7 +68,7 @@
 	</ul>
 </nav>
 
-<!-- Start Social Icons -->
+<!-- Start Social Icons  -->
 <aside>
 	<ul class="social icon">
 		<li><a href="https://twitter.com/OBGcockerrescue" title="Twitter">a</a></li>
@@ -76,7 +76,7 @@
 		<li><a href="http://pinterest.com/source/cockerspanielrescue.com/" class="Pinterest">p</a></li>
 		<li><a href="" title="Flickr">d</a></li>
 		<li><a href="" title="Youtube">d</a></li>
-		<!-- More Social Icons:					
+		 <!--More Social Icons:					
 		<li><a href="" title="Vimeo">c</a></li>
 		<li><a href="" title="Google">t</a></li>
 		<li><a href="" title="RSS">b</a></li>
@@ -100,3 +100,4 @@
 	</ul>
 </aside>
 <!-- End Social Icons -->
+

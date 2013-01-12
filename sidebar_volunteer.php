@@ -35,7 +35,7 @@
 				</div>
 				
 				 <div class="widget">
-						<a class="buttonsidebar buttonred" href="#">Apply to Volunteer!</a>
+						<a class="buttonsidebar buttonred" href="http://cockerspanielrescue.rescuegroups.org/info/file?file=15491.doc">Apply to Volunteer!</a>
 					</div>
 
 					<div class="widget">

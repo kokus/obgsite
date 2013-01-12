@@ -123,7 +123,7 @@
 					</ol>
 
 					<p>If you are interested in volunteering or fostering, fill out our 
-						volunteer application and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
+						<a href="http://cockerspanielrescue.rescuegroups.org/info/file?file=15491.doc">volunteer application</a> and send it to <a href="mailto:volunteer@cockerspanielrescue.com">volunteer@cockerspanielrescue.com</a> today!</p>
 				</div>
 
 			</div>

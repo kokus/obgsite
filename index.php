@@ -146,7 +146,7 @@
 					<span class="icon general">l</span>
 					<div class="text">
 						<h3>Donate what you can to help</h3>
-						<span class="color">Your tax-free donation helps OBG provide medical care and temporary boarding for 300 dogs per year.</span>
+						<span class="color">Your tax-free donation provides medical care and temporary boarding for 300 dogs per year.</span>
 					</div>
 					<a href="donate.php" class="donate_button">Donate Now!</a>
 				</div>
