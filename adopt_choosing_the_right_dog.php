@@ -76,18 +76,35 @@
 				<h1>Choosing the Right Dog</h1>
 				
 				<p>
-				<span style="background-color:#ffff00;">&lt;&lt;Questions to ask yourself: &gt;&gt; Somthing like this:&nbsp;</span>
-				<a href="http://www.luckydoganimalrescue.org/adopt/choosing-the-right-dog">http://www.luckydoganimalrescue.org/adopt/choosing-the-right-dog</a></p>
+				<span style="background-color:#ffff00;">&lt;&lt;Questions to ask yourself: &gt;&gt; Somthing like 
+					this:&nbsp;</span><a href="http://www.luckydoganimalrescue.org/adopt/choosing-the-right-dog">http://www.luckydoganimalrescue.org/adopt/choosing-the-right-dog</a></p>
 
-				<p>When looking for the right dog, we have the following creed: <strong>&quot;Don&#39;t focus on age, looks or gender - focus on personality and temperament&quot;.</strong> The reason for this is simple:&nbsp; Many people come to a show looking for a 1 or 2 year old, and have ruled out any dog that&#39;s older. &nbsp; This is usually a mistake. Often, the 1 -2 year old dogs that have come to our group are a prior owner&#39;s &quot;failed experiment&quot;. They typically have been neglected, unsocialized, not housebroken and have lots of energy. They usually are very sweet and playful, but they are a handful and will need an expert dog owner who can commit time and energy to settle them down. Is that person you? (Be honest with yourself!) And since the dogs personality hasn&#39;t fully developed yet, there is no guarantee how it will turn out. Consequently, most young OBG dogs may not be suitable for first time dog owners; they need experienced owners to work with them.</p>
+				<p>When looking for the right dog, we have the following creed: <strong>&quot;Don&#39;t focus on age, looks or gender - focus on personality 
+					and temperament&quot;.</strong> The reason for this is simple:&nbsp; Many people come to a show looking for a 1 or 2 year old, and have 
+					ruled out any dog that&#39;s older. &nbsp; This is usually a mistake. Often, the 1 -2 year old dogs that have come to our group are a 
+					prior owner&#39;s &quot;failed experiment&quot;. They typically have been neglected, unsocialized, not housebroken and have lots of 
+					energy. They usually are very sweet and playful, but they are a handful and will need an expert dog owner who can commit time and 
+					energy to settle them down. Is that person you? (Be honest with yourself!) And since the dogs personality hasn&#39;t fully developed 
+					yet, there is no guarantee how it will turn out. Consequently, most young OBG dogs may not be suitable for first time dog owners; they 
+					need experienced owners to work with them.</p>
 
-				<p>Dogs that are 4-5 years and older usually are, calmer,&nbsp; better socialized - and have settled into their personality and temperament. Typically, these dogs come to OBG through no fault of their own; the previously family may have moved, divorced, or simply got bored with them. So with the older dogs, what you see is what you get, and with our foster system in most cases we can tell you exactly what the dog is like. Typically, most OBG dogs that are 4-5 years or older are better suited to inexperienced dog owners.&nbsp; Older dogs adapt very quickly to new loving families. Most OBG volunteers prefer the older dogs when getting a dog for their own.</p>
+				<p>Dogs that are 4-5 years and older usually are, calmer,&nbsp; better socialized - and have settled into their personality and 
+					temperament. Typically, these dogs come to OBG through no fault of their own; the previously family may have moved, divorced, 
+					or simply got bored with them. So with the older dogs, what you see is what you get, and with our foster system in most cases
+					we can tell you exactly what the dog is like. Typically, most OBG dogs that are 4-5 years or older are better suited to inexperienced 
+					dog owners.&nbsp; Older dogs adapt very quickly to new loving families. Most OBG volunteers prefer the older dogs when getting a dog 
+					for their own.</p>
 
-				<p>Also, many people come to adoption shows looking for a dog with specific coloring,&nbsp; with the impression that certain colors (e.g. Black or Buff) always have specific personality types.&nbsp; Or, they want a female or a male because they think one has a more desirable personality traits.&nbsp; That&#39;s actually a misconception. &nbsp; Personality really has nothing to do with color or gender.&nbsp; You really need to evaluate each dog as an individual - please don&#39;t stereotype them!</p>
+				<p>Also, many people come to adoption shows looking for a dog with specific coloring,&nbsp; with the impression that certain 
+					colors (e.g. Black or Buff) always have specific personality types.&nbsp; Or, they want a female or a male because they think 
+					one has a more desirable personality traits.&nbsp; That&#39;s actually a misconception. &nbsp; Personality really has nothing 
+					to do with color or gender.&nbsp; You really need to evaluate each dog as an individual - please don&#39;t stereotype them!</p>
 
-				<p>Have patience and keep an eye on our <a href="adopt_dogs.php">list of available dogs</a>&nbsp;&nbsp;- it&#39;s constantly being updated. We get lots of wonderful dogs in. Also, be sure to look at our&nbsp;&nbsp; 
-				<span style="background-color: rgb(255, 255, 0);">courtesy page</span>
-				&nbsp;&nbsp;- these are non-OBG cockers&nbsp; where you can contact the dogs owner or shelter directly and arrange for a meeting. If you are unsure of what dog might be right for you or your family please <a href="mailto:adoptinquiry@cockerspanielrescue.com?subject=Requesting%20Adoption%20Info">contact our adoption counselors</a>&nbsp;(adoptinquiry@cockerspanielrescue.com).&nbsp; We&#39;ll call or email you back to discuss what might be best for your situation.&nbsp;</p>
+				<p>Have patience and keep an eye on our <a href="adopt_dogs.php">list of available dogs</a>&nbsp;&nbsp;- it&#39;s constantly 
+					being updated. We get lots of wonderful dogs in. If you are unsure of what dog might be right for you or your family 
+					please <a href="mailto:adoptinquiry@cockerspanielrescue.com?subject=Requesting%20Adoption%20Info">contact our 
+					adoption counselors</a>&nbsp;(adoptinquiry@cockerspanielrescue.com).&nbsp; We&#39;ll call or email you back to discuss what might 
+					be best for your situation.&nbsp;</p>
 
 
 

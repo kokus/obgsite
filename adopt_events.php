@@ -168,17 +168,17 @@
 		$("#calendar").fullCalendar({
 			events: [{
 				title: 'Howl-o-Ween Hayride & Fall Festival!',
-				start: '2012-12-17 14:00:00',
-				end: '2012-12-17 17:00:00',
+				start: '2013-01-19 14:00:00',
+				end: '2013-01-19 17:00:00',
 				allDay: false,
-				color: '#d07837',
+				color: '#990018;',
 				url: 'event_description.html'
 			}, {
 				title: 'Adoption Show',
-				start: '2012-12-22 11:00:00',
-				end: '2012-12-22 13:00:00',
+				start: '2013-01-26 11:00:00',
+				end: '2013-01-26 13:00:00',
 				allDay: false,
-				color: '#d07837',
+				color: '#990018;',
 				url: 'event_description2.html'
 			}, ],
 			eventClick: function(event) {
