@@ -68,9 +68,9 @@
 					</div>
 					
 					<div class="widget">
-						<h5>Medical Provided</h5>
+						<h5>Medical Care Provided</h5>
 						<div class="sidebarlist">
-							<p>Our dogs have all received the following, unless otherwise noted in a dog's individual bio:</p>
+							<p>Our dogs have all received the following vetting, unless otherwise noted in a dog's individual bio:</p>
 
 							<ul>
 								<li>Complete Physical Exam</li>

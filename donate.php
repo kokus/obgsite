@@ -53,7 +53,7 @@
 		<section class="container">
 			
 			<!-- Start Donate -->
-			<div id="about" class="page with_sidebar">
+			<div id="donate" class="page with_sidebar">
 
 				<!-- Start Breadcrumb -->
 				<div class="breadcrumb_navigation">
