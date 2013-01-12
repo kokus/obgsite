@@ -1750,8 +1750,15 @@ div.page ul.contentpage{
  	}
 		div.page ul.contentpage li{
  			margin-bottom: 5px;
- 			 color: #7D7D7D;
+ 			color: #7D7D7D;
  		}
+			div.page ul.contentpage ul{
+				list-style: circle outside none;
+    			margin-left: 15px;
+    			margin-bottom: 5px;
+    			margin-top: 5px;
+			}
+
 
 div.page ol.contentpageorder {
 	padding-left: 18px;

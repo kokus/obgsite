@@ -76,15 +76,23 @@
 				<h1>Donate by Mail</h1>
 				
 				<div>
-				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+					<p>When you send OBG a check, 100% of your donation goes to the dogs without any processing fees - so there&#39;s something to be said for doing it the old fashioned way!</p>
+
+					<p><em><strong>Checks can be made out to:</strong></em><br>
+					OBG Cocker Rescue</p>
+
+					<p><em><strong>Checks can be mailed to:</strong></em><br>
+					OBG Cocker Rescue<br>
+					PO Box 361<br>
+					Newington, VA 22122-0361<br>
+					*Note: OBG does not have a physical shelter/facility. &nbsp;This is only a PO Box.</p>
+
+					<p><em><strong>Dedications:</strong></em><br>
+					If you wish, please use the memo field to specify which dog,&nbsp;<a href="/info/display?PageID=13013">special fund</a>&nbsp;or other designation to which you&#39;d like your donation to be applied.</p>
+
+					<p>As with all donations to OBG Cocker Rescue, a 501(c)3 non-profit, your donation by mail is tax deductible to the extent allowable by the law; please consult your tax advisor for details.</p>
 				</div>
 				
-
-				
-
-				
-				
-
 			</div>
 			
 			<!-- Start Sidebar -->

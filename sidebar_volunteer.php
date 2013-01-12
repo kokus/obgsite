@@ -46,29 +46,21 @@
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span><br> May</div>
+									<div class="date"><span>23</span><br> Feb</div>
 									<div class="details">
 										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
+									</div>
+								</li>
+								<li>
+									<div class="date"><span>23</span><br> Mar</div>
+									<div class="details">
+										<h5><a href="event_description2.html">Adoption Show 3</a></h5>
 									</div>
 								</li>
 							</ul>
 						</div>
 					</div>
 					
-					<div class="widget">
-						<h5>Medical</h5>
-						<div class="sidebarlist">
-							<ul>
-								<li>Complete Physical Exam</li>
-								<li>Spay or Neuter</li>
-								<li>Shots: Rabies, DHLPP &amp; Bordatella</li>
-								<li>Monthly Prevention Heartworm, Fleas &amp; Ticks</li>
-								<li>Senior Bloodwork</li>
-								<li>Non-Elective Surgery</li>
-							</ul>
-						</div>
-					</div>	
-
 					<div class="widget">
 						<h5>Dogs Needing a Foster Home</h5>
 						<div class="gallery">

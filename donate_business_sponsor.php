@@ -76,14 +76,53 @@
 				<h1>Business Sponsor</h1>
 				
 				<div>
-				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+					<p>OBG offers sponsorships to businesses to help us fund our rescue efforts.&nbsp; We have 3 levels of sponsorship available on an 
+					annual basis:&nbsp; Diamond, Sapphire, and Pearl.&nbsp; Each choice offers a different level of exposure to our over 3,000 dedicated 
+					members and supporters.&nbsp; In addition, OBG&rsquo;s website receives over one million hits and 50,000 unique visitors 
+					per month.&nbsp; We encourage you to review each opportunity below and select the one that best suits your business and philanthropic goals by 
+					filling out our business sponsorship form. &nbsp;Please contact us at&nbsp;<a href="mailto:sponsor@cockerspanielrescue.com?subject=OBG%20Sponsorship%20Program&amp;body=Please%20complete%20the%20following%20information%20re%3A%20your%20interest%20in%20an%20OBG%20sponsorship%20opportunity.%0A%0ACompany%20Name%3A%0AStreet%20Address%3A%0ACity%2FState%2FZip%3A%0AContact%20Name%3A%20%0AContact%20Phone%3A%0AContact%20Email%3A%0ACompany%20Website%3A%0ASponsorship%20Level%3A%20%241%2C000%2C%20%24500%2C%20%24250">sponsor@cockerspanielrescue.com</a>
+					if you have any questions or would like to discuss participating.  We thank you in advance for your support!</p>
+
+				</div>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Diamond Sponsorship - $1000</h2>
+						<span class="line"></span>
+					</div>
+				</div>
+
+				<ul class="contentpage">
+					<li>On-site visibility&nbsp;at major fundraising events &amp; select outreach events</li>
+					<li>Year-round recognition&nbsp;in our OBG newsletters (2x a year) &nbsp;and all monthly e-newsletters</li>
+					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
+				</ul>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Sapphire Sponsorship - $500</h2>
+						<span class="line"></span>
+					</div>
+				</div>
+
+				<ul class="contentpage">
+					<li>On-site visibility&nbsp;at 2 major fundraising events</li>
+					<li>Recognition&nbsp;in our OBG newsletters (2x a year) and 4 monthly e-newsletters</li>
+					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
+				</ul>
+
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Pearl Sponsorship - $250</h2>
+						<span class="line"></span>
+					</div>
 				</div>
 				
-
-				
-
-				
-				
+				<ul class="contentpage">
+					<li>Recognition&nbsp;at 1 major fundraising event</li>
+					<li>Recognition&nbsp;in 1 OBG newsletter</li>
+					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
+				</ul>
 
 			</div>
 			

@@ -72,6 +72,19 @@
 
 				<h1>About</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v2_Learn.jpg">
+				<ul class="contentpage">
+					<li>
+						<a href="about_obg.php">About OBG</a>
+						<ul>
+							<li><a href="about_timeline.php">Timeline</a></li>
+							<li><a href="about_bod.php">Board &amp; Officers</a></li>
+						</ul>
+					</li>
+					<li><a href="about_cockers.php">About Cockers</a></li>
+					<li><a href="about_sponsors.php">About Sponsors</a></li>
+					<li><a href="about_education_resources.php">Education &amp; Resources</a></li>
+					<li><a href="about_why_rescue_breed.php">About Breed Specific Rescue</a></li>
+				</ul>
 
 				
 			</div>
