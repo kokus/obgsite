@@ -72,6 +72,7 @@
 
 				<h1>About</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v2_Learn.jpg">
+				<p>Established in 1996, Oldies But Goodies is dedicated to the rescue, rehabilitation and rehoming of cocker spaniels and mixes in the mid-Atlantic region - primarily DC, MD and VA.</p>
 				<ul class="contentpage">
 					<li>
 						<a href="about_obg.php">About OBG</a>

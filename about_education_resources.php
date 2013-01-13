@@ -80,7 +80,7 @@
 					<li><a href="learn_fanconi_syndrome.php">Fanconi Syndrome</a></li>
 					<li><a href="learn_puppy_mill_dogs.php">Puppy Mill Dogs</a></li>
 					<li><a href="learn_pet_loss.php">Pet Loss</a></li>
-					<li><a href="learn_your_dogs_friend.php">Your Dog&#39;s Friend</a></li>
+					<li><a href="http://www.yourdogsfriend.info/" target="_blank">Your Dog&#39;s Friend</a></li>
 					<li><a href="learn_other_cocker_resources.php ">Other Cocker Rescues</a></li>
 				</ul>
 

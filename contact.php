@@ -60,7 +60,10 @@
 
 				<div class="full">
 					
-					<p>For questions regarding donations, programs or how you can get involved with the revolution please contact us.</p>
+					<p>Please note: If you are looking to adopt and live outside of the
+					 Mid-Atlantic Area or have children under 8 years old, please first read our <a href="adopt_adoption_policies.php>">adoption policies</a></p>
+
+					 <p>If you are looking to give up your dog, please first read about <a href="surrender_request.php">surrendering your dog</a>  and complete the online form.</p>
 					
 					<div class="validation">
 						<p>Oops! Please correct the highlighted fields...</p>
@@ -109,24 +112,26 @@
 						<span class="line"></span>
 					</div>
 					<div class="map">
-						<!--<iframe width="438" height="194" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Miami,+FL&amp;aq=0&amp;oq=Miami,+FL&amp;sll=26.464748,-80.109357&amp;sspn=0.110337,0.20359&amp;ie=UTF8&amp;hq=&amp;hnear=Miami,+Miami-Dade,+Florida&amp;t=m&amp;ll=25.789072,-80.226288&amp;spn=0.059971,0.150032&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>-->
+						<iframe width="438" height="194" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Newington,+VA+22122&amp;hl=en&amp;sll=37.6,-95.665&amp;sspn=71.493163,69.873047&amp;hnear=Newington,+Virginia+22122&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=14&amp;ll=38.733096,-77.187334&amp;output=embed"></iframe>
 					</div>
-					<div class="one_fourth column_last">
+					<div class="one_fourth column_last" style="width: 204px;">
 						<h4>Address</h4>
 						<p>
-							1234 Revolutionary Drive <br/>
-							Miami, FL 33445
+							PO Box 361 <br>
+							Newington, VA 22122<br>
+							
+							info@cockerspanielrescue.com
+							www.cockerspanielrescue.com
 						</p>
 						<p>
-							<span class="icon general">r</span> 123.333.4524 <br/>
-							<span class="icon general">h</span> <a href="">info@revolution.com</a> <br/>
-							<span class="icon general">l</span> <a href="">www.revolution.com</a>
+							<span class="icon general">r</span> 703.533.2373 <br/>
+							<span class="icon general">h</span> <a href="mailto:info@cockerspanielrescue.com">info@cockerspanielrescue.com</a> <br/>
+							<span class="icon general">l</span> <a href="http://www.cockerspanielrescue.com">www.cockerspanielrescue.com</a>
 						</p>
 					</div>
 					
 				</div>
 				<!-- End Location -->
-
 			</div>
 			<!-- End Page Content -->
 			
@@ -174,8 +179,8 @@
 						<h5>Vet Record Mailing Address</h5>
 						<div class="location_widget">
 							<p>
-								PO Box ??? <br/>
-								Spencerville, MD ?????
+								PO Box 62<br>
+								Spencerville, MD 20868
 							</p>
 						</div>
 					</div>

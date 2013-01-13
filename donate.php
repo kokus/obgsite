@@ -36,7 +36,6 @@
 	
 </head>
 <body>
-	
 	<header>
 		<div class="container">		
 			<!-- Start Navigation -->
@@ -72,72 +71,33 @@
 				<h1>Donate</h1>
 				<img class="rounded" alt="" src="images/content/700x244_Donate.jpg">
 				<div>
-				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+				<p>C'mon, lend a paw!  OBG is an all volunteer, non-profit organization, which means your donations are tax deductible and 
+					go directly toward the care of our dogs. We rely on your support and donations to help us with the costs of the 
+					care and rehabilitation of our dogs; the adoption fees do not come close to covering these expenses.  Major 
+					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than available foster homes).</p>
+
+					<p>Your donations are greatly appreciated and have helped thousands of dogs find their forever homes over the years!</p>
 				</div>
 				
-				<div id="donation_level">
+				<div id="programs">
 					<div class="box_heading">
 						<h2>Every little bit counts</h2>
 						<span class="line"></span>
 					</div>
-					<p class="choose">Please choose a donation level.  Paypal and credit card accepted.</p>
-					<ul class="amount">
-						<li><a href="#" class="color_1">Donate <h3>$5</h3></a></li>
-						<li><a href="#" class="color_2">Donate <h3>$10</h3></a></li>
-						<li><a href="#" class="color_3">Donate <h3>$15</h3></a></li>
-						<li><a href="#" class="color_4">Donate <h3>$25</h3></a></li>
-						<li><a href="#" class="color_5">Donate <h3>$50</h3></a></li>
+					<ul class="contentpage">
+						<li><a href="#">Donate via Mail</a></li>
+						<li><a href="#">Donate Online</a></li>
+						<li><a href="#">Donate In Kind</a></li>
 					</ul>
-				</div>
-				<!-- End Donate -->
-				
-				<!-- Start Actions -->
-				<div id="actions">
 					<div class="box_heading">
-						<h2>More ways to help</h2>
+						<h2>Tax Exempt</h2>
 						<span class="line"></span>
 					</div>
-					<div class="box one_half">
-						<div class="inner">
-							<div class="box_heading">
-								<span class="icon general-enclosed">2</span>
-								<h4>Buy Stuff</h4>
-							</div>
-							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
-						</div>
-					</div>
-					<div class="box one_half column_last">
-						<div class="inner">
-							<div class="box_heading">
-								<span class="icon general-enclosed">o</span>
-								<h4>Volunteer</h4>
-							</div>
-							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
-						</div>
-					</div>
-					<div class="box one_half">
-						<div class="inner">
-							<div class="box_heading">
-								<span class="icon general-enclosed">~</span>
-								<h4>Donate</h4>
-							</div>
-							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
-						</div>
-					</div>
-					<div class="box one_half column_last">
-						<div class="inner">
-							<div class="box_heading">
-								<span class="icon general-enclosed">l</span>
-								<h4>Share</h4>
-							</div>
-							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
-						</div>
-					</div>
+					<p>On October 25, 1999, the Internal Revenue Service (IRS) approved OBG, Inc.'s request for 501(c)(3) tax exempt status for non-profit organizations. As a result, all donations are tax deductible to the extent 
+						allowable by law. Contact us at <a href="mailto:finance@cockerspanielrescue.com">finance@cockerspanielrescue.com</a>  if you need specific information regarding our tax exempt status.</p>
 				</div>
-				<!-- End Actions -->
-				
-				
-
+				<!-- End Donate -->
+			
 			</div>
 			
 			<!-- Start Sidebar -->

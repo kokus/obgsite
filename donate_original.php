@@ -53,7 +53,7 @@
 		<section class="container">
 			
 			<!-- Start Donate -->
-			<div id="about" class="page with_sidebar">
+			<div id="donate" class="page with_sidebar">
 
 				<!-- Start Breadcrumb -->
 				<div class="breadcrumb_navigation">
@@ -63,65 +63,80 @@
 						</li>
 						<li>
 							<span class="nav_sep">&raquo;</span>
-							<span><a href="donate.php">Donate</a></span>
-						</li>
-						<li>
-							<span class="nav_sep">&raquo;</span>
-							<span>Business Sponsor</span>
+							<span>Donate</span>
 						</li>
 					</ol>
 				</div>
 				<!-- End Breadcrumb -->
 
-				<h1>Business Sponsor</h1>
-				
+				<h1>Donate</h1>
+				<img class="rounded" alt="" src="images/content/700x244_Donate.jpg">
 				<div>
-					<p>OBG offers sponsorship opportunities to businesses to help us fund our rescue efforts.&nbsp; We have three levels of sponsorship available on an 
-					annual basis:&nbsp; Platinum, Gold, and Silver.&nbsp; Each choice offers a different level of exposure to our over 3,000 dedicated 
-					members and supporters.&nbsp; In addition, OBG&rsquo;s website receives over one million hits and 50,000 unique visitors 
-					per month.&nbsp; We encourage you to review each opportunity below and select the one that best suits your business and philanthropic goals by 
-					filling out our business sponsorship form. &nbsp;Please contact us at&nbsp;<a href="mailto:sponsor@cockerspanielrescue.com?subject=OBG%20Sponsorship%20Program&amp;body=Please%20complete%20the%20following%20information%20re%3A%20your%20interest%20in%20an%20OBG%20sponsorship%20opportunity.%0A%0ACompany%20Name%3A%0AStreet%20Address%3A%0ACity%2FState%2FZip%3A%0AContact%20Name%3A%20%0AContact%20Phone%3A%0AContact%20Email%3A%0ACompany%20Website%3A%0ASponsorship%20Level%3A%20%241%2C000%2C%20%24500%2C%20%24250">sponsor@cockerspanielrescue.com</a>
-					if you have any questions or would like to discuss participating.  We thank you in advance for your support!</p>
-				</div>
-
-				<div id="programs">
-					<div class="box_heading">
-						<h2>PLatinum Sponsorship - $1000</h2>
-						<span class="line"></span>
-					</div>
-				</div>
-
-				<ul class="contentpage">
-					<li>On-site visibility&nbsp;at major fundraising events &amp; select outreach events</li>
-					<li>Year-round recognition&nbsp;in our OBG newsletters (2x a year) &nbsp;and all monthly e-newsletters</li>
-					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
-				</ul>
-
-				<div id="programs">
-					<div class="box_heading">
-						<h2>Gold Sponsorship - $500</h2>
-						<span class="line"></span>
-					</div>
-				</div>
-
-				<ul class="contentpage">
-					<li>On-site visibility&nbsp;at 2 major fundraising events</li>
-					<li>Recognition&nbsp;in our OBG newsletters (2x a year) and 4 monthly e-newsletters</li>
-					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
-				</ul>
-
-				<div id="programs">
-					<div class="box_heading">
-						<h2>Silver Sponsorship - $250</h2>
-						<span class="line"></span>
-					</div>
+				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 				</div>
 				
-				<ul class="contentpage">
-					<li>Recognition&nbsp;at 1 major fundraising event</li>
-					<li>Recognition&nbsp;in 1 OBG newsletter</li>
-					<li>Recognition&nbsp;at&nbsp;<a href="http://www.cockerspanielrescue.com/">www.cockerspanielrescue.com</a></li>
-				</ul>
+				<div id="programs">
+					<div class="box_heading">
+						<h2>Every little bit counts</h2>
+						<span class="line"></span>
+					</div>
+					<p class="choose">Please choose a donation level.  Paypal and credit card accepted.</p>
+					<ul class="amount">
+						<li><a href="#" class="color_1">Donate <h3>$5</h3></a></li>
+						<li><a href="#" class="color_2">Donate <h3>$10</h3></a></li>
+						<li><a href="#" class="color_3">Donate <h3>$15</h3></a></li>
+						<li><a href="#" class="color_4">Donate <h3>$25</h3></a></li>
+						<li><a href="#" class="color_5">Donate <h3>$50</h3></a></li>
+					</ul>
+				</div>
+				<!-- End Donate -->
+				
+				<!-- Start Actions -->
+				<div id="actions">
+					<div class="box_heading">
+						<h2>More ways to help</h2>
+						<span class="line"></span>
+					</div>
+					<div class="box one_half">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">2</span>
+								<h4>Buy Stuff</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half column_last">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">o</span>
+								<h4>Volunteer</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">~</span>
+								<h4>Donate</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+					<div class="box one_half column_last">
+						<div class="inner">
+							<div class="box_heading">
+								<span class="icon general-enclosed">l</span>
+								<h4>Share</h4>
+							</div>
+							<p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere.</p>
+						</div>
+					</div>
+				</div>
+				<!-- End Actions -->
+				
+				
 
 			</div>
 			

@@ -11,7 +11,7 @@
 					</div>	
 
 					<div class="widget">
-						<a class="buttonsidebar" href="#">Donate Now!</a>
+						<a class="buttonsidebar" href="donate.php">Donate Now!</a>
 					</div>
 						
 					<div class="widget">

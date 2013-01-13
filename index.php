@@ -170,12 +170,12 @@
 							<li>
 								<h5><a href="http://www.formstack.com/forms/?1341747-ZtyojS0bxF">Weathervanes for Spring Gardens!</a></h5>
 								<span><img src="images/content/outsideview.jpg" height="80px" width="80px"></span>
-								<p>Order a high quality weathervane for your spring garden.  Mix and match between various designs and mounts (garden, roof, deck etc).  Makes a great gift for Mother's Day!</p>
+								<p>Order a high quality weathervane for your spring garden.  Mix and match between various designs and mounts. Makes a great gift for Mother's Day!</p>
 							</li>
 							<li>
 								<h5><a href="blog_single.html">OBG Earns Top Ratings in 2012!</a></h5>
 								<span><img src="images/content/topratedbadge2012A.jpg" height="51px" width="125px"></span>
-								<p>Thanks to your feedback, OBG was recognized by Great Nonprofits at a Top-Rated non-profit for 2012.  Awards are determined by positive reviews of small and large nonprofits and charities by users who have been volunteers, donors, or clients.</p>
+								<p>Thanks to your feedback, OBG was recognized by Great Nonprofits as a 2012 Top-Rated non-profit.</p>
 							</li>
 							
 						</ul>						

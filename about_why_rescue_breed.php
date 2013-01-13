@@ -73,10 +73,23 @@
 				</div>
 				<!-- End Breadcrumb -->
 					
-
-
 				<h1>About Breed Specific Rescue</h1>
 
+				<p>Have you ever wondered why breed specific rescues exist? &nbsp;I get that question often, both in regard to why OBG &quot;only&quot; rescues cockers when there are so many homeless dogs and why I choose to spend my volunteer hours that way. &nbsp;My reaction used to be a lighthearted &ldquo;Have you seen their cute faces?!&rdquo; but now it&#39;s a question I welcome because it is a great segue into telling them all the wonderful aspects of OBG!</p>
+
+				<ul class="contentpage">
+					<li>We&rsquo;re very proud that we take in many spaniel mixesand &ldquo;honorary&rdquo; cockers as well. &nbsp;Plus, any time we pull a cocker from the shelter, that helps free up space to give another dog more time to find adoption or rescue.</li>
+					<li>And speaking of the shelters &hellip; we love all dogs. Love them! So having a more narrow focus helps us come back from the animal shelter with one dog instead of say, ten!</li>
+					<li>Being a cocker rescue helps all our volunteers become familiar with the breed&rsquo;s characteristics so we can represent the dogs&rsquo; needs accurately to adopters.</li>
+					<li>Adopters who have settled on a cocker as their breed have to look no further; we probably have the perfect cocker for them.</li>
+					<li>As a general rule, cockers are very social and love to be with their people, so adopters willing to make their cocker &ldquo;part of the family&rdquo; are our kind of people.</li>
+					<li>We also have to educate folks that cockers are a sporting breed, so have a moderate to high energy level (yes, there are exceptions!)</li>
+					<li>Cockers&rsquo; physical needs are not for the faint of heart. Those beautiful ears and flowing coats need constant upkeep, including regular grooming and ear cleaning.</li>
+					<li>Being a breed-specific rescue also helps us find foster homes. Some foster homes have space limitations and, with an average weight of 25 lbs, most of our wigglebutts &ndash; even honoraries - fit the bill!</li>
+				</ul>
+
+				<p>So the next time someone asks why you &ldquo;only&rdquo; rescue cockers, take a deep breath, smile and tell them there&rsquo;s really much more to it!<br>
+				-&nbsp;Excerpt from July 2011 President&#39;s Letter</p>
 				
 				
 

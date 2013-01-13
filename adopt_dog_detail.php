@@ -50,11 +50,11 @@
 		<?php include("headerlogo.php"); ?>
 	</section>
 
-	<div class="page_wrapper" style="padding: 15px 0;">
+	<div class="page_wrapper">
 		<section class="container">
 			
-			<!-- Start Event List -->
-			<div id="events_list" class="page">
+			<!-- Start Page Content -->
+			<div id="about" class="page with_sidebar">
 				
 				<!-- Start Breadcrumb -->
 				<div class="breadcrumb_navigation">
@@ -80,8 +80,6 @@
 				<h1>Adams</h1>
 
 				<h2> Adult | Male </h2>
-
-				<div class="full">
 					<div class="two_thirds">
 						<p>Adams is a guy whose life was saved by the outstanding staff at a local shelter. This poor guy suffered alone until some caring individuals spoke up on Adams behalf. After a life of solitude, this sweet 5 year old loves any and all positive attention and is making up for lost time. Adams discovered toys and he LOVES them! He prefers the plastic or rubber squeaky ones and if you play with him, you will be tops in his eyes!</p>
 						<p>Adams is an energetic guy and will need daily walks to keep him physically fit so probably not a good match for couch potatoes. He walks perfectly on a leash. He is also housebroken.</p>
@@ -106,13 +104,39 @@
 							<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f1f0f467384f3c"></script>
 							<!-- AddThis Button END -->
 						<p>
+					</div>
+					<div class="one_third column_last" style="background:none repeat scroll 0 0 #EBEBEB;">
+						<ul class="polaroids">
+							<li>
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450846" title="Cara">
+									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3450846m8471611.jpg" alt="Cara" />
+								</a>
+							</li>
+							<li>
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450866" title="Chuck">
+									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3450866m8471647.jpg" alt="Chuck" />
+								</a>
+							</li>
+							<li>
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454858" title="Duke">
+									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3454858m8482248.jpg" alt="Duke" />
+								</a>
+							</li>
+							<li>
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454970</petUrl>" title="Farley">
+									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454970m8482570.jpg" alt="Farley" />
+								</a>
+							</li>
+						</ul>
+					</div>
 
-					</div>
-					<div class="one_third column_last">
-					</div>
-				</div>
 			</div>
-				
+			<!-- End Page Content -->
+
+			<!-- Start Sidebar -->
+			<?php include("sidebar_adopt.php"); ?>
+			<!-- End Sidebar --> 
+			
 		</section>
 	</div>
 		

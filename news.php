@@ -42,38 +42,7 @@
 		<!-- Start Navigation -->
 			<?php include("navigation.php"); ?>
 		<!-- End Navigation -->
-			
-			<!-- Start Social Icons -->
-			<aside>
-				<ul class="social icon">
-					<li><a href="" title="Twitter">a</a></li>
-					<li><a href="" title="Facebook">v</a></li>
-					<li><a href="" title="Flickr">d</a></li>
-					<li><a href="" title="Vimeo">c</a></li>
-					<li><a href="" title="Google">t</a></li>
-					<li><a href="" title="RSS">b</a></li>
-					<!-- More Social Icons:
-					<li><a href="" title="Picasa">e</a></li>
-					<li><a href="" title="dribbble">f</a></li>
-					<li><a href="" title="Forrst">g</a></li>
-					<li><a href="" title="deviantART">h</a></li>
-					<li><a href="" title="WordPress">i</a></li>
-					<li><a href="" title="Blogger">j</a></li>
-					<li><a href="" title="Yahoo!">k</a></li>
-					<li><a href="" title="Amazon">l</a></li>
-					<li><a href="" title="LinkedIn">m</a></li>
-					<li><a href="" title="Last.fm">n</a></li>
-					<li><a href="" title="StumbleUpon">o</a></li>
-					<li><a href="" class="Pinterest">p</a></li>
-					<li><a href="" title="Xing">q</a></li>
-					<li><a href="" title="SoundCloud">r</a></li>
-					<li><a href="" title="Delicious">s</a></li>
-					<li><a href="" title="Mail">u</a></li>
-					<li><a href="" title="Google">w</a></li>
-					-->
-				</ul>
-			</aside>
-			<!-- End Social Icons -->
+
 		</div>		
 	</header>
 	
@@ -105,16 +74,15 @@
 
 				<h1>News</h1>
 				<img class="rounded" alt="" src="images/content/700x244_BuddyBoy_News.jpg">
-				<p>So you&#39;re interested in adding a new furry friend to your household? &nbsp;Adoption is a 
-					great choice! &nbsp;Click the links below to learn more about adopting from OBG Cocker Rescue!</p>
+				<p>So you're a voracious reader of all things cocker spaniel?   We have several ways to ensure you're always in the know.</p>
 				<ul class="contentpage">
 					<li><a href="news_obg_news.php">OBG News</a></li>
 					<li><a href="http://obgcockerconnection.blogspot.com/">Blog - OBG Cocker Connection</a></li>
 					<li><a href="adopt_events.php">Events &amp; Fundraisers</a></li>
 					<li><a href="news_newsletters.php">Newsletters</a></li>
-				</ul>
-				
-				
+					<li><a href="https://www.facebook.com/OBGcockerrescue">Find us on Facebook</a></li>
+					<li><a href="https://twitter.com/OBGcockerrescue">Follow us on Twitter</a></li>
+				</ul>	
 			</div>
 			<!-- End Page Content -->
 			
