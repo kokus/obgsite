@@ -410,6 +410,12 @@ div.flexslider-container {
 	div.news ul li:last-child {
 		border-bottom: none;
 	}
+    /* added JV 01-12 */
+    div.news ul span {
+    	float:left;
+    	padding-right: 10px;
+    }
+
 	/* Events */
 	div.events ul { list-style: none; }
 		div.events ul li {

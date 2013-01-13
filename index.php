@@ -105,7 +105,7 @@
 									<span class="icon general-enclosed">b</span>
 									<h4><a href="adopt.php">Adopt</a></h4>
 								</div>
-								<p>Save a life, adopt!  Check out all our adoptable dogs and learn more about adopting through OBG.</p>
+								<p>Save a life, adopt!  Check out all our <a href="adopt_dogs.php">adoptable dogs</a> and learn more about adopting through OBG.</p>
 							</div>
 						</div>
 						<div class="box one_half column_last">
@@ -163,16 +163,19 @@
 						</div>
 						<ul>
 							<li>
-								<h5><a href="blog_single.html">Save The Whales</a></h5>
-								<p>Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl.</p>
+								<h5><a href="http://www.theanimalrescuesite.com/clickToGive/shelterchallenge.faces?siteId=3">Shelter Challenge: Vote OBG!</a></h5>
+								<span><img src="images/content/120x120_VOTEDog_ShelterChallenge2011.jpg" height="80px" width="80px"></span>
+								<p>Your votes can help OBG win up to $10,000! Please vote daily through April 28th!  Type "Oldies" and "VA" to find us.</p>
 							</li>
 							<li>
-								<h5><a href="blog_single.html">Vote Superman for President</a></h5>
-								<p>Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl.</p>
+								<h5><a href="http://www.formstack.com/forms/?1341747-ZtyojS0bxF">Weathervanes for Spring Gardens!</a></h5>
+								<span><img src="images/content/outsideview.jpg" height="80px" width="80px"></span>
+								<p>Order a high quality weathervane for your spring garden.  Mix and match between various designs and mounts (garden, roof, deck etc).  Makes a great gift for Mother's Day!</p>
 							</li>
 							<li>
-								<h5><a href="blog_single.html">Protect Our Coral Reefs</a></h5>
-								<p>Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl.</p>
+								<h5><a href="blog_single.html">OBG Earns Top Ratings in 2012!</a></h5>
+								<span><img src="images/content/topratedbadge2012A.jpg" height="51px" width="125px"></span>
+								<p>Thanks to your feedback, OBG was recognized by Great Nonprofits at a Top-Rated non-profit for 2012.  Awards are determined by positive reviews of small and large nonprofits and charities by users who have been volunteers, donors, or clients.</p>
 							</li>
 							
 						</ul>						
