@@ -78,8 +78,8 @@
 				<ul class="contentpage">
 					<li><a href="vol_foster.php">Foster</a></li>
 					<li><a href="vol_transport.php">Transport</a></li>
-					<li><a href="vol_events.php">Adoption Events</a></li>
-					<li><a href="vol_other_way_to_help.php">Everything Else!</a></li>
+					<li><a href="vol_events.php">Help at Adoption Events</a></li>
+					<li><a href="vol_other_way_help.php">Everything Else!</a></li>
 				</ul>
 				
 			</div>
