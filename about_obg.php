@@ -33,7 +33,6 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	
 </head>
 <body>
 	
@@ -125,10 +124,10 @@
 					</div>
 
 					<ul class="contentpage">
-						<li>Rescue: OBG accepts unwanted dogs directly from owners and from shelters. &nbsp;We are a no-kill organization and have never euthanized a dog for being &quot;too old&quot; or with us for &quot;too long&quot;. &nbsp;We rarely euthanize, and then only for severe medical or behavioral issues (i.e. terminal conditions when the animal is clearly suffering)</li>
-						<li>Rehabilitate: OBG looks at the dog holistically and attempts to care for their medical and behavioral needs while they are in our group. &nbsp;We provide complete vetting (spay/neuter, vaccines, any non-elective surgeries). &nbsp;We do not have a physical shelter facility, so all of our dogs are placed in a loving foster home before adoption. We see it as a &quot;win&quot; for everyone - animals are less stressed, we save on boarding costs, and adopters benefit because foster families have carefully observed their personalities and temperaments in order to place them in the right home.</li>
-						<li>Rehome: OBG&#39;s goal is to find a forever home for each of our dogs, but we commit to the dogs for life. &nbsp;They will always have a home with us if they need it. &nbsp;We require a dog to come back to OBG if an adoption does not work out and, although we are not an animal sanctuary, the occasional foster dog will live out their remaining days in a foster home (never being adopted, but dearly loved nonetheless).</li>
-					</ul>
+						<li><strong>Rescue</strong>: OBG accepts unwanted dogs directly from owners and from shelters. &nbsp;We are a no-kill organization and have never euthanized a dog for being &quot;too old&quot; or with us for &quot;too long&quot;. &nbsp;We rarely euthanize, and then only for severe medical or behavioral issues (i.e. terminal conditions when the animal is clearly suffering)</li>
+					  <li><strong>Rehabilitate</strong>: OBG looks at the dog holistically and attempts to care for their medical and behavioral needs while they are in our group. &nbsp;We provide complete vetting (spay/neuter, vaccines, any non-elective surgeries). &nbsp;We do not have a physical shelter facility, so all of our dogs are placed in a loving foster home before adoption. We see it as a &quot;win&quot; for everyone - animals are less stressed, we save on boarding costs, and adopters benefit because foster families have carefully observed their personalities and temperaments in order to place them in the right home.</li>
+					  <li><strong>Rehome</strong>: OBG&#39;s goal is to find a forever home for each of our dogs, but we commit to the dogs for life. &nbsp;They will always have a home with us if they need it. &nbsp;We require a dog to come back to OBG if an adoption does not work out and, although we are not an animal sanctuary, the occasional foster dog will live out their remaining days in a foster home (never being adopted, but dearly loved nonetheless).</li>
+				  </ul>
 				</div>
 
 				<p>Trivia:&nbsp; Many people think the name &ldquo;Oldies But Goodies&rdquo; references the senior dogs that were saved by OBG; however, legend has it that the name &ldquo;Oldies But Goodies&rdquo; came about because our founder said that people threw out dogs like a pair of old shoes (no matter what their age).</p>

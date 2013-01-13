@@ -33,7 +33,6 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	
 </head>
 <body>
 	
@@ -60,12 +59,10 @@
 
 				<div class="full">
 					
-					<p>Please note: If you are looking to adopt and live outside of the
-					 Mid-Atlantic Area or have children under 8 years old, please first read our <a href="adopt_adoption_policies.php>">adoption policies</a></p>
-
-					 <p>If you are looking to give up your dog, please first read about <a href="surrender_request.php">surrendering your dog</a>  and complete the online form.</p>
-					
-					<div class="validation">
+					<p><br>
+					  <strong>Note:</strong> If you are looking to adopt and live outside of the
+				    Mid-Atlantic Area or have children under 8 years old, please first read our <a href="adopt_adoption_policies.php>">adoption policies</a>. If you are looking to give up your dog, please first read about <a href="surrender_request.php">surrendering your dog</a>  and complete the online form.</p>
+	  <div class="validation">
 						<p>Oops! Please correct the highlighted fields...</p>
 					</div>
 

@@ -100,14 +100,14 @@
 						</li>
 						<li>
 							<span class="nav_sep">&raquo;</span>
-							<span>Newsletter</span>
+							<span>Newsletters</span>
 						</li>
 					</ol>
 				</div>
 					<!-- End Breadcrumb -->
 					
 
-				<h1>Newsletter</h1>
+				<h1>Newsletters</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
 				<p>Some Content Here</p>
 

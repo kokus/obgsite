@@ -88,7 +88,7 @@
 					*Note: OBG does not have a physical shelter/facility. &nbsp;This is only a PO Box.</p>
 
 					<p><em><strong>Dedications:</strong></em><br>
-					If you wish, please use the memo field to specify which dog,&nbsp;<a href="/info/display?PageID=13013">special fund</a>&nbsp;or other designation to which you&#39;d like your donation to be applied.</p>
+					If you wish, please use the memo field to specify which dog,&nbsp;<a href="donate_special_funds.php">special fund</a>&nbsp;or other designation to which you&#39;d like your donation to be applied.</p>
 
 					<p>As with all donations to OBG Cocker Rescue, a 501(c)3 non-profit, your donation by mail is tax deductible to the extent allowable by the law; please consult your tax advisor for details.</p>
 				</div>

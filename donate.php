@@ -85,15 +85,15 @@
 						<span class="line"></span>
 					</div>
 					<ul class="contentpage">
-						<li><a href="#">Donate via Mail</a></li>
-						<li><a href="#">Donate Online</a></li>
-						<li><a href="#">Donate In Kind</a></li>
+						<li><a href="donate_mail.php">Donate by Mail</a></li>
+						<li><a href="donate_online.php">Donate Online</a></li>
+						<li><a href="donate_in_kind.php">Donate In Kind</a></li>
 					</ul>
 					<div class="box_heading">
 						<h2>Tax Exempt</h2>
 						<span class="line"></span>
 					</div>
-					<p>On October 25, 1999, the Internal Revenue Service (IRS) approved OBG, Inc.'s request for 501(c)(3) tax exempt status for non-profit organizations. As a result, all donations are tax deductible to the extent 
+					<p>On October 25, 1999, the Internal Revenue Service (IRS) approved OBG, Inc.'s request for 501(c)(3) tax exempt status for non-profit organizations. As a result, all donations are tax deductible to the full extent 
 						allowable by law. Contact us at <a href="mailto:finance@cockerspanielrescue.com">finance@cockerspanielrescue.com</a>  if you need specific information regarding our tax exempt status.</p>
 				</div>
 				<!-- End Donate -->

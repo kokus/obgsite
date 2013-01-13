@@ -55,7 +55,7 @@
 			<ul>
 				<li><a href="news_obg_news.php">OBG News</a></li>
 				<li><a href="http://obgcockerconnection.blogspot.com/" target="_blank">OBG Cocker Connection Blog</a></li>
-				<li><a href="adopt_events.php">Events &amp; Foundraisers</a></li>
+				<li><a href="adopt_events.php">Events &amp; Fundraisers</a></li>
 				<li><a href="news_newsletter.php">Newsletters</a></li>
 			</ul>
 		</li>

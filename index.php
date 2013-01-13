@@ -91,13 +91,13 @@
 				</div>
 				<div id="revolution_wrap" class="full">
 					<div id="description" class="one_third">
-						<h3>Beautiful themes loaded with easy to customize options.</h3>
-
-						<p>Advocate is built with an impressive set of custom options that lets you change font styles, create <span class="color">unlimited colors</span> and is  almost entirely image free! We use font-based icons and CSS3 buttons to make your site retina sharp and fast loading.</p>
-						
+					  <h3>OBG is a 2012 Top-Rated Non-Profit!</h3>
+						<p>Thanks to your feedback, OBG was honored  as a 2012 Top-Rated non-profit  by GreatNonprofits, the leading provider of user reviews about nonprofit organizations. </p>
+						<p>The Top-Rated Nonprofit award was based on the large number of positive   reviews that OBG received – reviews written by   volunteers, donors and clients. We are especially thrilled, given that less than 1% of eligible nonprofits have   received this distinction. </p>
+						<p><a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">Click here to read or write a review!</a></p>
 					</div>
 
-					<!-- Start Actions -->
+		      <!-- Start Actions -->
 					<div id="actions">
 						<div class="box one_half">
 							<div class="inner">
@@ -170,16 +170,15 @@
 							<li>
 								<h5><a href="http://www.formstack.com/forms/?1341747-ZtyojS0bxF">Weathervanes for Spring Gardens!</a></h5>
 								<span><img src="images/content/outsideview.jpg" height="80px" width="80px"></span>
-								<p>Order a high quality weathervane for your spring garden.  Mix and match between various designs and mounts. Makes a great gift for Mother's Day!</p>
+								<p><a href="http://www.formstack.com/forms/?1341747-ZtyojS0bxF" target="_blank">Order</a> a high quality weathervane for your spring garden.  Mix and match between various designs and mounts. Makes a great gift for Mother's Day!</p>
 							</li>
 							<li>
 								<h5><a href="blog_single.html">OBG Earns Top Ratings in 2012!</a></h5>
 								<span><img src="images/content/topratedbadge2012A.jpg" height="51px" width="125px"></span>
 								<p>Thanks to your feedback, OBG was recognized by Great Nonprofits as a 2012 Top-Rated non-profit.</p>
 							</li>
-							
-						</ul>						
-					</div>
+					  </ul>						
+				  </div>
 					<!-- End News -->
 					
 					<!-- Start Events -->
@@ -250,9 +249,12 @@
 		<!-- End Container -->
 		
 	</div>
-	<!-- End Home -->
-	
-<!-- Footer -->
+	<p>
+  <!-- End Home -->
+	  
+  <!-- Footer -->
+</p>
+	<p>&nbsp;</p>
 	<?php include("footer.php"); ?>
 <!-- End Footer -->
 	

@@ -86,8 +86,8 @@
 					<ol class="contentpageorder">
 						<li>Find your perfect match
 							<ul>
-								<li>Check out adoptable dogs on our website</li>
-								<li>Visit Adoption Events to meet lots of dogs at once! &nbsp;
+								<li>Check out <a href="adopt_dogs.php">adoptable dogs</a> on our website</li>
+								<li>Visit <a href="adopt_events.php">Adoption Events</a> to meet lots of dogs at once! &nbsp;
 								<em>(The dog you fall for &quot;in the fur&quot; might surprise you!)</em></li>
 								<li>Work with one of our Adoption Counselors - email&nbsp;<a href="mailto:adoptinquiry@cockerspanielrescue.com">adoptinquiry@cockerspanielrescue.com</a>&nbsp;to get started.<br>
 								&nbsp;</li>

@@ -79,7 +79,7 @@
 				<div class="full">
 					
 				<p class="larger">
-					<p>Dogs appearing here are currently looking for their new home!  All dogs not marked "Adoption Pending" or "Adopted" are able to meet perspective adopters.  Our dogs are <a href="adopt_adoption_process.php#Rehabilitation">fully vetted</a> , unless otherwise noted in a dog's individual bio</p>
+					<p>Dogs appearing here are currently looking for their new home!  All dogs not marked "Adoption Pending" or "Adopted" are able to meet perspective adopters.  Our dogs are <a href="adopt_adoption_process.php#Rehabilitation">fully vetted</a>, unless otherwise noted in a dog's individual bio</p>
 					<p>You can find just the right dog for you by clicking on each dog's name to get a full description of each future friend...good luck!</p>
 				</div>
 				

@@ -79,7 +79,7 @@
 					<li><a href="news_obg_news.php">OBG News</a></li>
 					<li><a href="http://obgcockerconnection.blogspot.com/">Blog - OBG Cocker Connection</a></li>
 					<li><a href="adopt_events.php">Events &amp; Fundraisers</a></li>
-					<li><a href="news_newsletters.php">Newsletters</a></li>
+					<li><a href="news_newsletter.php">Newsletters</a></li>
 					<li><a href="https://www.facebook.com/OBGcockerrescue">Find us on Facebook</a></li>
 					<li><a href="https://twitter.com/OBGcockerrescue">Follow us on Twitter</a></li>
 				</ul>	

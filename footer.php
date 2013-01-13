@@ -39,7 +39,7 @@
 					</p>
 					<p>
 					<span class="icon general">r</span> 703.533.2373 (Voice Mail)<br/>
-					<span class="icon general">h</span> <a href="mailto:info@cockerspanielrescue.com">info@cockerspanielrescue.com</a> 
+					<span class="icon general">h</span> <a href="mailto:info@cockerspanielrescue.com">info@cockerspanielrescue.com</a></br> 
 					<span class="icon general">l</span> <a href="http://www.cockerspanielrescue.com<">www.cockerspanielrescue.com</a></br>
 					</p>
 				</div>
