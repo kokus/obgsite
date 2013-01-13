@@ -75,15 +75,46 @@
 
 				<h1>Donate in Kind</h1>
 				
-				<div>
-				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+				<div id="programs">
+					<p>OBG is often in need of the following supplies:</p>
+					<ul class="contentpage">
+						<li>Blankets or other suitable bedding materials</li>
+						<li>Collars and Leashes</li>
+						<li>Crates suitable for a mid size dog</li>
+						<li>Grain-free dog food</li>
+						<li>Gift cards for PetSmart or PetCo (to purchase grooming or food)</li>
+						<li>Travel crates suitable for a mid size dog</li>
+						<li>Treats</li>
+					</ul>
+
+					<p>If you have any of these items that you would like to donate, please <a href="http://www.cockerspanielrescue.com/contact.htm">contact us</a> or stop by an upcoming adoption show.</p>
+
+					<div class="box_heading">
+						<h2>Other Options</h2>
+						<span class="line"></span>
+					</div>
+
+					<h4>New Merchandise</h4>
+					<p>One man's trash is another man's treasure - maybe you already have a blender and don't need the one Aunt Bertha 
+						gave you for your birthday this year.  We'll take it off your hands!  We'll gratefully accept your donation 
+						of any new, unused item in good condition.  Please contact merchandise@cockerspanielrescue.com for more info.</p>
+					
+					<h4>EBAY Sales</h4>
+					<p>Anyone can help OBG by becoming a direct seller, posting items for sale on eBay, then specifying the percentage 
+						of the proceeds to be donated directly to OBG through ebay Giving Works. Click here if you have questions on 
+						direct selling.  You can also help OBG by bidding on items that others are selling through eBay Giving works 
+						to benefit OBG.  Follow this link to see what is currently up for bid</p>
+
+					<h4>Appreciated Securities</h4>
+					<p>A gift of long-term appreciated securities (stocks, bonds) is exempt from capital gains taxes and, in the majority of cases, allows you a charitable 
+						income tax deduction of their market value. For more information, consult your financial planner or tax advisor.</p>
+
+					<h4>Estate Gifts</h4>
+					<p>Making a gift through your estate is a common way to provide a contribution to a favorite charity. In, addition, a carefully planned estate gift 
+						can reduce or eliminate federal estate taxes. For more information, consult your attorney or tax advisor.</p>
 				</div>
-				
 
-				
-
-				
-				
+				<p>If you are interested in any of these options, please feel free to <a href="http://www.cockerspanielrescue.com/contact.htm">contact us</a> to discuss.</p>
 
 			</div>
 			
