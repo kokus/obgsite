@@ -33,7 +33,6 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	
 </head>
 <body>
 	
@@ -109,9 +108,53 @@
 
 				<h1>Newsletters</h1>
 				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
-				<p>Some Content Here</p>
-
-			</div>
+				<p><h2>eNews</h2>
+                <p>OBG sends a monthly eNewsletter to our volunteers, adopters and supporters. <strong>Click here to sign up for our eNewsletter!</strong></p>
+              <h2>Publications</h2>
+			      <p>OBG publishes quarterly - twice a year, we'll send our Cocker Connection   (Newsletter) and twice a year, our President's Letter.  To join our   list of subscribers email info@cockerespanielrescue.com and ask them to sign you up.  Check out our archives below! </p>
+			      <h4>2012</h4></p>
+			      <p>Cocker Connection Spring<br>
+			      President's Letter Summer<br>
+			      President's Letter Winter</p>
+			      <p><h4>2011</h4> </p>
+			      <ul>
+                  <li><a href="http://www.cockerspanielrescue.com/newsletter/spring2011.pdf" target="_blank">Cocker Connection Spring</a></li>
+			      <li>President's Letter Summer</li>
+			      <li><a href="http://www.cockerspanielrescue.com/newsletter/Presidents%20Letter%20Winter%202011_FINAL.pdf">President's Letter Winter</a></li>
+		      </ul>
+			    <p>&nbsp;</p>
+			    <p><h4>2010</h4></p>
+			    <ul>
+                  <li><a href="http://www.cockerspanielrescue.com/newsletter/Spring2010.pdf" target="_blank">Cocker Connection Spring</a></li>
+			      <li>President's Letter Summer</li>
+			      <li>Cocker Connection Fall</li>
+			      <li>President's Letter Winter</li>
+		      </ul>
+			    <p>&nbsp;</p>
+			    <p><h4>2009</h4></p>
+			    <ul>
+                  <li><a href="http://www.cockerspanielrescue.com/newsletter/spring2009.pdf" target="_blank">Cocker Connection Spring</a></li>
+			      <li>President's Letter Summer</li>
+			      <li><a href="http://www.cockerspanielrescue.com/newsletter/fall2009-1.pdf" target="_blank">Cocker Connection Fall</a></li>
+			      <li>President's Letter Winter</li>
+		      </ul>
+			    <p>&nbsp;</p>
+			    <p><h4>2008</h4></p>
+			    <ul>
+                  <li>Cocker Connection Spring</li>
+			      <li>President's Letter Summer</li>
+			      <li><a href="http://www.cockerspanielrescue.com/newsletter/fall2008.pdf" target="_blank">Cocker Connection Fall</a></li>
+			      <li>President's Letter Winter</li>
+		      </ul>
+			    <p>&nbsp;</p>
+			    <p><h4>2007</h4></p>
+			    <ul>
+                  <li><a href="http://www.cockerspanielrescue.com/newsletter/spring07.pdf" target="_blank">Cocker Connection Spring</a></li>
+			      <li>President's Letter Summer</li>
+			      <li><a href="http://www.cockerspanielrescue.com/newsletter/fall07.pdf" target="_blank">Cocker Connection Fall</a></li>
+			      <li>President's Letter Winter</li>
+		      </ul>
+		  </div>
 			<!-- End Page Content -->
 			
 			<!-- Start Sidebar -->

@@ -28,7 +28,7 @@
 						<h5>Donations are Tax Deductible</h5>
 						<div class="sidebarlist">
 							<p>Oldies But Goodies Cocker Rescue is a registered 501(c)3 non-profit and all donations made
-								to the group are tax deductible to the full extent of the law.  Please see your tax accountant
+								to the group are tax deductible to the full extent allowable by law.  Please see your tax accountant
 								for details.</p>
 						</div>
 					</div>	
@@ -36,9 +36,11 @@
 					<div class="widget">
 						<h5>Giving for Tomorrow (GiFT)</h5>
 						<div class="sidebarlist">
-							<p>Some Content Here</p>
-						</div>
-					</div>
+							<p>Giving for Tomorrow is a pledge-based way to donate to OBG. Just &quot;set it and forget it&quot; is the premise of this easy, subscription   donation program, available <a href="donate_online.php">online via PayPal or credit card</a> or <a href="donate_mail.php">sending a monthly check</a>. &nbsp; </p>
+							<p>The GiFT program is a win-win because you get to donate gradually and we   don't have to worry about &quot;where our next pay check&quot; is coming from, so   we can focus 100% of our time and energy on caring for the dogs!</p>
+						  <p>&nbsp;</p>
+					  </div>
+				  </div>
 					
 
 				</div>

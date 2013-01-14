@@ -71,12 +71,12 @@
 				<h1>Donate</h1>
 				<img class="rounded" alt="" src="images/content/700x244_Donate.jpg">
 				<div>
-				<p>C'mon, lend a paw!  OBG is an all volunteer, non-profit organization, which means your donations are tax deductible and 
-					go directly toward the care of our dogs. We rely on your support and donations to help us with the costs of the 
+				<p>C'mon, lend a paw!  OBG is an all volunteer, non-profit organization, which means your donations
+					go directly toward the care of our dogs. We rely on your support to help us with the cost of the 
 					care and rehabilitation of our dogs; the adoption fees do not come close to covering these expenses.  Major 
-					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than available foster homes).</p>
-
-					<p>Your donations are greatly appreciated and have helped thousands of dogs find their forever homes over the years!</p>
+					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than  foster homes).</p>
+				<p>OBG is listed on <a href="http://www2.guidestar.org/organizations/54-1833707/oldies-goodies-cocker-rescue.aspx">Guidestar</a> and was recognized as a <a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">2012 Top Nonprofit</a>.</p>
+				<p>Your donations are greatly appreciated and have helped thousands of dogs find their forever homes over the years!</p>
 				</div>
 				
 				<div id="programs">

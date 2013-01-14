@@ -33,7 +33,6 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	
 </head>
 <body>
 	
@@ -76,24 +75,31 @@
 				<h1>Donate by Mail</h1>
 				
 				<div>
+					<p>OBG is an all volunteer, non-profit organization, which means your donations  					go directly toward the care of our dogs. We rely on your support to help us with the cost of the   					care and rehabilitation of our dogs; the adoption fees do not come close to covering these expenses.  Major   					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than  foster homes).</p>
+					<p>OBG is listed on <a href="http://www2.guidestar.org/organizations/54-1833707/oldies-goodies-cocker-rescue.aspx">Guidestar</a> and was recognized as a <a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">2012 Top Nonprofit</a>.</p>
+					<p>Your donations are greatly appreciated and have helped thousands of dogs find their forever homes over the years!</p>
+					<p><h2>Checks</h2></p>
 					<p>When you send OBG a check, 100% of your donation goes to the dogs without any processing fees - so there&#39;s something to be said for doing it the old fashioned way!</p>
-
-					<p><em><strong>Checks can be made out to:</strong></em><br>
-					OBG Cocker Rescue</p>
-
-					<p><em><strong>Checks can be mailed to:</strong></em><br>
+				  <p><strong>Checks can be made out to:<br>
+				  </strong>OBG Cocker Rescue
+				  <p><strong>Checks can be mailed to:</strong><br>
 					OBG Cocker Rescue<br>
 					PO Box 361<br>
 					Newington, VA 22122-0361<br>
-					*Note: OBG does not have a physical shelter/facility. &nbsp;This is only a PO Box.</p>
-
-					<p><em><strong>Dedications:</strong></em><br>
-					If you wish, please use the memo field to specify which dog,&nbsp;<a href="donate_special_funds.php">special fund</a>&nbsp;or other designation to which you&#39;d like your donation to be applied.</p>
-
-					<p>As with all donations to OBG Cocker Rescue, a 501(c)3 non-profit, your donation by mail is tax deductible to the extent allowable by the law; please consult your tax advisor for details.</p>
-				</div>
+				  *Note: OBG does not have a physical shelter/facility. &nbsp;This is only a PO Box.
+				  <h4>Designations</h4>
+				  <p><br>
+				    If you wish, please use the memo field to specify which dog,&nbsp;<a href="donate_special_funds.php">special fund</a>&nbsp;or other designation to which you&#39;d like your donation to be applied.</p>
+				  <h4>Giving For Tomorrow (GiFT)</h4>
+				  <p><br>
+			      Giving for Tomorrow is a pledge-based way to donate to OBG. It's a win-win because you get to donate gradually and we   don't   have to worry about "where our next paycheck" is coming from, so   we   can focus 100% of our time and energy on caring for the dogs.</p>
+				  <p>There are two easy ways to participate by check:</p>
+				  <p>1. If you do online banking, you can set up a recurring "Bill Pay" to OBG   and your bank will cut a check to OBG for a designated amount and   designated frequency.  This transaction is entirely between you and your bank, then OBG receives a paper check from you in the mail.</p>
+				  <p>2. If you prefer, simply write a check and mail in your monthly pledge the old fashioned way!</p>
+				  <p>As with all donations to OBG Cocker Rescue, a 501(c)3 non-profit, your donation by mail is tax deductible to the extent allowable by the law; please consult your tax advisor for details.</p>
+			  </div>
 				
-			</div>
+		  </div>
 			
 			<!-- Start Sidebar -->
 			<?php include("sidebar_donate.php"); ?>

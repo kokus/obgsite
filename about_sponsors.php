@@ -33,7 +33,6 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	
 </head>
 <body>
 	
@@ -91,12 +90,12 @@
 				
 
 					<p>Mary Costa<br>
-					MFC Woodworking<br>
+					  <strong>MFC Woodworking</strong><br>
 					Rehoboth, DE<br>
 					<a href="http://www.mfcwoodworking.com">www.mfcwoodworking.com</a></p>
 
 					<p>Chris Lowe &amp; Valerie Silensky<br>
-					Quality Hill Coffee<br>
+					  <strong>Quality Hill Coffee</strong><br>
 					Mt. Ranier, MD<br>
 					<a href="http://www.qualityhillcoffee.com">www.qualityhillcoffee.com</a></p>
 
@@ -107,16 +106,16 @@
 
 
 					<p>Karen &amp; Rick Lowe<br>
-					Lowelands Farm<br>
+					  <strong>Lowelands Farm</strong><br>
 					Middleburg, VA<br>
 					<a href="http://www.lowelandsfarm.com">www.lowelandsfarm.com</a></p>
 						
-					<p>Capital City Cocker Club, Inc.<br>
+					<p><strong>Capital City Cocker Club, Inc.</strong><br>
 					<a href="http://www.capitalcitycockers.org">www.capitalcitycockers.org</a></p>
 
-					<h4>Individual Donors</h4>
+				 
 
-					<div id="programs">
+			  <div id="programs">
 						<div class="box_heading">
 							<h2>Gold</h2>
 							<span class="line"></span>
@@ -126,14 +125,14 @@
 					<h4>Business Sponsors</h4>
 
 						<p>Karen Huntley
-						Tastefully Simple Consultant<br>
+						  <strong>Tastefully Simple </strong>Consultant<br>
 						<a mailto="SimplyHuntley@verizon.net">SimplyHuntley@verizon.net</a><br>
 						<a href="http://www.tastefullysimple.com/web/khuntley">www.tastefullysimple.com/web/khuntley</a></p>
 
 				
-					<h4>Individual Donors</h4>
+				 
 
-					<div id="programs">
+			  <div id="programs">
 						<div class="box_heading">
 							<h2>Silver</h2>
 							<span class="line"></span>
@@ -141,20 +140,19 @@
 					</div>
 				
 					<h4>Business Sponsors</h4>
-					<p>The Faithful Pet Friend<br>
+					<p><strong>The Faithful Pet Friend</strong><br>
 						Pet Sitting and Dog Walking
 						703-644-2389<br>
 						<a href="www.thefaithfulpetfriend.com">www.thefaithfulpetfriend.com</a></p>
 
-					<p>Karen Huntley
-						Linda Gentry<br>
-						Main Street Antique Mall<br>
+				  <p>Linda Gentry<br>
+    <strong>Main Street Antique Mall</strong><br>
 						<a mailto="lfgentry@gmail.com ">lfgentry@gmail.com </a><br>
 				
-					<h4>Individual Donors</h4>
+					
 
 
-				</div>
+			  </div>
 
 			</div>
 			<!-- End Page Content -->

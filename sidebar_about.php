@@ -16,65 +16,20 @@
 						
 					<div class="widget">
 						<h5>About OBG</h5>
-						<div class="sidebarlist">
-							<ul>
-								<li>
-									<a href="">Adoption Policies</a>
-								</li>
-								<li>
-									<a href="">Adoption Process</a>
-								</li>
-								<ul>
-									<li><a href="">Meet Your Match</a></li>
-									<li><a href="">Application</a></li>
-									<li><a href="">Home Visit</a></li>
-									<li><a href="">Contract &amp; Check</a></li>
-									<li><a href="">Welcome Home!</a></li>
-								</ul>
-				
-							</ul>
-							
-						</div>
-					</div>
+						<p>Established in 1996, OBG is an all-volunteer cocker spaniel rescue  based in the mid-Atlantic - primarily DC, MD &amp; VA.</p>
+					    <div class="sidebarlist">						  </div>
+				  </div>
 					
 					<div class="widget">
-						<h5>Meet the Dogs!</h5>
-						<div class="events">
-							<ul>
-								<li>
-									<div class="date"><span>12</span><br> Jan</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
-									</div>
-								</li>
-								<li>
-									<div class="date"><span>23</span><br> Feb</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
-									</div>
-								</li>
-								<li>
-									<div class="date"><span>23</span><br> Mar</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 3</a></h5>
-									</div>
-								</li>
-							</ul>
-						</div>
+						<h5>Mission Statement</h5>
+					    <p>To rescue, rehabilitate and rehome cocker spaniels and spaniel mixes of   all ages, while providing a positive experience for 
+					    	our community of   adopters, volunteers and supporters.</p>
 					</div>
-					
 					<div class="widget">
-						<h5>Medical</h5>
-						<div class="sidebarlist">
-							<ul>
-								<li>Complete Physical Exam</li>
-								<li>Spay or Neuter</li>
-								<li>Shots: Rabies, DHLPP &amp; Bordatella</li>
-								<li>Monthly Prevention Heartworm, Fleas &amp; Ticks</li>
-								<li>Senior Bloodwork</li>
-								<li>Non-Elective Surgery</li>
-							</ul>
-						</div>
+						<h5>Fun Fact</h5>
+						<p>Many people think the name &ldquo;Oldies But Goodies&rdquo; references the senior   dogs that were saved by OBG; however, 
+							legend has it that the name   &ldquo;Oldies But Goodies&rdquo; came about because our founder said that people   threw 
+							out dogs like a pair of old shoes (no matter what their age).</p>
 					</div>	
 
 					<div class="widget">
@@ -91,5 +46,5 @@
 						</div>
 					</div>
 
-				</div>
+</div>
 			</aside>

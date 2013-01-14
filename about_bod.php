@@ -124,8 +124,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Beth Bauer, President</h4>
-						<p>A lifelong lover of cocker spaniels, Beth joined OBG as a foster in 2007 when business travel prevented her from adopting a dog of her own. &nbsp;Once OBG&#39;s Dasher came into her life, she decided she couldn&#39;t imagine letting him go! &nbsp;Since that time, her involvement steadily grew and she has fostered over 30 dogs. &nbsp; She has chaired Cockers Uncorked, the annual OBG wine tasting and silent auction, since inception. &nbsp;Beth became President of OBG in 2010. &nbsp;Beth works full-time as a financial systems consultant and lives in DC with her boyfriend, Jorge, and their little black cocker, Dasher!</p>
-					</div>
+						<p>Beth has loved cocker spaniels ever since she can remember, so as soon as she could foster, she  joined OBG! She loves learning about  all aspects of the organization and trying new ideas, which eventually led her to become President in 2010. She has chaired Cockers Uncorked, the annual OBG wine tasting and silent auction, since inception. Though she continues to foster in DC for OBG, she has only adopted two (so far), Dasher and Millie!&nbsp;</p>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -134,7 +134,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Karen Bryson, VP Intake</h4>
-						<p>Karen runs our dog intake and has the heartwarming task of getting to say "yes" and the heartbreaking task of having to say "no".  She and her husband, Brian, perform countless transports to scoop dogs up from shelters, often at a moment's notice when a dog's life is on the line.  The Brysons are avid fosters, including several special-needs Fanconi dogs, and have adopted many OBG alumni - one of whom is even a therapy dog!</p>
+						<p>Karen runs our dog intake and has the heartwarming task of getting to say "yes" and the heartbreaking task of having to say "no".  She and her husband, Brian, perform countless transports from their hom in VA to scoop dogs up from shelters, often at a moment's notice when a dog's life is on the line.  The Brysons are avid fosters, including several special-needs Fanconi dogs, and have adopted many OBG alumni - one of whom is even a therapy dog!</p>
 					</div>
 				</div>
 
@@ -144,10 +144,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Teresa Butler, VP Adoptions</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-					</div>
+						<p>Teresa uses years of rescue experience to impart sage advice to fosters and adopters. She fosters countless dogs in VA, including many "honorary" cockers, and has been responsible for more adoptions (including plenty of her own) than we can count. It's obvious that fostering is where her heart is at! She's a regular at our adoption shows accompanied by her mom, June. Teresa is also an incredible legal resource for OBG, working full time in that field.</p>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -156,8 +154,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Deb Adler</h4>
-						<p>Active with OBG since 2005, Deb started as a transport volunteer - but she didn't stop there! Since then, she has been part of the intake team, written dog bios and organized several fundraising events.  Along with her family, she has fostered approximately 25 cockers, working with dogs that have anxiety or medical issues. She has a special interest in working with dogs that have special needs such as epilepsy or blindness. Deb and her family started a "Cans for Canines" aluminum can recycling program in their community. As a former elementary school teacher, she would love to see OBG reach out to youngsters through a humane education program. She lives in MD with her husband, Jeff and son, Blaine, as well as OBG alum,  Rusty.</p>
-					</div>
+						<p>Active with OBG since 2005, Deb started as a transport volunteer and became so much more! She has been part of the intake team, written dog bios and organized several fundraising events. In addition to adopting several OBG dogs, like Rusty, she and her family actively foster and find special needs dogs to be incredibly rewarding fosters. As a former teacher, Deb and her family started a &quot;Cans for Canines&quot; program in their MD community and she would love OBG to reach out to youngsters through a humane education program.</p>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -166,7 +164,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Sue Cannon</h4>
-						<p>Sue provides a warm welcome as our volunteer coordinator.  We're lucky that hers is the first smiling face many of our new volunteer get to see!  Though she's one of the newer members of our board, she brings new energy to the group.  She's also has proven to be incredibly reliable and detail oriented with our dog data.  She dotes on her two human daughters and fur kid, OBG alum Missy!</p>
+						<p>Sue provides a warm welcome as our volunteer coordinator.  We're lucky that hers is the first smiling face many of our new MD volunteers get to see!  Though she's one of the newer members of our board, she brings new energy to the group.  She's also has proven to be incredibly reliable and detail oriented with our dog data.  She dotes on her two human daughters and fur kid, OBG alum Missy!</p>
 					</div>
 				</div>
 
@@ -176,8 +174,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Connie Gay</h4>
-						<p>Connie started volunteering with OBG in January 2007 as a foster parent. She is especially fond of the seniors and has fostered a fair number of them, including some needing hospice and comfort care.  Other fosters ended up staying put - Connie's three dogs, "Air" Bruce, Almond and DeeDee are lovingly referred to as "failed fosters" because she and her husband couldn't bear to part with them! Prior to moving out of the area, Connie was active in overseeing Virginia adoption shows.  She still remains committed to cockers - especially the seniors - in her new neck of the woods, and has continued to provide temp foster and transport for dogs to help them get to OBG.</p>
-					</div>
+						<p>Connie started volunteering with OBG in January 2007 as a foster parent. She is especially fond of the seniors and has fostered a  number of them, including some hospice dogs.  She and her husband adopted several OBG dogs - currently Bruce, Almond and DeeDee. Prior to moving out of the area to NC, Connie was active in overseeing Virginia adoption shows.  She still remains committed to helping cockers in her new neck of the woods, and has continued to provide temp foster and transport to help dogs get to OBG.</p>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -186,10 +184,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Cheryl Haralson</h4>
-						<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Fusce dapibus, tellus ac 
-							cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. posuere erat a ante venenatis dapibus posuere 
-							velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-					</div>
+						<p>Cheryl has been active in many aspects of OBG, but she's probably best known for her involvment with all things fundraising. She has raised more funds than we can imagine as   our Shelter Challenge cheerleader, merchandise guru, and event   planner.  In addition, her attention to detail has made her a critical   player in so many things that go on "behind the scenes" - planning, proofreading, organizing - you name it! OBG alums Pepper and Danny are the current fur kids of the Haralson family.</p>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -198,13 +194,10 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>CeCe Holman</h4>
-						<p>CeCe&nbsp;started volunteering with OBG in 2008 as a school project. &nbsp;She started off attending shows but her involvement steadily 
-						grew. &nbsp;Since then she has fostered many litters of moms and their puppies and she&nbsp; took over as VA foster coordinator in 
-						August of 2008! &nbsp;As VA foster coordinator, she enjoys working with the dogs and their foster families. She has been on the 
-						OBG Board for many years and enjoys working with the dogs and prospective adopters in finding their forever homes. &nbsp;She adopted 
-						her first OBG dog, Duffy, 9 years ago and has adopted two since: Mitzie and Bo. &nbsp;She also has 2 OBG alum grand-dogs, Bojangles 
+						<p>CeCe&nbsp;started volunteering with OBG in 2008 as a school project and before she knew it, she became VA foster coordinator! &nbsp;She enjoys working with both dogs and people, so foster coordination is a natural fit. She and her family have fostered many dogs, but are best known as OBG's go-to for moms and their litters of puppies. &nbsp;She adopted 
+						her first OBG dog, Duffy, years ago and has adopted two since: Mitzie and Bo. &nbsp;She also has 2 OBG alum grand-dogs, Bojangles 
 						and Patch!</p>
-					</div>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -215,7 +208,7 @@
 						<h4>Marilyn Kessinger</h4>
 						<p>Marilyn keeps the "MD side" of OBG running like a well oiled machine. As foster coordinator, she provides guidance to foster homes 
 							in MD and DC, transports, attends plenty of shows and events, and fosters dogs - including current dogs Laddy, Maggie Ann and 
-							Fluff whom she adopted to join her original adoptee, Luke.  She also helps with our Financials, since she is a retired 
+							Fluff whom she adopted to join an earlier adoptee, Luke.  She also helps with our Financials, since she is a retired 
 							auditor - it's great to have her on our side!</p>
 					</div>
 				</div>
@@ -226,7 +219,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Angela Robinson - Secretary</h4>
-						<p>Angela has volunteered with OBG for over 10 years and has served on the board for much of that time. Her volunteer 
+						<p>Angela has volunteered with OBG since 2001 and has served on the board for much of that time. Her volunteer 
 							activities have included: fostering and successfully placing over 30 dogs; organizing numerous fundraising events; 
 							acting as the group’s “face” on multiple media outlets including WUSA’s Petline 9, Fox 5 mid-day news, and the 
 							WJZW 105.9 “Spectrum” program.  She also created and continues to operate the OBG’s “Donation Card” program, 
@@ -246,7 +239,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Jim Mich - Treasurer</h4>
-						<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum.</p>
+						<p>Jim might be known for running OBG bake sales, but that's just the tip of the iceburg when it comes to his business acumen. Having just retired from public service, we snatched him up to become OBG's Treasurer where he ensures we manage our funds wisely, qualify to participate in CFC and always receive a seal of approval on our audit. He and his wife, Tracey, are all-around active volunteers and reside in MD with OBG alum, Riley.</p>
 					</div>
 				</div>
 				
