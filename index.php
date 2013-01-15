@@ -223,7 +223,7 @@
 					<!-- Start Sponsors -->
 					<div id="sponsors" class="one_third column_last">
 						<div class="box_heading">
-							<h2>Our Sponsors</h2>
+							<h2>Featured Dogs</h2>
 							<span class="line"></span>
 						</div>
 						<ul>
