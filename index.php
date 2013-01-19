@@ -172,11 +172,6 @@
 								<span><img src="images/content/outsideview.jpg" height="80px" width="80px"></span>
 								<p><a href="http://www.formstack.com/forms/?1341747-ZtyojS0bxF" target="_blank">Order</a> a high quality weathervane for your spring garden.  Mix and match between various designs and mounts. Makes a great gift for Mother's Day!</p>
 							</li>
-							<li>
-								<h5><a href="blog_single.html">OBG Earns Top Ratings in 2012!</a></h5>
-								<span><img src="images/content/topratedbadge2012A.jpg" height="51px" width="125px"></span>
-								<p>Thanks to your feedback, OBG was recognized by Great Nonprofits as a 2012 Top-Rated non-profit.</p>
-							</li>
 					  </ul>						
 				  </div>
 					<!-- End News -->
@@ -220,22 +215,25 @@
 					</div>
 					<!-- End Events -->
 					
-					<!-- Start Sponsors -->
-					<div id="sponsors" class="one_third column_last">
+					<!-- Start Dogs  -->
+					<div class="news one_third column_last">
 						<div class="box_heading">
 							<h2>Featured Dogs</h2>
 							<span class="line"></span>
 						</div>
 						<ul>
-							<li><img src="images/content/sponsor-1.png" alt="Sponsor 1" /></li>
-							<li class="last"><img src="images/content/sponsor-2.png" alt="Sponsor 2" /></li>
-							<li><img src="images/content/sponsor-3.png" alt="Sponsor 3" /></li>
-							<li class="last"><img src="images/content/sponsor-4.png" alt="Sponsor 4" /></li>
-							<li><img src="images/content/sponsor-5.png" alt="Sponsor 5" /></li>
-							<li class="last"><img src="images/content/sponsor-6.png" alt="Sponsor 6" /></li>
-							<li class="bottom"><img src="images/content/sponsor-9.png" alt="Sponsor 9" /></li>
-							<li class="bottom last"><img src="images/content/sponsor-7.png" alt="Sponsor 7" /></li>
-						</ul>
+							<li>
+								<h5><a href="#">Misty</a></h5>
+								<span><img src="images/content/misty01" height="80px" width="80px"></span>
+								<p>Your votes can help OBG win up to $10,000! Please vote daily.</p>
+							</li>
+							<li>
+								<h5><a href="#">Sawyer</a></h5>
+								<span><img src="images/content/sawyer07.jpg" height="80px" width="80px"></span>
+								<p>high quality weathervane for your spring garden. Mix and match between various 
+									designs and mounts. Makes a great gift for Mother's Day!</p>
+							</li>
+					  </ul>			
 					</div>
 					<!-- End Sponsors -->
 					
