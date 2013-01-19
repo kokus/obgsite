@@ -224,7 +224,7 @@
 						<ul>
 							<li>
 								<h5><a href="#">Misty</a></h5>
-								<span><img src="images/content/misty01" height="80px" width="80px"></span>
+								<span><img src="images/content/misty01.jpg" height="80px" width="80px"></span>
 								<p>Your votes can help OBG win up to $10,000! Please vote daily.</p>
 							</li>
 							<li>
