@@ -108,23 +108,23 @@
 					<div class="one_third column_last" style="background:none repeat scroll 0 0 #EBEBEB;">
 						<ul class="polaroids">
 							<li>
-								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450846" title="Cara">
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3450846m8471611.jpg" alt="Cara" />
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450846" title="Adams">
+									<img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams30.jpg" alt="Adams Pic" />
 								</a>
 							</li>
 							<li>
-								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450866" title="Chuck">
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3450866m8471647.jpg" alt="Chuck" />
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3450866" title="Adams">
+									<img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams13.jpg" alt="Adams Pic" />
 								</a>
 							</li>
 							<li>
-								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454858" title="Duke">
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/fullsize/s4707a3454858m8482248.jpg" alt="Duke" />
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454858" title="Adams">
+									<img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams14.jpg" alt="Adams Pic" />
 								</a>
 							</li>
 							<li>
-								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454970</petUrl>" title="Farley">
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454970m8482570.jpg" alt="Farley" />
+								<a href="http://cockerspanielrescue.rescuegroups.org/animals/detail&amp;#63;AnimalID=3454970" title="Adams">
+									<img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams15.jpg" alt="Adams Pic" />
 								</a>
 							</li>
 						</ul>

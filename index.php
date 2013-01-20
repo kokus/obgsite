@@ -223,8 +223,8 @@
 						</div>
 						<ul>
 							<li>
-								<h5><a href="adopt_dog_detail.php">Misty</a></h5>
-								<span><img src="images/content/misty01.jpg" height="80px" width="80px"></span>
+								<h5><a href="adopt_dog_detail_adams.php">Adams</a></h5>
+								<span><img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams31.jpg" height="80px" width="80px"></span>
 								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
 									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
 							</li>
