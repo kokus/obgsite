@@ -223,13 +223,13 @@
 						</div>
 						<ul>
 							<li>
-								<h5><a href="#">Misty</a></h5>
+								<h5><a href="adopt_dog_detail.php">Misty</a></h5>
 								<span><img src="images/content/misty01.jpg" height="80px" width="80px"></span>
 								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
 									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
 							</li>
 							<li>
-								<h5><a href="#">Sawyer</a></h5>
+								<h5><a href="adopt_dog_detail.php">Sawyer</a></h5>
 								<span><img src="images/content/sawyer07.jpg" height="80px" width="80px"></span>
 								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
 									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
