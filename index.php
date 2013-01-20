@@ -225,13 +225,14 @@
 							<li>
 								<h5><a href="#">Misty</a></h5>
 								<span><img src="images/content/misty01.jpg" height="80px" width="80px"></span>
-								<p>Your votes can help OBG win up to $10,000! Please vote daily.</p>
+								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
+									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
 							</li>
 							<li>
 								<h5><a href="#">Sawyer</a></h5>
 								<span><img src="images/content/sawyer07.jpg" height="80px" width="80px"></span>
-								<p>high quality weathervane for your spring garden. Mix and match between various 
-									designs and mounts. Makes a great gift for Mother's Day!</p>
+								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
+									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
 							</li>
 					  </ul>			
 					</div>

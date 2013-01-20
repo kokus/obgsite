@@ -408,7 +408,8 @@ div.flexslider-container {
 		border-bottom: 1px solid #e1e1e1;
 	}
 	div.news ul li:last-child {
-		border-bottom: none;
+		/*border-bottom: none;*/
+		border-bottom: 1px solid #E1E1E1;
 	}
     /* added JV 01-12 */
     div.news ul span {
