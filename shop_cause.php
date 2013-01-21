@@ -118,7 +118,7 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Weather Vanes, Made in the USA</h4>
-						<p>$6.00 of the purchase price of each bottle benefits OBG!</p>
+						<p>OBG Receives a generous donation for every purchase of these high quality, 14 gauge steel weather vanes.</p>
 						<p><a href="" target="_blank">Click to Learn More & Order!</a></p>
 				  </div>
 				</div>
@@ -130,7 +130,7 @@
 					<div class="two_thirds column_last">
 						<h4>MFC Woodworking</h4>
 						<p>50% of the proceeds from your order of a "Pet Lover Board" goes to OBG</p>
-							<p><a href="" target="_blank">Click to Learn More & Order!</a></p>
+							<p><a href="http://mfcwoodworking.com/gallery/pet_lover_boards" target="_blank">Click to Learn More & Order!</a></p>
 					</div>
 				</div>
 
@@ -140,8 +140,8 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Wigglebutt Wines</h4>
-						<p>OBG Receives a generous donation for every purchase of these high quality, 14 gauge steel weather vanes.</p>
-						<p><a href="" target="_blank">Click to Learn More & Order!</a></p>
+						<p>$6.00 of the purchase price of each bottle benefits OBG!.</p>
+						<p><a href="http://www.benefitwines.com/oldies_s/430.htm?Click=4368" target="_blank">Click to Learn More & Order!</a></p>
 				  </div>
 				</div>
 				
