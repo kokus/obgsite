@@ -132,10 +132,10 @@
 							<div class="inner">
 								<div class="box_heading">
 									<span class="icon general-enclosed">2</span>
-									<h4>Shop</h4>
-								</div>
-								<p>Use our links when shopping online - we get credit!  And stop by our online store for all things cocker.</p>
-							</div>
+									<h4><a href="shop.php">Shop</a></h4>
+							  </div>
+								<p>Use <a href="shop_online_obg.php">our links</a> when shopping online - we get credit!  And <a href="shop_cause.php">shop for a cause</a>, by purchasing items for which OBG gets a donation!.</p>
+						  </div>
 						</div>
 					</div>
 					<!-- End Actions -->		
@@ -194,15 +194,15 @@
 							<li>
 								<div class="date"><span>26</span><br> Jan</div>
 								<div class="details">
-									<h5><a href="event_detail2.php">Adoption Show - Springfield, VA</a></h5>
-									<p>11am @ Springfield Petsmart</p>
+									<h5><a href="event_detail2.php">Adoption Show - Vienna, VA</a></h5>
+									<p>11am @ Vienna Petco</p>
 								</div>
 							</li>
 							<li>
 								<div class="date"><span>10</span><br> Feb</div>
 								<div class="details">
 									<h5><a href="event_detail1.php">Longaberger Basket Party</a></h5>
-									<p>1pm @ Arline's Home Address (Arlington, VA)</p>
+									<p>1pm @ in Arlington, VA</p>
 								</div>
 							</li>
 							<!--<li>
@@ -226,14 +226,14 @@
 							<li>
 								<h5><a href="adopt_dog_detail_adams.php">Adams</a></h5>
 								<span><a href="adopt_dog_detail_adams.php"><img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams31.jpg" height="80px" width="80px"></a></span>
-								<p>"Adams is a guy whose life was saved by the outstanding staff at a local shelter.  After a life of solitude, this sweet 5 year old loves any and all 
+								<p>Adams is a guy whose life was saved by the outstanding staff at a local shelter.  After a life of solitude, this sweet 5 year old loves any and all 
 									positive attention and is making up for lost time. <a href="adopt_dog_detail_adams.php">Learn more...</a>"</p>
 							</li>
 							<li>
 								<h5><a href="adopt_dog_detail.php">Sawyer</a></h5>
 								<span><img src="images/content/sawyer07.jpg" height="80px" width="80px"></span>
 								<p><strong>Needs a Foster!</strong> This 8 year old sweetie needs a calm foster home in which to recover from knee surgery.  
-									<a href="">Click here to learn more about all our dogs hoping for a foster home</a> </p>
+									<a href="">Learn more about dogs hoping for a foster home.</a> </p>
 							</li>
 					  </ul>			
 					</div>

@@ -108,14 +108,8 @@
 
 				<h1>Free Ways to Help OBG Online</h1>
 				<div class="full">
-					<p>There are a few ways to help OBG earn much needed funds at no cost to you.</p>
-					<ul class="contentpage">
-						<li>Online Searches</li>
-						<li>Online Shopping</li>
-						<li>Vote in the Shelter Challenge</li>
-					</ul>
-
-				</div>
+					<p>Check out these easy ways to help OBG earn much needed funds at no cost to you.</p>
+			  </div>
 				
 				<div class="box_heading">
 					<h2>Help OBG Every Time You Search!</h2>
@@ -136,26 +130,27 @@
 					<h2>Help OBG Every Time You Shop Online!</h2>
 					<span class="line"></span>
 				</div>
-
-				<div id="programs">
-					<div class="one_third">
-						<a href="#"><img src="images/content/Amazon_150wide.gif" alt=""></a>
-					</div>
+                
+                <p>Shop at I-Give (an online shopping mall), Amazon.com or Petsmart.com by clicking on the buttons below and the dogs of 
+				 OBG will receive a contribution at no additional cost to you.</p>
+                <p>&nbsp;</p>
+                <div id="programs">
+					<div class="one_third"><a href="#"><a href="#"><img src="images/content/Amazon_150wide.gif" alt=""></a></a></div>
+      
 					<div class="two_thirds column_last">
-						<p>Shop at I-Give (an online shopping mall), Amazon.com or Petsmart.com by clicking on the buttons below and the dogs of 
-							OBG will receive a contribution at no additional cost to you.</p>
-						<P>Just connect to Amazon.com by clicking on this button to make sure your purchase is credited to OBG!</P>
+						<P>Just connect to Amazon.com by clicking on this image to make sure your purchase is credited to OBG!</P>
 					</div>
 				</div>
 
-				<div id="programs">
+		  <div id="programs">
 					<div class="one_third">
 						<a href="#"><img src="images/content/igive125x75.gif" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
-						<p>Just connect to iGive.com by clicking on this button to make sure your purchase is credited to OBG! And if you never 
-							want to miss an opportunity, <a href="http://www.igive.com/button/index.cfm" target="_blank">download this button</a> which will find participating stores and credit OBG automatically!</p>
-				  </div>
+						<p>Just connect to iGive.com by clicking on this image prior to purchasing to make sure your purchase is credited to OBG!</p>
+						<p>And if you never 
+						  want to miss an opportunity, <a href="http://www.igive.com/button/index.cfm" target="_blank">download this button</a> which will find participating stores and credit OBG automatically!</p>
+		    </div>
 				</div>
 
 				<div id="programs">
@@ -163,7 +158,7 @@
 						<a href="#"><img src="images/content/Petsmart234x60special.gif" alt=""></a>
 					</div>
 					<div class="two_thirds column_last">
-						<p>Just connect to Petsmart.com by clicking on this button to make sure your purchase is credited to OBG!</p>
+						<p>Just connect to Petsmart.com by clicking on this image to make sure your purchase is credited to OBG!</p>
 				  </div>
 				</div>
 				

@@ -79,7 +79,7 @@
 				<!-- End Breadcrumb -->
 				<h1>Adams</h1>
 
-				<h2> Adult | Male | Pending</h2>
+				<h2> Adult | Male | Adoption Pending</h2>
 					<div class="two_thirds">
 						<p>Adams is a guy whose life was saved by the outstanding staff at a local shelter. This poor guy suffered alone until some caring individuals spoke up on Adams behalf. After a life of solitude, this sweet 5 year old loves any and all positive attention and is making up for lost time. Adams discovered toys and he LOVES them! He prefers the plastic or rubber squeaky ones and if you play with him, you will be tops in his eyes!</p>
 						<p>Adams is an energetic guy and will need daily walks to keep him physically fit so probably not a good match for couch potatoes. He walks perfectly on a leash. He is also housebroken.</p>
@@ -87,7 +87,7 @@
 						<p>While Adams likes cats and adults, kids are not his cup of tea. We have discovered that he has sensitive ears due to long-term neglect and as a result does not like to have his ears touched. Of course, beautiful ears are a kid magnet and they may inadvertently cause him pain so an adult household with an experienced cocker owner is best. We have also found that Adams loves his bones so much that he is often not willing to share.  He is very intelligent and eager to learn; Adams already knows commands such as sit, stay, down, come, leave it, roll over, etc. Say sit/treat and Adams will drop what he is doing and come for a cherished treat (such a cocker).</p>
 						<p>Adams is now in a loving foster home where he will come to know that people are capable of caring for and loving him. He will soon be interviewing potential adopters at upcoming adoption shows. Please email us to find out more about Adams.</p>
 
-						<h5>Contact Adams' foster to learn more! </h5>
+						<h4>Contact Adams' foster to learn more! </h4>
 						<p>Susan & Trish (Patricia) (<a href="mailto:susan.arango63@gmail.com">susan.arango63@gmail.com</a>)</p>
 						<p>You should receive a response within 48 hours.  If you do not, please send a message through our contact page.</p>
 						<p><strong>Adams' Rescue ID: 12-236</strong><p>

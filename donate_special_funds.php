@@ -104,9 +104,8 @@
 
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="images/content/wonder_dog_fund.jpg" alt=""></a>
-					</div>
-					<div class="two_thirds column_last">
+						<a href="#"><img src="images/content/wonder_dog_fund.jpg" alt="" width="99" height="102"></a>					</div>
+	  <div class="two_thirds column_last">
 						<h4>Wonder Dog Fund</h4>
 						<p>This fund was set up in tribute to Wonder Dog, a severely abused dog that came to OBG.  <a href="" target="_blank">Click here for Wonder Dogs story</a></p>
 					</div>
@@ -118,12 +117,12 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Sammy's Fund for Special Needs</h4>
-						<p>Contributions to the <a href="http://www.cockerspanielrescue.com/fundraising/sammyfund.htm" target="_blank">Sammy Fund</a> will go towards 
+						<p>Contributions to the Sammy Fund will go towards 
 							specific medical diagnostics and operations for our special needs 
 							dogs. Common examples of these procedures are cataract removal, ear canal surgery, removal of mammary tumors, bladder
 							stone removal.  This fund was inspired by Sammy, who had his eyesight restored through surgery and was happily placed 
 							in a loving home.</p>
-					</div>
+				  </div>
 				</div>
 
 				<div id="programs">
@@ -132,18 +131,17 @@
 					</div>
 					<div class="two_thirds column_last">
 						<h4>Charlotte's Fund for Heartworm</h4>
-						<p>Contributions to the <a href="http://www.cockerspanielrescue.com/fundraising/charlotte%20fund.htm" target="_blank">Charlotte Fund</a> will go specifically for heartworm pills and treatment for the OBG dogs, as well as for educational 
+						<p>Contributions to the Charlotte Fund will go specifically for heartworm pills and treatment for the OBG dogs, as well as for educational 
 							pamphlets.  Unfortunately OBG has seen many dogs come in with heartworm, which can run from $500 on up depending upon the extent of 
 							infestation and other complications. This fund was inspired by Charlotte, a darling little 3 year old who succumbed to heartworm after 
 							putting up a brave fight.</p>
-					</div>
+				  </div>
 				</div>
 				
 				<div id="programs">
 					<div class="one_third">
-						<a href="#"><img src="images/content/walters_memorial_fund.jpg" alt=""></a>
-					</div>
-					<div class="two_thirds column_last">
+						<a href="#"><img src="images/content/walters_memorial_fund.jpg" alt="" width="103" height="100"></a>					</div>
+	  <div class="two_thirds column_last">
 						<h4>Christine Walters Memorial Fund</h4>
 						<p>Contributions to this fund, in honor of artist and OBG supporter Christine Walters, will go to the care of our Special Needs patients.</p>
 					</div>

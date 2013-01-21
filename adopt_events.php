@@ -70,7 +70,7 @@
 							</li>
 							<li>
 								<span class="nav_sep">&raquo;</span>
-								<span>Events &amp; Foundraisers</span>
+								<span>Events &amp; Fundraisers</span>
 							</li>
 						</ol>
 				</div>

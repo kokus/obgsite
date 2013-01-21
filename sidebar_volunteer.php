@@ -43,22 +43,24 @@
 						<div class="events">
 							<ul>
 								<li>
-									<div class="date"><span>12</span><br> Jan</div>
+									<div class="date"><span>26</span><br> Jan</div>
 									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
+										<h5><a href="event_detail2.php">Adoption Show (Rockville, MD)</a></h5>
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span><br> Feb</div>
+									<div class="date"><span>26</span><br> 
+									Jan</div>
 									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
+										<h5><a href="event_detail2.php">Adoption Show (Vienna, VA)</a></h5>
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span><br> Mar</div>
-									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 3</a></h5>
-									</div>
+									<div class="date">10<br>
+							       Feb</div>
+							  <div class="details">
+										<h5><a href="event_detail1.php">Longaberger Party</a></h5>
+								  </div>
 								</li>
 							</ul>
 						</div>

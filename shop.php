@@ -102,11 +102,17 @@
 
 
 				<h1>Shop </h1>
-				
-				<div class="full">
-					<p>These folks work tirelessly (often behind the scenes) to ensure Happy Tails - for both dogs 
-						and adopters!  Very few give more of themselves to OBG than this special group of people...</p>
-				</div>
+				<img class="rounded" alt="" src="images/content/700x244_v3Princess.jpg">
+<div class="full">
+					<p>We know you probably don't need any help spending your money, but thought you might like some tips on shopping for a cause - in other words, how your shopping (or even online searches) can benefit the homeless pups of OBG!</p>
+                    <ul class="contentpage">
+						<li><a href="shop_cause.php">Shop for a Cause</a></li>
+						<li><a href="shop_online_obg.php">FREE Ways to Help OBG Online</a></li>
+						<li>OBG Store (Coming Soon!)</li>
+                        </ul>
+		<p>&nbsp;
+        </p>
+			  </div>
 
 				
 			</div>

@@ -76,10 +76,8 @@
 				<h1>Donate Online</h1>
 				
 				<div>
-				<p> OBG is an all volunteer, non-profit organization, which means your donations  					go directly toward the care of our dogs. We rely on your support to help us with the cost of the   					care and rehabilitation of our dogs; the adoption fees do not come close to covering these expenses.  Major   					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than  foster homes).</p>
-			    <p>OBG is listed on <a href="http://www2.guidestar.org/organizations/54-1833707/oldies-goodies-cocker-rescue.aspx">Guidestar</a> and was recognized as a <a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">2012 Top Nonprofit</a>.</p>
-			    <p>Your donations are greatly appreciated and have helped thousands of dogs find their forever homes over the years!</p>
-			    <p>                
+				<p> Your donations are greatly appreciated and have helped thousands of dogs on their way to forever homes over the years! OBG is an all volunteer, non-profit organization, which means your donations  					go directly toward the care of our dogs. We rely on your support to help us with the cost of the   					care and rehabilitation of our dogs; the adoption fees do not come close to covering these expenses.  Major   					expenses include vetting, grooming, and kenneling (which we must do when we have more dogs than  foster homes).</p>
+			                    
 			    <h2>Online</h2>
 			    <p>Online donations allow for a quick, easy and secure way to give to   OBG!   The following links allow you to set up a one-time gift or a   monthly subscription donation.</p>
 			    <p>&lt;&lt;PAYPAL&gt;&gt;</p>
@@ -93,6 +91,7 @@
 				    Giving for Tomorrow is a pledge-based way to donate to OBG. It's a win-win because you get to donate gradually and we   don't   have to worry about "where our next paycheck" is coming from, so   we   can focus 100% of our time and energy on caring for the dogs.</p>
 				  <p>&lt;&lt;SET UP SUBSCRIPTION&gt;&gt;</p>
 				  <p>As with all donations to OBG Cocker Rescue, a 501(c)3 non-profit, your donation by mail is tax deductible to the extent allowable by the law; please consult your tax advisor for details.</p>
+				  <p>OBG is listed on <a href="http://www2.guidestar.org/organizations/54-1833707/oldies-goodies-cocker-rescue.aspx">Guidestar</a> and was recognized as a <a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">2012 Top Nonprofit</a>.</p>
 			  </div>
 				
 
