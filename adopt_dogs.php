@@ -92,7 +92,7 @@
 				</div>
 
 
-				<div class="gallery_container">
+				<!-- <div class="gallery_container">
 				    <div class="galleryItem side-corner-tag">
 				        <a href="adopt_dog_detail_adams.php">
 				        	<img src="images/content/adams31.jpg" alt=""></a>
@@ -142,6 +142,144 @@
 				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 10</h5>
 				    </div>
+				</div> -->
+
+				<div class="tabs">
+						<ul class="nav">
+							<li class="current"><a class="tab_1" href="javascript:;">Adoptable</a></li>
+							<li class=""><a class="tab_2" href="javascript:;">Needs Foster</a></li>
+							<li class=""><a class="tab_3" href="javascript:;">Seniors</a></li>
+						</ul>
+						<div class="pane" id="tab_1" style="display: block;">
+								<div class="gallery_container">
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php">
+								        	<img src="images/content/adams31.jpg" alt=""></a>
+								        <h5>Adams</h5>
+								        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/gingersnap01.jpg" alt=""></a>
+								        <h5>Ginger</h5>
+								        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
+								    </div>
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/misty01.jpg" alt=""></a>
+								        <h5>Misty</h5>
+								        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/sawyer07.jpg" alt=""></a>
+								        <h5>Sawyer</h5>
+								        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
+								    </div>
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 5</h5>
+								    </div>
+								      <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 5</h5>
+								    </div>
+								 
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 6</h5>
+								    </div>
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 7</h5>
+								    </div>
+								 
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 8</h5>
+								    </div>
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 9</h5>
+								    </div>
+								     <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 10</h5>
+								    </div>
+								</div>
+						</div>
+						<div class="pane" id="tab_2" style="display: none;">
+							<div class="gallery_container">
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php">
+								        	<img src="images/content/adams31.jpg" alt=""></a>
+								        <h5>Adams</h5>
+								        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/gingersnap01.jpg" alt=""></a>
+								        <h5>Ginger</h5>
+								        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
+								    </div>
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/misty01.jpg" alt=""></a>
+								        <h5>Misty</h5>
+								        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/sawyer07.jpg" alt=""></a>
+								        <h5>Sawyer</h5>
+								        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
+								    </div>
+
+								</div>
+						</div>
+						<div class="pane" id="tab_3" style="display: none;">
+								<div class="gallery_container">
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php">
+								        	<img src="images/content/adams31.jpg" alt=""></a>
+								        <h5>Adams</h5>
+								        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/gingersnap01.jpg" alt=""></a>
+								        <h5>Ginger</h5>
+								        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
+								    </div>
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/misty01.jpg" alt=""></a>
+								        <h5>Misty</h5>
+								        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
+								    </div>
+								 
+								    <div class="galleryItem side-corner-tag">
+								        <a href="adopt_dog_detail_adams.php"><img src="images/content/sawyer07.jpg" alt=""></a>
+								        <h5>Sawyer</h5>
+								        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
+								    </div>
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 5</h5>
+								    </div>
+								 
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 6</h5>
+								    </div>
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 7</h5>
+								    </div>
+								 
+								    <div class="galleryItem">
+								        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
+								        <h5>Dog 8</h5>
+								    </div>
+								</div>
+						</div>
 				</div>
 
 

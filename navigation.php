@@ -62,13 +62,12 @@
 		<li><a href="shop.php">Shop</a>
 			<ul>
 				<li><a href="shop_cause.php">Shop for a Cause</a></li>
+				<li><a href="shop_online_obg.php">Free Ways to Help OBG</a></li>
 			</ul>
 		</li>
-
-
 		<li><a href="contact.php">Contact</a>
 			<ul>
-				<li><a href="surrender_request.php">Surrender Request</a></li>
+				<li><a href="shop_online_obg.php">Surrender Request</a></li>
 			</ul>
 		</li>
 	</ul>

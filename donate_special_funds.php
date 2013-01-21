@@ -75,16 +75,80 @@
 
 				<h1>Special Funds</h1>
 
-				<div>
-				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+				<div class="full">
+					<p>Designate how your gift is to be used!  OBG will apply your gift where it is most needed, unless you 
+						request otherwise</p>
+				</div>
+
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/general_fund.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>General Fund</h4>
+						<p>Contributions to this fund will pay for routine veterinary care, spay/neutering,  
+							food and other expenses directly related to our dogs in foster care.</p>
+					</div>
+				</div>
+
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/memorials.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>Memorials</h4>
+						<p>If you have lost a best friend, or know someone who has,  for a small 
+							donation OBG can create a memorial post on our website. <a href="http://www.cockerspanielrescue.com/rainbow/memoriam.html" target="_blank">Click here</a>  for more details.</p>
+					</div>
+				</div>
+
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/wonder_dog_fund.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>Wonder Dog Fund</h4>
+						<p>This fund was set up in tribute to Wonder Dog, a severely abused dog that came to OBG.  <a href="" target="_blank">Click here for Wonder Dogs story</a></p>
+					</div>
+				</div>
+
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/special_needs.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>Sammy's Fund for Special Needs</h4>
+						<p>Contributions to the <a href="http://www.cockerspanielrescue.com/fundraising/sammyfund.htm" target="_blank">Sammy Fund</a> will go towards 
+							specific medical diagnostics and operations for our special needs 
+							dogs. Common examples of these procedures are cataract removal, ear canal surgery, removal of mammary tumors, bladder
+							stone removal.  This fund was inspired by Sammy, who had his eyesight restored through surgery and was happily placed 
+							in a loving home.</p>
+					</div>
+				</div>
+
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/fund_for_heartworm.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>Charlotte's Fund for Heartworm</h4>
+						<p>Contributions to the <a href="http://www.cockerspanielrescue.com/fundraising/charlotte%20fund.htm" target="_blank">Charlotte Fund</a> will go specifically for heartworm pills and treatment for the OBG dogs, as well as for educational 
+							pamphlets.  Unfortunately OBG has seen many dogs come in with heartworm, which can run from $500 on up depending upon the extent of 
+							infestation and other complications. This fund was inspired by Charlotte, a darling little 3 year old who succumbed to heartworm after 
+							putting up a brave fight.</p>
+					</div>
 				</div>
 				
-
+				<div id="programs">
+					<div class="one_third">
+						<a href="#"><img src="images/content/walters_memorial_fund.jpg" alt=""></a>
+					</div>
+					<div class="two_thirds column_last">
+						<h4>Christine Walters Memorial Fund</h4>
+						<p>Contributions to this fund, in honor of artist and OBG supporter Christine Walters, will go to the care of our Special Needs patients.</p>
+					</div>
+				</div>
 				
-
-				
-				
-
 			</div>
 			
 			<!-- Start Sidebar -->
