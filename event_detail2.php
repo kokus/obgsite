@@ -54,13 +54,13 @@
 		<section class="container">
 			
 			<!-- Start Event List -->
-			<div id="events" class="page">
+			<div id="eventdetails" class="page">
 				
 				<h1>Adoption Show</h1>
-				<a href="adopt_events.php">&laquo; Back To Events</a>
+				<a class="backevents" href="adopt_events.php">&laquo; Back To Events</a>
 				
-				<!-- Start Event Item -->
-				<div class="event">
+				<!-- <div class="event">Start Event Item -->
+				
 					
 					<div class="event_date">
 						<ul class="one">
@@ -91,76 +91,69 @@
 					<p>If you plan to visit us at a show please check this page the morning of the show, in case of an unexpected cancellation or reschedule.</p>
 					
 					<!-- Start Dogs Attending Gallery -->
-					<div class="widget">
-						<div class="gallery">
-							<div class="box_heading">
-								<h2>Dogs Attending</h2>
-								<span class="line"></span>
-							</div>
-							<p>These dogs are scheduled to attend this show.  If you are interested in one of them and plan to meet them at a 
-								show, we suggest contacting their foster home (to be found at the bottom of their bio) to let them know you are 
-								coming.  That way, if that dog unexpectedly can't make it to the show, you'll be contacted.</p>
-							<ul>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450549m8471026.jpg" alt="" />
-									<p><a href="">Alexa</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450846m8471614.jpg" alt="" />
-									<p><a href="">Cara</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450866m8471646.jpg" alt="" />
-									<p><a href="">Chuck</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454858m8482247.jpg" alt="" />
-									<p><a href="">Duke</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454970m8482569.jpg" alt="" />
-									<p><a href="">Farley</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3456804m8486547.jpg" alt="" />
-									<p><a href="">Harris</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a5223056m14522117.jpg" alt="" />
-									<p><a href="">Jinx</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450549m8471026.jpg" alt="" />
-									<p><a href="">Alexa</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450846m8471614.jpg" alt="" />
-									<p><a href="">Cara</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3450866m8471646.jpg" alt="" />
-									<p><a href="">Chuck</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454858m8482247.jpg" alt="" />
-									<p><a href="">Duke</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3454970m8482569.jpg" alt="" />
-									<p><a href="">Farley</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a3456804m8486547.jpg" alt="" />
-									<p><a href="">Harris</a></p>
-								</li>
-								<li>
-									<img src="https://d1ihe8iurr5ss7.cloudfront.net/animals/thumbnails/s4707a5223056m14522117.jpg" alt="" />
-									<p><a href="">Jinx</a></p>
-								</li>
-							</ul>
-						</div>
-						
+					
+					<div class="box_heading">
+						<h2>Dogs Attending</h2>
+						<span class="line"></span>
 					</div>
+
+					<p>These dogs are scheduled to attend this show.  If you are interested in one of them and plan to meet them at a 
+						show, we suggest contacting their foster home (to be found at the bottom of their bio) to let them know you are 
+						coming.  That way, if that dog unexpectedly can't make it to the show, you'll be contacted.</p>
+							
+					<div class="gallery_container">
+					    <div class="galleryItem side-corner-tag">
+					        <a href="adopt_dog_detail_adams.php">
+					        	<img src="images/content/adams31.jpg" alt=""></a>
+					        <h5>Adams</h5>
+					        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
+					    </div>
+					 
+					    <div class="galleryItem side-corner-tag">
+					        <a href="#"><img src="images/content/gingersnap01.jpg" alt=""></a>
+					        <h5>Ginger</h5>
+
+					        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
+					    </div>
+					    <div class="galleryItem side-corner-tag">
+					        <a href="#"><img src="images/content/misty01.jpg" alt=""></a>
+					        <h5>Misty</h5>
+					        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
+					    </div>
+					 
+					    <div class="galleryItem side-corner-tag">
+					        <a href="#"><img src="images/content/sawyer07.jpg" alt=""></a>
+					        <h5>Sawyer</h5>
+					        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
+					    </div>
+					    <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 5</h5>
+					    </div>
+					 
+					    <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 6</h5>
+					    </div>
+					    <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 7</h5>
+					    </div>
+					 
+					    <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 8</h5>
+					    </div>
+					    <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 9</h5>
+					    </div>
+					     <div class="galleryItem">
+					        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+					        <h5>Dog 10</h5>
+					    </div>
+					</div>
+		
 
 					<!-- Start Location -->
 					<div id="location">
@@ -169,13 +162,13 @@
 							<span class="line"></span>
 						</div>
 						<div class="map">
-							<iframe width="438" height="194" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=7395+Lee+Highway+Falls+Church,+VA+22042&amp;sll=38.876094,-77.198369&amp;sspn=0.010541,0.021479&amp;ie=UTF8&amp;hq=&amp;hnear=7395+Lee+Hwy,+Falls+Church,+Virginia+22042&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=38.876094,-77.198369&amp;output=embed"></iframe>
+							<iframe width="438" height="194" src="http://maps.google.com/maps?oe=utf-8&amp;client=firefox-a&amp;q=5154+Nicholson+Lane+Rockville,+MD&amp;ie=UTF8&amp;hq=&amp;hnear=5154+Nicholson+Ln,+Kensington,+Maryland+20895&amp;gl=us&amp;t=m&amp;z=14&amp;ll=39.045776,-77.104395&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?oe=utf-8&amp;client=firefox-a&amp;q=5154+Nicholson+Lane+Rockville,+MD&amp;ie=UTF8&amp;hq=&amp;hnear=5154+Nicholson+Ln,+Kensington,+Maryland+20895&amp;gl=us&amp;t=m&amp;z=14&amp;ll=39.045776,-77.104395&amp;source=embed" style="color:#0000FF;text-align:left"></iframe>
 						</div>
 						<div class="one_fourth column_last">
 							<h4>Address</h4>
 							<p>
-								7395 Lee Highway<br/>
-								Falls Church, VA 22042
+								5154 Nicholson Lane<br/>
+								Rockville, MD
 							</p>
 							<p>
 								<span class="icon general">r</span> 703-641-4893 <br/>
@@ -185,8 +178,8 @@
 					</div>
 					<!-- End Location -->
 					
-				</div>
-				<!-- End Event Item -->			
+				
+				<!-- </div>End Event Item -->			
 			
 			</div>
 		</section>

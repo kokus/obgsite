@@ -94,62 +94,53 @@
 
 				<div class="gallery_container">
 				    <div class="galleryItem side-corner-tag">
-				        <a href="adopt_dog_detail_adams.php"><img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams31.jpg" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php">
+				        	<img src="images/content/adams31.jpg" alt=""></a>
 				        <h5>Adams</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
 				    </div>
 				 
 				    <div class="galleryItem side-corner-tag">
 				        <a href="#"><img src="images/content/gingersnap01.jpg" alt=""></a>
 				        <h5>Ginger</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
 				    </div>
 				    <div class="galleryItem side-corner-tag">
 				        <a href="#"><img src="images/content/misty01.jpg" alt=""></a>
 				        <h5>Misty</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
 				    </div>
 				 
 				    <div class="galleryItem side-corner-tag">
 				        <a href="#"><img src="images/content/sawyer07.jpg" alt=""></a>
 				        <h5>Sawyer</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
 				    </div>
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 5</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				 
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 6</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 7</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				 
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 8</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				    <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 9</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				     <div class="galleryItem">
 				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 10</h5>
-				        <p>Lorem ipsum dolor sit amet..</p>
 				    </div>
 				</div>
 

@@ -79,7 +79,7 @@
 				<!-- End Breadcrumb -->
 				<h1>Adams</h1>
 
-				<h2> Adult | Male </h2>
+				<h2> Adult | Male | Pending</h2>
 					<div class="two_thirds">
 						<p>Adams is a guy whose life was saved by the outstanding staff at a local shelter. This poor guy suffered alone until some caring individuals spoke up on Adams behalf. After a life of solitude, this sweet 5 year old loves any and all positive attention and is making up for lost time. Adams discovered toys and he LOVES them! He prefers the plastic or rubber squeaky ones and if you play with him, you will be tops in his eyes!</p>
 						<p>Adams is an energetic guy and will need daily walks to keep him physically fit so probably not a good match for couch potatoes. He walks perfectly on a leash. He is also housebroken.</p>

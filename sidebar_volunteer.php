@@ -68,12 +68,12 @@
 						<h5>Dogs Needing a Foster Home</h5>
 						<div class="gallery">
 							<ul>
-								<li><img src="images/content/gallery_thumb_1.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_2.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_3.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_4.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_5.jpg" alt="" /></li>
-								<li><img src="images/content/gallery_thumb_6.jpg" alt="" /></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/adams31.jpg"></a></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/sawyer07.jpg"></a></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/misty01.jpg"></a></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/boomer07.jpg"></a></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/booboo07.jpg"></a></li>
+								<li><a href="adopt_dog_detail_adams.php"><img src="images/content/arbuckle19.jpg"></a></li>
 							</ul>
 						</div>
 					</div>

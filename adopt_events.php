@@ -92,27 +92,30 @@
 					<!-- Start Event Item -->
 					<div class="list">
 						<div class="box_heading">
-							<h2>December 17, 2012</h2>
+							<h2>January 26, 2013</h2>
 							<span class="line"></span>
 						</div>
 						<div class="event_details">
-							<h5><a href="event_detail1.php">Howl-o-Ween Hayride &amp; Fall Festival!</a></h5>
-							<p>Come out to Lowelands Farm for a private OBG Hayride and fall festival. Enjoy homemade cider and treats, plus a hayride, pumpkin carving contest and a doggie costume party. Stay tuned for details.</p>
+							<h5><a href="event_detail2.php">Adoption Show</a></h5>
+							<p> The best way to meet your next best friend is to come to our regular adoption events.  You can meet, walk, 
+								and learn about many of the dogs being fostered, all in one place!  And the one you fall for "in the fur" 
+								might surprise you.  Volunteers will be on hand to discuss the dogs and help you meet your perfect match.  
+								<a href="event_detail2.php">Click for more info and to see photos of dogs attending!</a></p>
 						</div>
 						<div class="event_date">
 							<ul class="left">
 								<li>Start:</li>
 								<li>End:</li>
 								<li>Venue:</li>
-								<li>Address:</li>
-								<li>Cost:</li>
+								<li>Address:<br></li>
+								<li>Phone:</li>
 							</ul>
 							<ul class="right">
 								<li>December 17, 2012 2:00 PM</li>
 								<li>December 17, 2012 5:00 PM</li>
-								<li>Lowelands Farm</li>
-								<li>Middleburg, VA</li>
-								<li>$45</li>
+								<li>Rockville Petsmart</li>
+								<li>5154 Nicholson Lane, Rockville, MD</li>
+								<li>301-770-1343</li>
 							</ul>
 						</div>
 					</div>
@@ -121,15 +124,14 @@
 					<!-- Start Event Item -->
 					<div class="list">
 						<div class="box_heading">
-							<h2>December 22, 2012</h2>
+							<h2>February 10, 2013</h2>
 							<span class="line"></span>
 						</div>
 						<div class="event_details">
-							<h5><a href="event_detail2.php">Adoption Show</a></h5>
-							<p>The <strong>best way< to meet your next best friend is to come to our regular adoption events.  You can 
-								meet, walk, and learn about many of the dogs being fostered, all in one place!  And the one you 
-								fall for "in the fur" might surprise you.  Volunteers will be on hand to discuss the dogs and 
-								help you meet your perfect match.  Click for more info and to see photos of dogs attending!</p>						
+							<h5><a href="event_detail1.php">Longaberger Basket Party</a></h5>
+							<p>Beautiful gifts for friends, family and you!  The Longaberger Company is an American manufacturer of beautiful handcrafted 
+								maple wood baskets and offers other home and lifestyle products, including pottery, wrought iron, fabric accessories and 
+								specialty foods.  Order online or attend OBG's Longaberger party in Arlington, VA.</p>						
 						</div>
 						<div class="event_date">
 							<ul class="left">
@@ -137,14 +139,12 @@
 								<li>End:</li>
 								<li>Venue:</li>
 								<li>Address:</li>
-								<li>Phone</li>
 							</ul>
 							<ul class="right">
-								<li>January 26, 2013 11:00 am</li>
-								<li>January 26, 2013 2:00 pm</li>
-								<li>Rockville Petsmart</li>
-								<li>5154 Nicholson Lane, Rockville, MD</li>
-								<li>301-770-1343</li>
+								<li>February 10, 2013 1:00 am</li>
+								<li>February 10, 2013 #:00 pm</li>
+								<li>Arline's Home Address</li>
+								<li>Arlington, VA</li>
 							</ul>
 						</div>
 					</div>

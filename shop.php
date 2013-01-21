@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Advocate</title>
+	<title>OBG Cocker Rescue</title>
 	
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -34,86 +34,90 @@
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	
 </head>
-
 <body>
 	
 	<header>
 		<div class="container">		
-			<!-- Start Navigation -->
+		<!-- Start Navigation -->
 			<?php include("navigation.php"); ?>
-			<!-- End Navigation -->
+		<!-- End Navigation -->
+			
+			<!-- Start Social Icons -->
+			<aside>
+				<ul class="social icon">
+					<li><a href="" title="Twitter">a</a></li>
+					<li><a href="" title="Facebook">v</a></li>
+					<li><a href="" title="Flickr">d</a></li>
+					<li><a href="" title="Vimeo">c</a></li>
+					<li><a href="" title="Google">t</a></li>
+					<li><a href="" title="RSS">b</a></li>
+					<!-- More Social Icons:
+					<li><a href="" title="Picasa">e</a></li>
+					<li><a href="" title="dribbble">f</a></li>
+					<li><a href="" title="Forrst">g</a></li>
+					<li><a href="" title="deviantART">h</a></li>
+					<li><a href="" title="WordPress">i</a></li>
+					<li><a href="" title="Blogger">j</a></li>
+					<li><a href="" title="Yahoo!">k</a></li>
+					<li><a href="" title="Amazon">l</a></li>
+					<li><a href="" title="LinkedIn">m</a></li>
+					<li><a href="" title="Last.fm">n</a></li>
+					<li><a href="" title="StumbleUpon">o</a></li>
+					<li><a href="" class="Pinterest">p</a></li>
+					<li><a href="" title="Xing">q</a></li>
+					<li><a href="" title="SoundCloud">r</a></li>
+					<li><a href="" title="Delicious">s</a></li>
+					<li><a href="" title="Mail">u</a></li>
+					<li><a href="" title="Google">w</a></li>
+					-->
+				</ul>
+			</aside>
+			<!-- End Social Icons -->
 		</div>		
 	</header>
-	
 	
 	<section class="page_heading">
 		<?php include("headerlogo.php"); ?>
 	</section>
-	
+
 	<div class="page_wrapper">
 		<section class="container">
 			
-			<!-- Start Event List -->
-			<div id="eventdetails" class="page">
+			<!-- Start Page Content -->
+			<div id="about" class="page with_sidebar">
 				
-				<h1>Longaberger Basket Party</h1>
-				<a class="backevents" href="adopt_events.php">&laquo; Back To Events</a>
-			
-					
-					<div class="event_date">
-						<ul class="one">
-							<li>Event:</li>
-							<li>Start:</li>
-							<li>End:</li>
-						</ul>
-						<ul class="two">
-							<li>Longaberger Basket Party</li>
-							<li>February 10, 2012 1 pm</li>
-							<li>February 10, 2012 3 pm</li>
-						</ul>
-						<ul class="three">
-							<li>Venue:</li>
-							<li>Address:</li>
-						</ul>
-						<ul class="four">
-							<li>Arline's Home Address</li>
-							<li>Arlington, VA</li>
-						</ul>	
-					</div>
-					
-					<p>Beautiful gifts for friends, family and you!  The Longaberger Company is an American manufacturer of 
-						beautiful handcrafted maple wood baskets and offers other home and lifestyle products, including 
-						pottery, wrought iron, fabric accessories and specialty foods.  Order online or attend OBG's 
-						Longaberger party in Arlington, VA.</p>
-				
+				<!-- Start Breadcrumb -->
+				<div class="breadcrumb_navigation">
+					<ol class="breadcrumb_list">
+						<li>
+							<a href="index.php"><span>Home</span></a>
+						</li>
+						<li>
+							<span class="nav_sep">&raquo;</span>
+							<span>Shop</span>
+						</li>
+					</ol>
+				</div>
+				<!-- End Breadcrumb -->
 
-					<!-- Start Location -->
-					<div id="location">
-						<div class="box_heading">
-							<h2>Event location</h2>
-							<span class="line"></span>
-						</div>
-						<div class="map">
-							<iframe width="438" height="194" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=7395+Lee+Highway+Falls+Church,+VA+22042&amp;sll=38.876094,-77.198369&amp;sspn=0.010541,0.021479&amp;ie=UTF8&amp;hq=&amp;hnear=7395+Lee+Hwy,+Falls+Church,+Virginia+22042&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=38.876094,-77.198369&amp;output=embed"></iframe>
-						</div>
-						<div class="one_fourth column_last">
-							<h4>Address</h4>
-							<p>
+
+				<h1>Shop </h1>
 				
-								Arlington, VA 22042
-							</p>
-							<p>
-								<span class="icon general">r</span> 703-641-4893 <br/>
-							</p>
-						</div>
-						
-					</div>
-					<!-- End Location -->
-		
-			
+				<div class="full">
+					<p>These folks work tirelessly (often behind the scenes) to ensure Happy Tails - for both dogs 
+						and adopters!  Very few give more of themselves to OBG than this special group of people...</p>
+				</div>
+
+				
 			</div>
+			<!-- End Page Content -->
+			
+			<!-- Start Sidebar -->
+			<?php include("sidebar_donate.php"); ?>
+			<!-- End Sidebar --> 
+			
 		</section>
-	</div>	
+	</div>
 	
 	<!-- Footer -->
 	<?php include("footer.php"); ?>
