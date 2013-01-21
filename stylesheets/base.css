@@ -1175,6 +1175,12 @@ div.one_third img {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 } 
+/* added by JV for images float left on p*/
+	div.one_third img.leftimage {
+		float: left;
+	    padding-right: 20px;
+	}
+
 div.one_third h4 {
 	margin-bottom: 10px;
 }
@@ -1579,7 +1585,7 @@ div#events_list {
 				line-height: 23px;
 			}
 			div#events_list div.list div.event_details a {
-				text-decoration: none;
+				text-decoration: underline;
 			}
 		div#events_list div.list div.event_date {
 			float: right;
@@ -1614,7 +1620,7 @@ div#events {
 		color: #000;
 	}
 		div#events div.event p {
-			margin-bottom: 36px;
+			margin-bottom: 18px;
 		}
 		div#events div.event p.last {
 			margin-bottom: 28px;

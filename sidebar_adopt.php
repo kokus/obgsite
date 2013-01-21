@@ -46,21 +46,21 @@
 						<div class="events">
 							<ul>
 								<li>
-									<div class="date"><span>12</span><br> Jan</div>
+									<div class="date"><span>26</span><br> Jan</div>
 									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 1</a></h5>
+										<h5><a href="event_detail2.php">Rockville,MD Adoption Show</a></h5>
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span><br> May</div>
+									<div class="date"><span>26</span><br> Jan</div>
 									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 2</a></h5>
+										<h5><a href="event_detail2.php">Vienna, VA Adoption Show</a></h5>
 									</div>
 								</li>
 								<li>
-									<div class="date"><span>23</span><br> May</div>
+									<div class="date"><span>2</span><br> Feb</div>
 									<div class="details">
-										<h5><a href="event_description2.html">Adoption Show 3</a></h5>
+										<h5><a href="event_detail2.php">Arlington, VA Adoption Show</a></h5>
 									</div>
 								</li>
 							</ul>
