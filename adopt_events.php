@@ -70,7 +70,7 @@
 							</li>
 							<li>
 								<span class="nav_sep">&raquo;</span>
-								<span>Adoption Events</span>
+								<span>Events &amp; Foundraisers</span>
 							</li>
 						</ol>
 				</div>
@@ -85,7 +85,7 @@
 				
 				<div id="calendar_view">
 					<div id="calendar">
-						
+						<!-- Fullcalendar loads here! -->
 					</div>
 				</div>
 				<div id="events_list" style="display:none">
@@ -96,7 +96,7 @@
 							<span class="line"></span>
 						</div>
 						<div class="event_details">
-							<h5><a href="event_description.html">Howl-o-Ween Hayride &amp; Fall Festival!</a></h5>
+							<h5><a href="event_detail1.php">Howl-o-Ween Hayride &amp; Fall Festival!</a></h5>
 							<p>Come out to Lowelands Farm for a private OBG Hayride and fall festival. Enjoy homemade cider and treats, plus a hayride, pumpkin carving contest and a doggie costume party. Stay tuned for details.</p>
 						</div>
 						<div class="event_date">
@@ -125,10 +125,11 @@
 							<span class="line"></span>
 						</div>
 						<div class="event_details">
-							<h5><a href="event_description2.html">Adoption Show</a></h5>
-							<p>Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-							<h6>Dogs Scheduled are:</h6>
-							<p>Adams, Arbuckle, Brandy, Candy Rose, Cubby Bud, Curly Mo, Danner, Harrison, Lulu, Marley, Prada </p>
+							<h5><a href="event_detail2.php">Adoption Show</a></h5>
+							<p>The <strong>best way< to meet your next best friend is to come to our regular adoption events.  You can 
+								meet, walk, and learn about many of the dogs being fostered, all in one place!  And the one you 
+								fall for "in the fur" might surprise you.  Volunteers will be on hand to discuss the dogs and 
+								help you meet your perfect match.  Click for more info and to see photos of dogs attending!</p>						
 						</div>
 						<div class="event_date">
 							<ul class="left">
@@ -136,17 +137,18 @@
 								<li>End:</li>
 								<li>Venue:</li>
 								<li>Address:</li>
+								<li>Phone</li>
 							</ul>
 							<ul class="right">
-								<li>December 22, 2012 11:00 am</li>
-								<li>December 22, 2012 1:00 pm</li>
-								<li>Unleashed by Petco</li>
-								<li>Falls Church, VA</li>
+								<li>January 26, 2013 11:00 am</li>
+								<li>January 26, 2013 2:00 pm</li>
+								<li>Rockville Petsmart</li>
+								<li>5154 Nicholson Lane, Rockville, MD</li>
+								<li>301-770-1343</li>
 							</ul>
 						</div>
 					</div>
 					<!-- End Event Item -->
-					
 				</div>
 
 			</div>
@@ -166,21 +168,32 @@
 	jQuery(document).ready(function($) {
 
 		$("#calendar").fullCalendar({
-			events: [{
-				title: 'Howl-o-Ween Hayride & Fall Festival!',
-				start: '2013-01-19 14:00:00',
-				end: '2013-01-19 17:00:00',
+			events: [
+			{
+				title: 'Longaberger Basket Party!',
+				start: '2013-02-10 13:00:00',
+				end: '2013-02-10 15:00:00',
 				allDay: false,
-				color: '#990018;',
-				url: 'event_description.html'
-			}, {
-				title: 'Adoption Show',
+				color: '#006699;',
+				url: 'event_detail1.php'
+			}, 
+			{
+				title: 'Adoption Show (VA)',
 				start: '2013-01-26 11:00:00',
 				end: '2013-01-26 13:00:00',
 				allDay: false,
 				color: '#990018;',
-				url: 'event_description2.html'
-			}, ],
+				url: 'event_detail2.php'
+			}, 
+			{
+				title: 'Adoption Show (MD)',
+				start: '2013-01-26 11:00:00',
+				end: '2013-01-26 13:00:00',
+				allDay: false,
+				color: '#990018;',
+				url: 'event_detail2.php'
+			}, 
+			],
 			eventClick: function(event) {
 				if(event.url) {
 					parent.location = event.url;
