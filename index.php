@@ -92,6 +92,7 @@
 				<div id="revolution_wrap" class="full">
 					<div id="description" class="one_third">
 					  <h3>OBG is a 2012 Top-Rated Non-Profit!</h3>
+					  <img class="leftimage" src="images/content/topratedbadge2012A.jpg" alt="">
 						<p>Thanks to your feedback, OBG was honored  as a 2012 Top-Rated non-profit  by GreatNonprofits, the leading provider of user reviews about nonprofit organizations. </p>
 						<p>The Top-Rated Nonprofit award was based on the large number of positive   reviews that OBG received – reviews written by   volunteers, donors and clients. We are especially thrilled, given that less than 1% of eligible nonprofits have   received this distinction. </p>
 						<p><a href="http://greatnonprofits.org/organizations/view/oldies-but-goodies-obg-cocker-rescue" target="_blank">Click here to read or write a review!</a></p>
@@ -158,7 +159,7 @@
 					<!-- Start News -->
 					<div class="news one_third">
 						<div class="box_heading">
-							<h2>News</h2>
+							<h2><a href="news.php">News</a></h2>
 							<span class="line"></span>
 						</div>
 						<ul>
@@ -179,7 +180,7 @@
 					<!-- Start Events -->
 					<div class="events one_third">
 						<div class="box_heading">
-							<h2>Events</h2>
+							<h2><a href="adopt_events.php">Events</a></h2>
 							<span class="line"></span>
 						</div>
 						<ul>	
@@ -218,21 +219,21 @@
 					<!-- Start Dogs  -->
 					<div class="news one_third column_last">
 						<div class="box_heading">
-							<h2>Featured Dogs</h2>
+							<h2><a href="adopt_dogs.php">Featured Dogs</a></h2>
 							<span class="line"></span>
 						</div>
 						<ul>
 							<li>
 								<h5><a href="adopt_dog_detail_adams.php">Adams</a></h5>
 								<span><a href="adopt_dog_detail_adams.php"><img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams31.jpg" height="80px" width="80px"></a></span>
-								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
-									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
+								<p>"Adams is a guy whose life was saved by the outstanding staff at a local shelter.  After a life of solitude, this sweet 5 year old loves any and all 
+									positive attention and is making up for lost time. <a href="adopt_dog_detail_adams.php">Learn more...</a>"</p>
 							</li>
 							<li>
 								<h5><a href="adopt_dog_detail.php">Sawyer</a></h5>
 								<span><img src="images/content/sawyer07.jpg" height="80px" width="80px"></span>
-								<p>Gallia est omnis diuisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, 
-									tertiam, qui ipsorum lingua Celtae, nostra Galli appellantur. </p>
+								<p><strong>Needs a Foster!</strong> This 8 year old sweetie needs a calm foster home in which to recover from knee surgery.  
+									<a href="">Click here to learn more about all our dogs hoping for a foster home</a> </p>
 							</li>
 					  </ul>			
 					</div>

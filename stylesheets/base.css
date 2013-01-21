@@ -1175,6 +1175,12 @@ div.one_third img {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 } 
+/* added by JV for images float left on p*/
+	div.one_third img.leftimage {
+		float: left;
+	    padding-right: 20px;
+	}
+
 div.one_third h4 {
 	margin-bottom: 10px;
 }
