@@ -94,8 +94,8 @@
 
 				<div class="gallery_container">
 				    <div class="galleryItem side-corner-tag">
-				        <a href="#"><img src="images/content/cubbybud04.jpg" alt=""></a>
-				        <h5>Cubby</h5>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://www.cockerspanielrescue.com/dogs/adams12-236/adams31.jpg" alt=""></a>
+				        <h5>Adams</h5>
 				        <p>Lorem ipsum dolor sit amet..</p>
 				        <p class="ribbon ribbon_pending"><span>Pending!</span></p>
 				    </div>

@@ -576,6 +576,20 @@
 	 .galleryItem {
 	 	width: 29.33333%;
 	 }
+
+	 /* Dogs Detail Page */
+	 	/*div#dogdetails {
+	    	float: none;
+	   		width: 100%;
+		}
+			div#dogdetails .two_thirds {
+				width: 100%;
+			}
+			div#dogdetails .one_third {
+				width: 100%;
+			}
+		*/
+
 }
 
 /* For Dog Gallery - Added JV 12-21-2012 */
@@ -590,5 +604,5 @@
     .galleryItem p, {font-size: 18px;}
 }
 
-/* Ribbons Dog Status */
+/* Dog De */
 
