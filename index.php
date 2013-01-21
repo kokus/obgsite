@@ -185,33 +185,33 @@
 						</div>
 						<ul>	
 							<li>
-								<div class="date"><span>23</span><br> May</div>
+								<div class="date"><span>26</span><br> Jan</div>
 								<div class="details">
-									<h5><a href="event_description.html">Adoption Show - Springfield, VA</a></h5>
+									<h5><a href="event_detail2.php">Adoption Show - Rockville, VA</a></h5>
+									<p>11am @ Rockville Petsmart</p>
+								</div>
+							</li>
+							<li>
+								<div class="date"><span>26</span><br> Jan</div>
+								<div class="details">
+									<h5><a href="event_detail2.php">Adoption Show - Springfield, VA</a></h5>
 									<p>11am @ Springfield Petsmart</p>
 								</div>
 							</li>
 							<li>
+								<div class="date"><span>10</span><br> Feb</div>
+								<div class="details">
+									<h5><a href="event_detail1.php">Longaberger Basket Party</a></h5>
+									<p>1pm @ Arline's Home Address (Arlington, VA)</p>
+								</div>
+							</li>
+							<!--<li>
 								<div class="date"><span style="">5</span><br> Jan</div>
 								<div class="details">
 									<h5><a href="event_description.html">Adoption Show - Rockville, MD</a></h5>
 									<p>11am @ Rockville Petsmart</p>
 								</div>
-							</li>
-							<li>
-								<div class="date"><span>12</span><br> Feb</div>
-								<div class="details">
-									<h5><a href="event_description.html">Bow Wow Bowl-a-Thon</a></h5>
-									<p>3pm @ AMC Lanes Springfield</p>
-								</div>
-							</li>
-							<li>
-								<div class="date"><span>19</span><br> Feb</div>
-								<div class="details">
-									<h5><a href="event_description.html">Adoption Show - Arlington, VA</a></h5>
-									<p>12pm @ Dogma Bakery (Shirlington)</p>
-								</div>
-							</li>
+							</li> -->
 						</ul>
 					</div>
 					<!-- End Events -->

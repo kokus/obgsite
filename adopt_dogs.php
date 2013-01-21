@@ -101,45 +101,45 @@
 				    </div>
 				 
 				    <div class="galleryItem side-corner-tag">
-				        <a href="#"><img src="images/content/gingersnap01.jpg" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="images/content/gingersnap01.jpg" alt=""></a>
 				        <h5>Ginger</h5>
 				        <p class="ribbon ribbon_adopted"><span>Adopted!</span></p>
 				    </div>
 				    <div class="galleryItem side-corner-tag">
-				        <a href="#"><img src="images/content/misty01.jpg" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="images/content/misty01.jpg" alt=""></a>
 				        <h5>Misty</h5>
 				        <p class="ribbon ribbon_foster"><span>Needs Foster!</span></p>
 				    </div>
 				 
 				    <div class="galleryItem side-corner-tag">
-				        <a href="#"><img src="images/content/sawyer07.jpg" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="images/content/sawyer07.jpg" alt=""></a>
 				        <h5>Sawyer</h5>
 				        <p class="ribbon ribbon_courtesy"><span>Courtesy Post!</span></p>
 				    </div>
 				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 5</h5>
 				    </div>
 				 
 				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 6</h5>
 				    </div>
 				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 7</h5>
 				    </div>
 				 
 				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 8</h5>
 				    </div>
 				    <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 9</h5>
 				    </div>
 				     <div class="galleryItem">
-				        <a href="#"><img src="http://placehold.it/120x120" alt=""></a>
+				        <a href="adopt_dog_detail_adams.php"><img src="http://placehold.it/120x120" alt=""></a>
 				        <h5>Dog 10</h5>
 				    </div>
 				</div>

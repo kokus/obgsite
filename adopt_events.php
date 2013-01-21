@@ -142,7 +142,7 @@
 							</ul>
 							<ul class="right">
 								<li>February 10, 2013 1:00 am</li>
-								<li>February 10, 2013 #:00 pm</li>
+								<li>February 10, 2013 3:00 pm</li>
 								<li>Arline's Home Address</li>
 								<li>Arlington, VA</li>
 							</ul>
