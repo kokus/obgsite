@@ -146,11 +146,11 @@
 
 				<div class="tabs">
 						<ul class="nav">
-							<li class="current"><a class="tab_1" href="javascript:;">Adoptable</a></li>
-							<li class=""><a class="tab_2" href="javascript:;">Needs Foster</a></li>
-							<li class=""><a class="tab_3" href="javascript:;">Seniors</a></li>
+							<li class="current"><a class="adoptable" href="#">Adoptable</a></li>
+							<li class=""><a class="needs-foster" href="#">Needs Foster</a></li>
+							<li class=""><a class="seniors" href="#">Seniors</a></li>
 						</ul>
-						<div class="pane" id="tab_1" style="display: block;">
+						<div class="pane" id="adoptable" style="display: block;">
 								<div class="gallery_container">
 								    <div class="galleryItem side-corner-tag">
 								        <a href="adopt_dog_detail_adams.php">
@@ -207,7 +207,7 @@
 								    </div>
 								</div>
 						</div>
-						<div class="pane" id="tab_2" style="display: none;">
+						<div class="pane" id="needs-foster" style="display: none;">
 							<div class="gallery_container">
 								    <div class="galleryItem side-corner-tag">
 								        <a href="adopt_dog_detail_adams.php">
@@ -235,7 +235,7 @@
 
 								</div>
 						</div>
-						<div class="pane" id="tab_3" style="display: none;">
+						<div class="pane" id="seniors" style="display: none;">
 								<div class="gallery_container">
 								    <div class="galleryItem side-corner-tag">
 								        <a href="adopt_dog_detail_adams.php">
